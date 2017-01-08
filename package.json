@@ -39,6 +39,7 @@
     "build:clean": "rimraf dist/info/*",
     "build:compile": "node --harmony-async-await cli/index.js",
     "build:cpx": "cpx \"./data/**/*\" ./dist",
+    "prerelease": "cpx ./CNAME ./dist",
     "release": "gh-pages -d dist -b gh-pages -m \"[skip ci] Updates\"",
     "prewatch": "npm-run-all clean",
     "watch": "npm-run-all -p watch:*",
