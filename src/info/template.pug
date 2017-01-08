@@ -168,18 +168,21 @@ html
         li.inline-block.mr2.pb1
           i.mr1.fa.fa-lg.fa-file-code-o
           a(href="csl.json") CSL-JSON
-    if researchInfo.external_url || researchInfo.links.length !== 0
+    if researchInfo.links.length !== 0
       section.max-width-4.mx-auto.px2
         h2.px2.pb1.border-bottom Links
         ul.p0.px2.link-list
-          if researchInfo.external_url
-            li.inline-block.mr1.pb1
-              i.mr1.fa.fa-link
-              a(href=researchInfo.external_url) External Link
           for link in researchInfo.links
             li.inline-block.mr1.pb1
               i.mr1.fa.fa-link
               a(href=link.url)= link.title
+    if researchInfo.external_url
+      section.max-width-4.mx-auto.px2
+        p.px2.pb1.border-bottom.right-align
+          small
+            span.bold Source URL
+            span.px1 |
+            a(href=researchInfo.external_url)= researchInfo.external_url
     footer.max-width-4.mx-auto.px2.my3
       .center
         small &copy; #{researchInfo.copyright_holder}, #{researchInfo.issued.split('/')[0]}
