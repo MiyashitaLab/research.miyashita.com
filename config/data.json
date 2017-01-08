@@ -1,0 +1,89 @@
+{
+  "general": {
+    "isTest": false,
+    "siteName": "Miyashita Lab Research",
+    "siteUrl": "https://research.miyashita.com",
+    "searchID": "006475268403292805769:ayfwuy8akxg"
+  },
+  "researchInfo": {
+    "id": "I17",
+    "type": "paper-conference",
+    "title": "ExtensionSticker: A Proposal for a Striped Pattern Sticker to Extend Touch Interfaces and Its Assessment",
+    "author": [
+      "Kunihiro Kato",
+      "Homei Miyashita"
+    ],
+    "institution": null,
+    "issued": "2015/04/18",
+    "page": "1851-1854",
+    "container-title": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+    "keywords": [
+      "capacitive touch panel",
+      "conductive ink",
+      "continuous touch input",
+      "striped pattern sticker"
+    ],
+    "language": "English",
+    "publisher": "ACM",
+    "volume": null,
+    "issue": null,
+    "number": null,
+    "issn": null,
+    "isbn": "978-1-4503-3145-6",
+    "doi": "10.1145/2702123.2702500",
+    "pdf_url": "./test.pdf",
+    "youtube_url": "https://www.youtube.com/watch?v=x3RcAKr_z-s",
+    "links": [{
+        "title": "ACM DL",
+        "url": "http://dl.acm.org/citation.cfm?id=2702500"
+      },
+      {
+        "title": "ExtensionSticker",
+        "url": "http://miyashita.com/ExtensionSticker"
+      }
+    ],
+    "abstract": "In this study, we propose a striped pattern sticker called ExtensionSticker that allows a touch input to be transferred from an external source by simply attaching the sticker to a touch panel. This allows the user to input touches or continuous scrolling actions by touching a sticker printed with stripes of conductive ink, without directly touching the touch panel. This method could be applied to the sides or back of a touch panel, or even the surface upon which a device is located as a touch interface, allowing us to freely construct interfaces in shapes matching the demands of the user. This paper also reports the results of evaluation experiments conducted to assess the recognition accuracy of scroll and tap actions using the proposed method."
+  },
+  "researches": [{
+    "authors": [
+      "篠原祐樹",
+      "宮下芳明"
+    ],
+    "title": "歩み寄りインタフェースの提案",
+    "year": "2008",
+    "url": "/info/template.html"
+  }, {
+    "authors": [
+      "青木秀憲",
+      "宮下芳明"
+    ],
+    "title": "視覚を用いない状況下での高速楽曲探索インタフェースの設計と検証",
+    "year": "2010",
+    "url": "/info/template.html"
+  }, {
+    "authors": [
+      "内平博貴",
+      "宮下芳明"
+    ],
+    "title": "サンプリング書道：サンプラーのメタファを取り入れた書道による描画・閲覧手法の提案",
+    "year": "2010",
+    "url": "/info/template.html"
+  }, {
+    "authors": [
+      "宮下芳明",
+      "中橋雅弘"
+    ],
+    "title": "学習者のモチベーション向上のための好意的解釈を行うフィジカルコンピューティング環境のデザイン",
+    "year": "2011",
+    "url": "/info/template.html"
+  }, {
+    "authors": [
+      "中村美惠子",
+      "宮下芳明"
+    ],
+    "title": "認知ツール設計に係る認知科学および心理学的知見",
+    "year": "2012",
+    "url": "/info/template.html"
+  }]
+
+}

@@ -1,0 +1,52 @@
+{
+  "name": "research-miyashita-com",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "keywords": [],
+  "author": "3846masa",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "exists-file": "^3.0.0",
+    "fs-promise": "^1.0.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "pug": "^2.0.0-beta6",
+    "yamljs": "^0.2.8"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "cpx": "^1.5.0",
+    "csswring": "^5.1.1",
+    "eslint": "^3.13.0",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "gh-pages": "^0.12.0",
+    "jstransformer-json": "^0.0.0",
+    "mkdirp": "^0.5.1",
+    "npm-run-all": "^4.0.0",
+    "postcss-cli": "^2.6.0",
+    "postcss-cssnext": "^2.9.0",
+    "pug-cli": "^1.0.0-alpha6",
+    "rimraf": "^2.5.4"
+  },
+  "scripts": {
+    "prebuild": "npm-run-all clean -p prebuild:*",
+    "prebuild:pug": "pug --obj config/data.json --out dist src",
+    "prebuild:postcss": "postcss --use postcss-cssnext --use csswring --dir dist/style src/style/*.css",
+    "build": "npm-run-all build:clean build:compile build:cpx",
+    "build:clean": "rimraf dist/info/*",
+    "build:compile": "node --harmony-async-await cli/index.js",
+    "build:cpx": "cpx \"./data/**/*\" ./dist",
+    "release": "gh-pages -d dist -b gh-pages",
+    "prewatch": "npm-run-all clean",
+    "watch": "npm-run-all -p watch:*",
+    "watch:pug": "npm run prebuild:pug -- -w",
+    "watch:postcss": "npm run prebuild:postcss -- -w",
+    "watch:brower-sync": "browser-sync start --server dist --files dist --port 8000 --no-open",
+    "clean": "npm-run-all clean:rimraf clean:mkdirp",
+    "clean:rimraf": "rimraf dist",
+    "clean:mkdirp": "mkdirp dist dist/style"
+  }
+}

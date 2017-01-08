@@ -1,0 +1,61 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1, minimum-scale=1")
+    title= general.siteName
+    if general.isTest
+      meta(name="robots", content="none, noindex, nofollow")
+    link(rel="canonical", href=general.siteUrl)
+
+    //- description and keywords
+    meta(name="description", content=general.description)
+
+    //- OGP
+    meta(property="og:type", content="website")
+    meta(property="og:title", content=general.siteName)
+    meta(property="og:url", content=general.siteUrl)
+    meta(property="og:description", content=general.description)
+
+    //- JSON-LD
+    -
+      var schemaJSON = JSON.stringify({
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": `${general.siteName}`,
+        "url": `${general.siteUrl}/`,
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": `${general.siteUrl}/search/?q={search_term_string}`,
+          "query-input": "required name=search_term_string"
+        }
+      });
+    script(type="application/ld+json")!= schemaJSON
+
+    //- CSS
+    link(rel="stylesheet", href="/style/index.css")
+
+  body
+    header.max-width-4.mx-auto.px2
+      h1.center
+        a(href="/") Miyashita Lab Research
+      form(method="GET", action="/search").flex
+        input.flex-auto.p2(type="search", name="q", placeholder="Google Search")
+    section.max-width-4.mx-auto.px2
+      h3.center List of All Research
+      ul.block.p0
+        for research in researches
+          li.block.px1.pt2.pb1.border
+            a.block.clearfix(href=research.url)
+              .left.pb1
+                span= research.title
+              .right.pb1
+                .px1.right-align= research.authors.join(', ')
+                .px1.right-align
+                  date= research.year
+    footer.max-width-4.mx-auto.px2.my3
+      .center
+        small &copy; Miyashita Lab
+      .center
+        small By using this site, you agree to the #[a(href="/copyright") Copyright Notice].
+

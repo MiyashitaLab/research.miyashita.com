@@ -1,0 +1,32 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1, minimum-scale=1")
+    meta(name="robots", content="none, noindex, nofollow")
+    title Copyright Notice | #{general.siteName}
+    link(rel="stylesheet", href="/style/index.css")
+
+  body
+    nav.px2.pt2.pb1.border-bottom.clearfix
+      .left.col-12.md-col-2.pb1.center.nowrap
+        a(href="/") Miyashita Lab Research
+      .right.col-12.md-col-3.lg-col-2.pb1
+        form(method="GET", action="/search").flex
+          input.flex-auto.px1(type="search", name="q", placeholder="Search")
+    header.max-width-4.mx-auto.px2
+      h2.center Copyright Notice
+    section.max-width-4.mx-auto.px2
+      h3.px2.pb1.border-bottom &copy; ACM
+      .px2.lg-pl4
+        include ACM.txt
+    section.max-width-4.mx-auto.px2
+      h3.px2.pb1.border-bottom &copy; 情報処理学会
+      .px2.lg-pl4
+        include 情報処理学会.txt
+    footer.max-width-4.mx-auto.px2.my3
+      .center
+        small &copy; Miyashita Lab
+      .center
+        small By using this site, you agree to the #[a(href="/copyright") Copyright Notice].
+

@@ -1,0 +1,28 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1, minimum-scale=1")
+    meta(name="robots", content="none, noindex, nofollow")
+    title Search | #{general.siteName}
+    link(rel="stylesheet", href="/style/index.css")
+
+    script(src="https://cse.google.com/cse.js?cx=" + general.searchID, async=true)
+    script.
+      document.addEventListener('DOMContentLoaded', function () {
+        const query = new URLSearchParams(location.search.slice(1)).get('q');
+        Array.from(document.querySelectorAll('[name="q"]')).forEach((el) => {
+          el.value = query;
+        });
+      });
+  body
+    header.max-width-4.mx-auto.px2
+      h1.center
+        a(href="/") Miyashita Lab Research
+      form(method="GET", action="/search").flex
+        input.flex-auto.p2(type="search", name="q", placeholder="Google Search")
+    section.max-width-4.mx-auto.px2
+      gcse:searchresults-only
+    footer.max-width-4.mx-auto.px2.my3
+      p.center
+        span &copy; Miyashita Lab

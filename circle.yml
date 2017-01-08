@@ -1,0 +1,25 @@
+general:
+  branches:
+    only:
+      - master
+
+machine:
+  node:
+    version: 7.4.0
+
+dependencies:
+  override:
+    - npm install --dev
+
+test:
+  override:
+    - npm run build
+
+deployment:
+  publish:
+    branch: master
+    commands:
+      - git config --global user.name "circleci"
+      - git config --global user.email "circleci.com"
+      - npm run release
+
