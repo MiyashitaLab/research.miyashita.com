@@ -1,0 +1,27 @@
+id: I19
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/I19/I19.pdf'
+type: paper-conference
+title: 'An Interactive Fabrication System that Allows Users to Edit a 3D Model during 3D Printing'
+author:
+  - 'Haruki Takahashi'
+  - 'Homei Miyashita'
+abstract: 'We present an interactive fabrication system that allows users to edit a 3D model during the printing. Our technique allows users to edit nonprinted areas of a 3D model during printing by intervening in the communications between the 3D printer and the host application controlling the printer. This system provides a new fabrication environment that integrates printing with 3D modeling; it not only speeds up the trial and error process, but also allows users to create 3D models during printing. We describe the mechanism in our system in detail and discuss the capability of this technique.'
+container_title: 'In Proc. of ICDF2016'
+issued: 2016/03/03
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: ICDF
+copyright_holder: ICDF
+keywords: []
+language: en
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://iith.ac.in/~icdf16/submissions.html'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2016/I19/'

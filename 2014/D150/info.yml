@@ -1,0 +1,27 @@
+id: D150
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2014/D150/D150.pdf'
+type: paper-conference
+title: 'HoverPen: 交わらない線が描けるペンで実現可能な表現'
+author:
+  - 高橋治輝
+  - 宮下芳明
+abstract: ボールペンのノック部分をソレノイドの駆動によって制御し，描画可能領域を物理的に制御する手法を提案する．ペン先付近に装着した電極と紙面上に配置した導電部との接触状況に応じて駆動させる．これにより，ペン先が特定の領域でのみ押し出されたり，ストローク同士の衝突を避けたりすることが実現できる．実際にペン型デバイスを試作し描画を行ったところ，ペン先と紙面と接触状況を切り替えながら描画できることが確認された．また，本手法によって実現可能な表現や作例について述べる．
+container_title: 第22回インタラクティブシステムとソフトウェアに関するワークショップ
+issued: 2014/11/27
+volume: ""
+issue: ""
+number: ""
+page: 173-174
+publisher: 情報処理学会
+copyright_holder: 高橋治輝
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2014Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=Qc9z0iq3wX4'
+links: []
+url: 'https://research.miyashita.com/2014/D150/'

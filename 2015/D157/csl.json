@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D157",
+    "type": "paper-conference",
+    "title": "3Dプリンタの造形中もモデリング可能なインタラクティブ・ファブリケーション",
+    "author": [
+      {
+        "literal": "高橋治輝"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "第23回インタラクティブシステムとソフトウェアに関するワークショップ",
+    "issued": "2015/12/02",
+    "page": "13-14",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
