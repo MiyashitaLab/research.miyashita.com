@@ -1,0 +1,31 @@
+id: I17
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/I17/I17.pdf'
+type: paper-conference
+title: 'ExtensionSticker: A Proposal for A Striped Pattern Sticker to Extend Touch Interfaces and its Assessment'
+author:
+  - 'Kunihiro Kato'
+  - 'Homei Miyashita'
+abstract: 'In this paper, we propose a striped pattern sticker called ExtensionSticker that allows a touch input to be transferred from an external source by simply attaching the sticker to a touch panel. This allows the user to input touches or continuous scrolling actions by touching a sticker printed with stripes of conductive ink, without directly touching the touch panel. This method could be applied to the sides or back of a touch panel, or even the surface upon which a device is located as a touch interface, allowing us to freely construct interfaces in shapes matching the demands of the user. This paper also reports the results of evaluation experiments conducted to assess the recognition accuracy of scroll and tap actions usingthe proposed method.'
+container_title: 'Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems'
+issued: 2015/04/18
+volume: ""
+issue: ""
+number: ""
+page: 1851-1854
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'Striped pattern sticker'
+  - 'continuous touch input'
+  - 'conductive ink'
+  - 'capacitive touch panel.'
+language: en
+doi: 10.1145/2702123.2702500
+issn: ""
+isbn: 978-1-4503-3145-6
+external_url: 'http://dl.acm.org/citation.cfm?id=2702500&CFID=884773582&CFTOKEN=88202375'
+youtube_url: 'https://www.youtube.com/watch?v=x3RcAKr_z-s'
+links: []
+url: 'https://research.miyashita.com/2015/I17/'
