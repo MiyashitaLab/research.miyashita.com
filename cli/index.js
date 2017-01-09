@@ -120,7 +120,9 @@ async function convertEntry(originalEntry) {
 
   const pageURL =
     url.resolve(config.general.siteUrl, path.join(path.relative('./data', getSaveDirPath(entry)), './'));
-  entry.pdf_url = url.resolve(pageURL, `./${entry.id}.pdf`);
+  if (entry.available_pdf && entry.pdf_url) {
+    entry.pdf_url = url.resolve(pageURL, `./${entry.id}.pdf`);
+  }
   entry.url = pageURL;
 
   if (exists(YAMLPath)) {
