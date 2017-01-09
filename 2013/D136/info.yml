@@ -1,0 +1,27 @@
+id: D136
+draft: false
+available_pdf: false
+pdf_url: 'https://research.miyashita.com/2013/D136/D136.pdf'
+type: paper-conference
+title: 部品へのプロジェクションマッピングによる通電しない電子工作
+author:
+  - 秋山耀
+  - 宮下芳明
+abstract: '提案システムは，タッチパネルディスプレイ上で電子部品を仮想的に結線し，プロジェクションマッピングによって各種 LED などを発光しているように見せる電子工作環境である．音やアニメーションによるブザー・バイブレータの疑似動作，画像認識などによる入力素子の動作にも対応している．指を近づけると端子が拡大する機能により，ドラッグ操作だけで結線・断線が行える．電子部品店に設置することで未開封のまま部品の動作や仕様を確認できるほか，複数人でわいわいと作業を行うこともできる．'
+container_title: '第21回インタラクティブシステムとソフトウェアに関するワークショップ論文集 (WISS2013)'
+issued: 2013/12/04
+volume: ""
+issue: ""
+number: ""
+page: 141-142
+publisher: 情報処理学会
+copyright_holder: 秋山耀
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2013Proceedings/demo/089.pdf'
+youtube_url: 'https://www.youtube.com/watch?v=CYrQ5CENOx8'
+links: []
+url: 'https://research.miyashita.com/2013/D136/'
