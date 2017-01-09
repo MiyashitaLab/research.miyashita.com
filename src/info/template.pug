@@ -105,9 +105,10 @@ html
               src=researchInfo.youtube_url.replace('/watch?v=', '/embed/') + "?rel=0",
               frameborder="0", allowfullscreen=true
             )
-    section.max-width-4.mx-auto.px2
-      h2.px2.pb1.border-bottom Abstract
-      .px2.lg-pl4= researchInfo.abstract
+    if researchInfo.abstract
+      section.max-width-4.mx-auto.px2
+        h2.px2.pb1.border-bottom Abstract
+        .px2.lg-pl4= researchInfo.abstract
     section.max-width-4.mx-auto.px2
       h2.px2.pb1.border-bottom Information
       .px2.clearfix
