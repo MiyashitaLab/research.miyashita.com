@@ -289,5 +289,8 @@ async function generateHTML(info) {
 
   return true;
 }())
-.catch((err) => console.error(err.stack || err));
+.catch((err) => {
+  console.error(err.stack || err);
+  process.abort();
+});
 
