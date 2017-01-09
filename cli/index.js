@@ -13,10 +13,11 @@ const compileInfoHTML = pug.compileFile('./src/info/template.pug');
 const compileIndexHTML = pug.compileFile('./src/index.pug');
 
 const GDriveFileIdRegExp = /([\w_]{28,})/;
+const DropBoxFileIdRegExp = /([\w_]{15,})/;
 
 async function fetchFromGDriveURL(GDriveURL) {
   if (!GDriveFileIdRegExp.test(GDriveURL)) {
-    return Promise.resolve(false);
+    return Promise.resolve({ data: false });
   }
   const fileId = GDriveURL.match(GDriveFileIdRegExp)[1];
   return axios.request({
@@ -24,6 +25,28 @@ async function fetchFromGDriveURL(GDriveURL) {
     url: `https://docs.google.com/uc?id=${fileId}&export=download`,
     responseType: 'arraybuffer',
   });
+}
+
+async function fetchFromDropBoxURL(DropBoxURL) {
+  if (!DropBoxFileIdRegExp.test(DropBoxURL)) {
+    return Promise.resolve({ data: false });
+  }
+  const fileId = DropBoxURL.match(DropBoxFileIdRegExp)[1];
+  return axios.request({
+    method: 'GET',
+    url: `https://www.dropbox.com/s/${fileId}/_.pdf?dl=1`,
+    responseType: 'arraybuffer',
+  });
+}
+
+async function fetchFromURL(fileURL) {
+  const parsed = url.parse(fileURL);
+  if (parsed.hostname.match(/google/)) {
+    return fetchFromGDriveURL(fileURL);
+  } else if (parsed.hostname.match(/dropbox/)) {
+    return fetchFromDropBoxURL(fileURL);
+  }
+  return Promise.resolve({ data: false });
 }
 
 async function fetchEntriesFromGSheet({ spreadID, sheetID }) {
@@ -74,7 +97,11 @@ async function fetchPDF(entry) {
     return true;
   }
 
-  const { data: PDFData } = await fetchFromGDriveURL(entry.pdf_url);
+  const { data: PDFData } = await fetchFromURL(entry.pdf_url);
+  if (!PDFData) {
+    console.error(`Can't fetch.: ${entry.pdf_url}`);
+    return false;
+  }
   await fs.writeFile(PDFPath, PDFData);
   return true;
 }
