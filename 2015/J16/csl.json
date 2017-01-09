@@ -1,0 +1,24 @@
+[
+  {
+    "id": "J16",
+    "type": "article-journal",
+    "title": "紙窓：カード内領域を独立したタッチパネルディスプレイのように扱うイン タフェース",
+    "author": [
+      {
+        "literal": "加藤邦拓"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "abstract": "In this paper, we propose \"Paper Windows\", a paper interface that can use on the capacitive touch-panel display. Operating through a window on the card allows the user to use it as an independent touch-panel display. Using a paper card can give a user feeling like \"using a small touch-panel display\".  And we also propose a creating method for interface using inkjet printer with conductive ink. This allows a user to create an interface easily and at a low cost. Furthermore, we experimented on the recognition accuracy of the interface that are painted conductive points.",
+    "container-title": "ヒューマンインタフェース学会論文誌",
+    "issued": "2015/08/25",
+    "volume": "17",
+    "issue": "3",
+    "page": "245-254",
+    "publisher": "ヒューマンインタフェース学会",
+    "keyword": "conductive ink, multi-touch, card, phiysical interface",
+    "language": "ja"
+  }
+]
