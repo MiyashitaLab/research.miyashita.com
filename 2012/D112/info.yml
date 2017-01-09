@@ -1,0 +1,27 @@
+id: D112
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D112/D112.pdf'
+type: paper-conference
+title: 表現を和らげてネガティブ感情伝染を防止するブラウザ
+author:
+  - 大家眸美
+  - 宮下芳明
+abstract: 感情は伝染する．ゆえに，他人のネガティブ感情に触れることを不快に感じる人は多い．著者らはこれまで，ウェブコンテンツ上のネガティブ感情表現による精神的悪影響を緩和する手法を提案してきた．そのうちの一つである段階的換言手法は，ネガティブ感情表現を，ほぼ同意にとれるニュートラルフレーズや，印象を反転させるポジティブフレーズに換言してユーザに提示し，ネガティブな感情の伝染を防止する手法である．本手法によって印象反転されたポジティブフレーズは，しばしば事実関係が逆転することが問題視されている．本稿では，換言パターンのユーザ登録機能を実装し，ソーシャル共有可能にすることで，パターン数の増加を図った．これにより，適切な換言と不適切な換言を調査することができるようになる．また，換言段階を増やすことも可能になると考えられる．
+container_title: '第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集'
+issued: 2012/12/06
+volume: ""
+issue: ""
+number: ""
+page: 181-182
+publisher: 情報処理学会
+copyright_holder: 大家眸美
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'https://www.wiss.org/WISS2012Proceedings/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D112/'

@@ -1,0 +1,28 @@
+id: D116
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D116/D116.pdf'
+type: paper-conference
+title: 他人の技を再利用できるリドゥインタフェース
+author:
+  - 太田佳敬
+  - 中橋雅弘
+  - 宮下芳明
+abstract: デジタルツールには，同じソフトに習熟している人でもやり方が解らないような技というものがある．このような技を自分で使う場合，技を知っている人から教えてもらうか，自分でやり方を編み出す必要があるのに加え，その技を正確に再現できるほど操作に習熟していなければならない．そこで本稿では，他人の技を再利用できるシステムを提案する．本システムでは，任意のソフトウェア上で行われた全ての操作をリドゥ可能にすることで技を見る事ができる．さらにリドゥ内容に変更を加えたり，リドゥ先を自分の操作などに変更可能にし，技の再利用が行える．
+container_title: '第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集'
+issued: 2012/12/06
+volume: ""
+issue: ""
+number: ""
+page: 199-200
+publisher: 情報処理学会
+copyright_holder: '太田佳敬, 中橋雅弘'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'https://www.wiss.org/WISS2012Proceedings/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D116/'
