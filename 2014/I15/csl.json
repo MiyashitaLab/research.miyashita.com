@@ -1,0 +1,26 @@
+[
+  {
+    "id": "I15",
+    "type": "paper-conference",
+    "title": "Projectron Mapping: The Exercise and Extension of Augmented Workspaces for Learning Electronic Modeling through Projection Mapping",
+    "author": [
+      {
+        "family": "Akiyama",
+        "given": "Yoh"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "There has been research using software simulations to support the learning of electronic modeling by beginners. There have also been systems to extend workspaces and support electronic modeling on tabletop interfaces. However, in the case of software-based circuit operation, as it is not possible to operate the actual elements, the feeling of actually moving the elements is lacking. For this reason, we are proposing a system that extends the sense of reality in software simulators through the use of projection mapping. This will make it possible to actually give the impression of moving the elements by using a software simulator, and to achieve both high speed and a sense of reality through trial and error.",
+    "container-title": "Proceedings of the adjunct publication of the 27th annual ACM symposium on User interface software and technology",
+    "issued": "2014/10/05",
+    "page": "57-58",
+    "publisher": "ACM",
+    "keyword": "electronics; understanding electricity; pseudo lighting; projection mapping; tangible user interface",
+    "language": "en",
+    "DOI": "10.1145/2658779.2659113",
+    "ISBN": "978-1-4503-3068-8"
+  }
+]

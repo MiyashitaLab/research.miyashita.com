@@ -1,0 +1,30 @@
+id: I18
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/I18/I18.pdf'
+type: paper-conference
+title: 'Creating a Mobile Head-mounted Display with Proprietary Controllers for Interactive Virtual Reality Content'
+author:
+  - 'Kunihiro Kato'
+  - 'Homei Miyashita'
+abstract: 'A method to create a mobile head-mounted display (HMD) a proprietary controller for interactive virtual reality (VR) content is proposed. The proposed method uses an interface cartridge printed with a conductive pattern. This allows the user to operate a smartphone by touching on the face of the mobile HMD. In addition, the user can easily create a mobile HMD and interface cartridge using a laser cutter and inkjet printer. Changing the form of the conductive pattern allows the user to create a variety of controllers. The proposed method can realize an environment that can deliver a variety of interactions with VR content.'
+container_title: 'Adjunct Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology'
+issued: 2015/11/08
+volume: ""
+issue: ""
+number: ""
+page: 35-36
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'Interface Cartridge'
+  - 'Mobile HMD'
+  - 'Conductive Ink.'
+language: en
+doi: 10.1145/2815585.2817776
+issn: ""
+isbn: 978-1-4503-3780-9
+external_url: 'http://dl.acm.org/citation.cfm?id=2817776&CFID=884773582&CFTOKEN=88202375'
+youtube_url: 'https://www.youtube.com/watch?v=xln-u1i9BXY'
+links: []
+url: 'https://research.miyashita.com/2015/I18/'
