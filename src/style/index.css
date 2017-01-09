@@ -29,6 +29,11 @@ textarea {
     sans-serif;
 }
 
+input {
+  -webkit-appearance: none !important;
+  border-radius: 0;
+}
+
 a,
 a:hover,
 a:active,
