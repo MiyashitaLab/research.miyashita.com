@@ -1,0 +1,27 @@
+id: D168
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/D168/D168.pdf'
+type: paper-conference
+title: '熱溶解積層方式 3D プリンタにおけるエクストルーダ内での相溶性を利用した硬軟制御手法'
+author:
+  - 上野新葉
+  - 宮下芳明
+abstract: '熱溶解積層（FDM: Fused Deposition Modeling）方式の3D プリンタは低価格化によって普及が進んでいる一方で，プリント可能な素材とその種類には限りがあり，造形物には自然と制約が生まれている．そこでFDM 方式3D プリンタのエクストルーダ内での相溶を利用し，造形物の硬度を制御する手法を提案する．フィラメントを引き抜いた後，同じノズルに別のフィラメントを押し出すとき，引き抜きしきれなかったノズル内に残留している素材と押し出している素材がエクストルーダ内で混在する状態になり相溶する．本稿では硬い高分子材料である3D プリンタのフィラメントに対し，エクストルーダ内で熱可塑性エラストマーを添加することで塑性を与える．本手法は，将来的にフルカラー表現や物性の制御などFDM方式の3D プリンタにおける表現の拡張や，そうした可変に適したフィラメントの製造につながる．'
+container_title: '第24回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2016) 論文集'
+issued: 2016/12/14
+volume: ""
+issue: ""
+number: ""
+page: 309-310
+publisher: 情報処理学会
+copyright_holder: 上野新葉
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2016Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=1SkuxwYAKQY'
+links: []
+url: 'https://research.miyashita.com/2016/D168/'

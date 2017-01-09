@@ -1,0 +1,28 @@
+id: D147
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2014/D147/D147.pdf'
+type: paper-conference
+title: タッチ入力の柔軟な再配置を可能としたインタフェースの作成支援
+author:
+  - 加藤邦拓
+  - 秋山耀
+  - 宮下芳明
+abstract: '著者らはこれまでに，導電性インクを用いたタッチインタフェースの作成手法を提案してきた．これにより，タッチパネル上のインタフェースをディスプレイ外部に拡張し，実世界上に再配置することを可能とした．本稿では，こうしたインタフェースの作成支援システムを提案する．本システムにより，ユーザはインタフェースのコンポーネントをパネル上に配置するだけで，行いたい動作を実現するインタフェースを作成できる．今回プロトタイプシステムとして，ボタン，スライダ，ダイヤルの 3 種類を作成するシステムを実装した． '
+container_title: '第22回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2014) 論文集'
+issued: 2014/11/27
+volume: ""
+issue: ""
+number: ""
+page: 151-152
+publisher: 情報処理学会
+copyright_holder: 加藤邦拓
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2014Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=hM2Jfhzky48'
+links: []
+url: 'https://research.miyashita.com/2014/D147/'

@@ -1,0 +1,28 @@
+id: D164
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/D164/D164.pdf'
+type: paper-conference
+title: 表面でのタッチ操作が可能なタンジブルインタフェースの3Dプリント手法
+author:
+  - 上野新葉
+  - 加藤邦拓
+  - 宮下芳明
+abstract: '本稿では表面でのタッチ操作が可能なタンジブルインタフェースの3D プリント手法を提案する．提案手法では，導電性と非導電性の2 種類のフィラメントを用いてインタフェースを出力する．オブジェクト内部に配線を行うことでタッチ操作だけでなく，ユーザの回転操作による画面スクロールなど，入力・出力操作の変換が可能である．本稿では，提案したタンジブルインタフェースの造型手法について評価を行った．またその結果をもとに，インタフェースの試作を行った．'
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2016/03/01
+volume: 2016-HCI-167
+issue: '4'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: 2188-8760
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00157919/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2016/D164/'

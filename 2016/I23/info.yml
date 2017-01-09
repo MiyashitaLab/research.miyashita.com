@@ -1,0 +1,31 @@
+id: I23
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/I23/I23.pdf'
+type: paper-conference
+title: 'A Tangible Interface to Realize Touch Operations on the Face of a Physical Object'
+author:
+  - 'Saraha Ueno'
+  - 'Kunihiro Kato'
+  - 'Homei Miyashita'
+abstract: 'In this paper, we describe a tangible interface that can realize touch operations on a physical object. We printed physical objects that have conductive striped patterns using a multi-material 3D printer. The ExtensionSticker technique allows the user to operate capacitive touch-panel devices by tapping, scrolling, and swiping the physical object. By shaping the structure of conductive wiring inside a physical object, a variety of interfaces can be realized. We examined the conditions for using our proposed method on touch-panel devices.'
+container_title: 'Proceedings of the 29th Annual Symposium on User Interface Software and Technology'
+issued: 2016/10/16
+volume: ""
+issue: ""
+number: ""
+page: 81-83
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'Physical interface'
+  - '3D printer'
+  - 'Capacitive touch panel.'
+language: en
+doi: 10.1145/2984751.2985711
+issn: ""
+isbn: 978-1-4503-4531-6
+external_url: 'http://dl.acm.org/citation.cfm?doid=2984751.2985711'
+youtube_url: 'https://www.youtube.com/watch?v=wp-MwG6Wt6s'
+links: []
+url: 'https://research.miyashita.com/2016/I23/'

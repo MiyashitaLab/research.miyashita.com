@@ -1,0 +1,27 @@
+id: D167
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/D167/D167.pdf'
+type: paper-conference
+title: 造形高さと樹脂量の設定による熱溶解積層方式3Dプリンタの表現力拡張
+author:
+  - 高橋治輝
+  - 宮下芳明
+abstract: 熱溶解積層方式3Dプリンタで造形する際，造形時の高さや樹脂量が不適切な場合は造形エラーが発生する．一方で，造形エラーを表現力の拡張のために活用する手法群が提案されている．しかし，こういった手法では，パラメータと造形結果との関係は明らかにされていない．本稿では，パラメータ設定のための関係式を拡張し，多様なパラメータに対する樹脂の振る舞いを調査する．造形結果を6種類に分類し，パラメータの分布と造形例を示す．
+container_title: '第24回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2016) 論文集'
+issued: 2016/12/14
+volume: ""
+issue: ""
+number: ""
+page: 193-198
+publisher: 情報処理学会
+copyright_holder: 高橋治輝
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2016Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=926KP1Z8-XQ'
+links: []
+url: 'https://research.miyashita.com/2016/D167/'

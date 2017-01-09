@@ -1,0 +1,27 @@
+id: D148
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2014/D148/D148.pdf'
+type: paper-conference
+title: スーパー範囲選択：マウスドラッグによる複数選択の拡張
+author:
+  - 中屋裕登
+  - 宮下芳明
+abstract: ファイルの複数選択をマウスドラッグによって行うとき，選択項目の追加・削除を行うためにはCtrlキーを押したままクリックをするか，ファイルの左上のチェックボックスを操作する必要がある．マウスのみを用いて選択項目の変更を行う際はチェックボックスの操作が必要となるが，細かな動作が要求され，一度に複数のファイルを操作することには向いていない．本稿では，マウスドラッグによる複数選択を拡張した手法を提案する．ドラッグによる矩形生成後，一定時間その矩形の移動・変形を可能にする．また，その間もファイルの移動を可能にすることによって，ユーザの意思通りのファイル選択を実現する．
+container_title: '第22回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2014) 論文集'
+issued: 2014/11/27
+volume: ""
+issue: ""
+number: ""
+page: 155-156
+publisher: 情報処理学会
+copyright_holder: 中屋裕登
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2014Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=fl7HJxUNt0o'
+links: []
+url: 'https://research.miyashita.com/2014/D148/'
