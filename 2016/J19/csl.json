@@ -1,0 +1,24 @@
+[
+  {
+    "id": "J19",
+    "type": "article-journal",
+    "title": "ExtensionSticker: タッチパネルを拡張するインタフェース",
+    "author": [
+      {
+        "literal": "加藤邦拓"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "abstract": "In this paper, we propose \"ExtensionSticker\", a striped pattern sticker that can extend touch interface by simply attaching the sticker to a touch panel display. This sticker has multiple conductive lines, and when the user touches on the sticker, a touch input can be generated. This method is not only touch input as speci\fc locations, but allows for continuous touch input such as scrolling operation. This allows a user to prototype an interface to extend touch panel devices easily. Furthermore, we experimented on the recognition accuracy of scroll and tap actions using the proposed method.",
+    "container-title": "ヒューマンインタフェース学会論文誌",
+    "issued": "2016/02/25",
+    "volume": "18",
+    "issue": "1",
+    "page": "9-18",
+    "publisher": "ヒューマンインタフェース学会",
+    "keyword": "Conductive ink, Continuous touch input, Striped Pattern Sticker",
+    "language": "ja"
+  }
+]
