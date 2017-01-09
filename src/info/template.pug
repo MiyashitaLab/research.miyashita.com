@@ -59,10 +59,16 @@ html
     meta(property="og:title", content=researchInfo.title)
     meta(property="og:url", content=researchInfo.url)
     meta(property="og:description", content=researchInfo.abstract)
+    if researchInfo.ogp_image
+      meta(property="og:image", content=researchInfo.ogp_image)
     meta(property="article:author", content=researchInfo.author.join(', '))
 
     //- Twitter Card
-    meta(name="twitter:card", content="summary")
+    if researchInfo.ogp_image
+      meta(name="twitter:card", content="summary_large_image")
+      meta(name="twitter:image", content=researchInfo.ogp_image)
+    else
+      meta(name="twitter:card", content="summary")
     meta(name="twitter:site", content=general.twitterID)
     meta(name="twitter:title", content=researchInfo.title)
     meta(name="twitter:description", content=researchInfo.abstract)

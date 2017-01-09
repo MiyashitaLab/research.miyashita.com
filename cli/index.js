@@ -106,6 +106,29 @@ async function fetchPDF(entry) {
   return true;
 }
 
+async function fetchThumbnail(entry) {
+  if (!entry.youtube_url) {
+    return false;
+  }
+
+  const id = url.parse(entry.youtube_url, true).query.v;
+
+  const baseUrl = `https://img.youtube.com/vi/${id}/`;
+  const fetchConfig = { responseType: 'arraybuffer' };
+  const { data } =
+    await axios.get(url.resolve(baseUrl, 'maxresdefault.jpg'), fetchConfig)
+      .catch(() => axios.get(url.resolve(baseUrl, 'sddefault.jpg'), fetchConfig))
+      .catch(() => axios.get(url.resolve(baseUrl, 'hqdefault.jpg'), fetchConfig))
+      .catch(() => Promise.resolve({ data: false }));
+
+  if (!data) {
+    return false;
+  }
+  const thumbnailPath = path.join(getSaveDirPath(entry), 'thumb.jpg');
+  await fs.writeFile(thumbnailPath, data);
+  return true;
+}
+
 async function convertEntry(originalEntry) {
   const entry = Object.assign({}, originalEntry);
   const YAMLPath = path.join(getSaveDirPath(entry), './info.yml');
@@ -267,6 +290,9 @@ async function generateHTML(info) {
     await fs.mkdirs(getSaveDirPath(entry));
     await fetchPDF(entry);
     const converted = await convertEntry(entry);
+    if (await fetchThumbnail(converted)) {
+      converted.ogp_image = url.resolve(converted.url, 'thumb.jpg');
+    }
     await saveEntryAsYAML(converted);
     await generateBibTeX(converted);
     await generateCSLJSON(converted);
