@@ -1,0 +1,45 @@
+general:
+  isTest: true
+  siteName: Example Research
+  siteUrl: https://example.com
+  twitterID: @twitter
+  searchID: 'XXXXXXXXX:XXXXXXXXXX'
+researchList:
+  - author:
+      - John Smith
+    title: Example Paper
+    year: 9999
+    url: /_info.html
+  - author:
+      - John Smith
+    title: Example Paper
+    year: 9999
+    url: /_info.html
+info:
+  id: X0
+  draft: false
+  available_pdf: true
+  pdf_url: 'https://example.com/9999/X0/X0.pdf'
+  type: article-journal
+  title: Example Paper
+  author:
+    - John Smith
+  abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+  container_title: Example Journal
+  issued: 9999/01/01
+  volume: 1
+  issue: 1
+  number: null
+  page: 100-200
+  publisher: Example Org.
+  copyright_holder: John Smith
+  keywords: []
+  language: en
+  doi: XXXX/XXXX
+  issn: XXXX-XXXX
+  isbn:  XXX-X-XXXXXX-XX-X
+  external_url: https://example.com
+  youtube_url: https://www.youtube.com/watch?v=YE7VzlLtp-4
+  links: []
+  url: 'https://example.com/9999/X0/'
+  ogp_image: 'https://example.com/9999/X0/thumb.jpg'

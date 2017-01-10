@@ -29,11 +29,14 @@
     "postcss-cli": "^2.6.0",
     "postcss-cssnext": "^2.9.0",
     "pug-cli": "^1.0.0-alpha6",
-    "rimraf": "^2.5.4"
+    "rimraf": "^2.5.4",
+    "sane": "^1.5.0"
   },
   "scripts": {
     "prebuild": "npm-run-all clean -p prebuild:*",
-    "prebuild:pug": "pug --obj config/data.json --out dist src",
+    "prebuild:pug": "npm-run-all prebuild:pug:config prebuild:pug:src",
+    "prebuild:pug:config": "node cli/config-generator.js",
+    "prebuild:pug:src": "pug --obj config/data.json --out dist src",
     "prebuild:postcss": "postcss --use postcss-cssnext --use csswring --dir dist/style src/style/*.css",
     "build": "npm-run-all build:clean build:compile build:cpx",
     "build:clean": "rimraf dist/**/_*",
@@ -43,7 +46,9 @@
     "release": "gh-pages -d dist -b gh-pages -m \"[skip ci] Updates\"",
     "prewatch": "npm-run-all clean",
     "watch": "npm-run-all -p watch:*",
-    "watch:pug": "npm run prebuild:pug -- -w",
+    "watch:pug": "npm-run-all -p watch:pug:*",
+    "watch:pug:config": "sane \"npm run prebuild:pug\" config --glob \"*.yml\"",
+    "watch:pug:src": "sane \"npm run prebuild:pug\" src --glob \"**/*.pug\"",
     "watch:postcss": "npm run prebuild:postcss -- -w",
     "watch:brower-sync": "browser-sync start --server dist --files dist --port 8000 --no-open",
     "clean": "npm-run-all clean:rimraf clean:mkdirp",

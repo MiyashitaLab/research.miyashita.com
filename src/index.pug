@@ -44,13 +44,13 @@ html
     section.max-width-4.mx-auto.px2
       h3.center List of All Research
       ul.block.p0
-        for research in researches
+        for research in researchList
           li.block.px1.pt2.pb1.border
             a.block.clearfix(href=research.url)
               .left.pb1
                 span= research.title
               .right.pb1
-                .px1.right-align= research.authors.join(', ')
+                .px1.right-align= research.author.join(', ')
                 .px1.right-align
                   date= research.year
     footer.max-width-4.mx-auto.px2.my3

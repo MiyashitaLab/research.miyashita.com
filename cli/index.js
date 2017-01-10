@@ -300,7 +300,7 @@ async function generateHTML(info) {
     await generateHTML(converted);
 
     indexEntries.push({
-      authors: converted.author,
+      author: converted.author,
       title: converted.title,
       year: moment(converted.issued, 'YYYY/MM/DD').year(),
       date: moment(converted.issued, 'YYYY/MM/DD'),
@@ -308,16 +308,16 @@ async function generateHTML(info) {
     });
   }
 
+  const indexConfig = Object.assign({}, config, {
+    researchList: indexEntries.sort((a, b) => b.date - a.date),
+  });
+
   const indexHTMLPath = './dist/index.html';
-  const indexHTMLData = compileIndexHTML(Object.assign({}, config, {
-    researches: indexEntries.sort((a, b) => b.date - a.date),
-  }));
+  const indexHTMLData = compileIndexHTML(indexConfig);
   await fs.writeFile(indexHTMLPath, indexHTMLData);
 
   const sitemapXMLPath = './dist/sitemap.xml';
-  const sitemapXMLData = compileSitemapXML(Object.assign({}, config, {
-    researches: indexEntries.sort((a, b) => b.date - a.date),
-  }));
+  const sitemapXMLData = compileSitemapXML(indexConfig);
   await fs.writeFile(sitemapXMLPath, sitemapXMLData);
 
   return true;

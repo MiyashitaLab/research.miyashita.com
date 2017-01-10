@@ -3,87 +3,87 @@ html
   head
     meta(charset="utf-8")
     meta(name="viewport", content="width=device-width, initial-scale=1, minimum-scale=1")
-    title #{researchInfo.title} | #{general.siteName}
+    title #{info.title} | #{general.siteName}
     if general.isTest
       meta(name="robots", content="none, noindex, nofollow")
-    link(rel="canonical", href=researchInfo.url)
+    link(rel="canonical", href=info.url)
 
     //- Highwire Press tags
-    meta(name="citation_title", content=researchInfo.title)
-    for author in researchInfo.author
+    meta(name="citation_title", content=info.title)
+    for author in info.author
       meta(name="citation_author", content=author)
-    meta(name="citation_date", content=researchInfo.issued)
-    meta(name="citation_year", content=researchInfo.issued.split('/')[0])
-    meta(name="citation_publication_date", content=researchInfo.issued)
-    meta(name="citation_firstpage", content=researchInfo.page.split('-')[0])
-    meta(name="citation_lastpage", content=researchInfo.page.split('-').reverse()[0])
-    meta(name="citation_abstract_html_url", content=researchInfo.url)
-    if researchInfo.language
-      meta(name="citation_language", content=researchInfo.language)
-    if researchInfo.type === 'paper-conference'
-      meta(name="citation_conference", content=researchInfo.container_title)
-      meta(name="citation_conference_title", content=researchInfo.container_title)
-    else if researchInfo.container_title
-      meta(name="citation_journal", content=researchInfo.container_title)
-      meta(name="citation_journal_title", content=researchInfo.container_title)
-    if researchInfo.volume
-      meta(name="citation_volume" content=researchInfo.volume)
-    if researchInfo.issue
-      meta(name="citation_issue" content=researchInfo.issue)
-    if researchInfo.doi
-      meta(name="citation_doi", content=researchInfo.doi)
-    if researchInfo.isbn
-      meta(name="citation_isbn", content=researchInfo.isbn)
-    if researchInfo.issn
-      meta(name="citation_issn", content=researchInfo.issn)
-    if researchInfo.publisher
-      meta(name="citation_publisher", content=researchInfo.publisher)
-    if researchInfo.type === 'report' && researchInfo.institution
-      meta(name="citation_technical_report_institution", content=researchInfo.institution)
-      if researchInfo.issue
-        meta(name="citation_technical_report_number", content=researchInfo.issue)
-      else if researchInfo.number
-        meta(name="citation_technical_report_number", content=researchInfo.number)
-    if researchInfo.keywords.length !== 0
-      meta(name="citation_keywords", content=researchInfo.keywords.join('; '))
-    if researchInfo.pdf_url
-      meta(name="citation_pdf_url", content=researchInfo.pdf_url)
+    meta(name="citation_date", content=info.issued)
+    meta(name="citation_year", content=info.issued.split('/')[0])
+    meta(name="citation_publication_date", content=info.issued)
+    meta(name="citation_firstpage", content=info.page.split('-')[0])
+    meta(name="citation_lastpage", content=info.page.split('-').reverse()[0])
+    meta(name="citation_abstract_html_url", content=info.url)
+    if info.language
+      meta(name="citation_language", content=info.language)
+    if info.type === 'paper-conference'
+      meta(name="citation_conference", content=info.container_title)
+      meta(name="citation_conference_title", content=info.container_title)
+    else if info.container_title
+      meta(name="citation_journal", content=info.container_title)
+      meta(name="citation_journal_title", content=info.container_title)
+    if info.volume
+      meta(name="citation_volume" content=info.volume)
+    if info.issue
+      meta(name="citation_issue" content=info.issue)
+    if info.doi
+      meta(name="citation_doi", content=info.doi)
+    if info.isbn
+      meta(name="citation_isbn", content=info.isbn)
+    if info.issn
+      meta(name="citation_issn", content=info.issn)
+    if info.publisher
+      meta(name="citation_publisher", content=info.publisher)
+    if info.type === 'report' && info.institution
+      meta(name="citation_technical_report_institution", content=info.institution)
+      if info.issue
+        meta(name="citation_technical_report_number", content=info.issue)
+      else if info.number
+        meta(name="citation_technical_report_number", content=info.number)
+    if info.keywords.length !== 0
+      meta(name="citation_keywords", content=info.keywords.join('; '))
+    if info.pdf_url
+      meta(name="citation_pdf_url", content=info.pdf_url)
 
     //- description and keywords
-    meta(name="description", content=researchInfo.abstract)
-    if researchInfo.keywords.length !== 0
-      meta(name="keywords", content=researchInfo.keywords.join(', '))
+    meta(name="description", content=info.abstract)
+    if info.keywords.length !== 0
+      meta(name="keywords", content=info.keywords.join(', '))
 
     //- OGP
     meta(property="og:type", content="article")
-    meta(property="og:title", content=researchInfo.title)
-    meta(property="og:url", content=researchInfo.url)
-    meta(property="og:description", content=researchInfo.abstract)
-    if researchInfo.ogp_image
-      meta(property="og:image", content=researchInfo.ogp_image)
-    meta(property="article:author", content=researchInfo.author.join(', '))
+    meta(property="og:title", content=info.title)
+    meta(property="og:url", content=info.url)
+    meta(property="og:description", content=info.abstract)
+    if info.ogp_image
+      meta(property="og:image", content=info.ogp_image)
+    meta(property="article:author", content=info.author.join(', '))
 
     //- Twitter Card
-    if researchInfo.ogp_image
+    if info.ogp_image
       meta(name="twitter:card", content="summary_large_image")
-      meta(name="twitter:image", content=researchInfo.ogp_image)
+      meta(name="twitter:image", content=info.ogp_image)
     else
       meta(name="twitter:card", content="summary")
     meta(name="twitter:site", content=general.twitterID)
-    meta(name="twitter:title", content=researchInfo.title)
-    meta(name="twitter:description", content=researchInfo.abstract)
+    meta(name="twitter:title", content=info.title)
+    meta(name="twitter:description", content=info.abstract)
     meta(name="twitter:label1", content="Book title")
-    meta(name="twitter:data1", content=researchInfo.container_title)
+    meta(name="twitter:data1", content=info.container_title)
     meta(name="twitter:label2", content="Date of issue")
-    meta(name="twitter:data2", content=researchInfo.issued)
+    meta(name="twitter:data2", content=info.issued)
 
     //- JSON-LD
     -
       var schemaJSON = JSON.stringify({
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "name": researchInfo.title,
-        "url": researchInfo.url
+        "name": info.title,
+        "url": info.url
       });
     script(type="application/ld+json")!= schemaJSON
 
@@ -100,109 +100,109 @@ html
     header.max-width-4.mx-auto.px2
       .px2.mb3.border-bottom
         p.bold
-          if researchInfo.type === 'paper-conference'
+          if info.type === 'paper-conference'
             span Conference Proceedings
-          if researchInfo.type === 'article-journal'
+          if info.type === 'article-journal'
             span Journal
-          if researchInfo.type === 'report'
+          if info.type === 'report'
             span Technical Report
-          if researchInfo.type === 'thesis'
+          if info.type === 'thesis'
             span Thesis
-        h1.m0.lg-h1.h2.pb1= researchInfo.title
+        h1.m0.lg-h1.h2.pb1= info.title
         h3.right-align
-          for author in researchInfo.author
+          for author in info.author
             span.nowrap.ml2= author
             wbr
-    if researchInfo.youtube_url
+    if info.youtube_url
       section.max-width-4.mx-auto.px2
         .lg-px4
           .video-wrapper
             iframe.video-content(
-              src=researchInfo.youtube_url.replace('/watch?v=', '/embed/') + "?rel=0",
+              src=info.youtube_url.replace('/watch?v=', '/embed/') + "?rel=0",
               frameborder="0", allowfullscreen=true
             )
-    if researchInfo.abstract
+    if info.abstract
       section.max-width-4.mx-auto.px2
         h2.px2.pb1.border-bottom Abstract
-        .px2.lg-pl4= researchInfo.abstract
+        .px2.lg-pl4= info.abstract
     section.max-width-4.mx-auto.px2
       h2.px2.pb1.border-bottom Information
       .px2.clearfix
         .col.col-12.mb1
           .bold Book title
-          div= researchInfo.container_title
-        if researchInfo.volume
+          div= info.container_title
+        if info.volume
           .col.col-12.md-col-6.mb1
             .clearfix
               .left.col.col-4.bold Volume
-              .right.col.col-8= researchInfo.volume
+              .right.col.col-8= info.volume
           .col.col-12.md-col-6.mb1
             .clearfix
               .left.col.col-4.bold Issue
-              .right.col.col-8= researchInfo.issue || '---'
+              .right.col.col-8= info.issue || '---'
         .col.col-12.md-col-6.mb1
           .clearfix
             .left.col.col-4.bold Pages
-            .right.col.col-8= researchInfo.page || '---'
+            .right.col.col-8= info.page || '---'
         .col.col-12.md-col-6.mb1
           .clearfix
             .left.col.col-4.bold Date of issue
             .right.col.col-8
-              date= researchInfo.issued
-        if researchInfo.doi
+              date= info.issued
+        if info.doi
           .col.col-12.md-col-6.mb1
             .clearfix
               .left.col.col-4.bold DOI
-              .right.col.col-8= researchInfo.doi
-        if researchInfo.isbn
+              .right.col.col-8= info.doi
+        if info.isbn
           .col.col-12.md-col-6.mb1
             .clearfix
               .left.col.col-4.bold ISBN
-              .right.col.col-8= researchInfo.isbn
-        if researchInfo.issn
+              .right.col.col-8= info.isbn
+        if info.issn
           .col.col-12.md-col-6.mb1
             .clearfix
               .left.col.col-4.bold ISSN
-              .right.col.col-8= researchInfo.issn
-        if researchInfo.keywords.length !== 0
+              .right.col.col-8= info.issn
+        if info.keywords.length !== 0
           .col.col-12.mb1
             .bold Keywords
             .keyword-list
-              for keyword in researchInfo.keywords
+              for keyword in info.keywords
                 span.nowrap.mr1 #{keyword}
                 span.separator.mr1 /
                 wbr
     section.max-width-4.mx-auto.px2
       h2.px2.pb1.border-bottom Articles
       ul.p0.px2.link-list
-        if researchInfo.pdf_url
+        if info.pdf_url
           li.inline-block.mr2.pb1
             i.mr1.fa.fa-lg.fa-file-pdf-o
-            a(href=researchInfo.pdf_url) Paper (PDF)
+            a(href=info.pdf_url) Paper (PDF)
         li.inline-block.mr2.pb1
           i.mr1.fa.fa-lg.fa-file-text-o
           a(href="bibtex.bib") BibTeX
         li.inline-block.mr2.pb1
           i.mr1.fa.fa-lg.fa-file-code-o
           a(href="csl.json") CSL-JSON
-    if researchInfo.links.length !== 0
+    if info.links.length !== 0
       section.max-width-4.mx-auto.px2
         h2.px2.pb1.border-bottom Links
         ul.p0.px2.link-list
-          for link in researchInfo.links
+          for link in info.links
             li.inline-block.mr1.pb1
               i.mr1.fa.fa-link
               a(href=link.url)= link.title
-    if researchInfo.external_url
+    if info.external_url
       section.max-width-4.mx-auto.px2
         p.px2.pb1.border-bottom.right-align
           small
             span.bold Source URL
             span.px1 |
-            a(href=researchInfo.external_url)= researchInfo.external_url
+            a(href=info.external_url)= info.external_url
     footer.max-width-4.mx-auto.px2.my3
       .center
-        small &copy; #{researchInfo.copyright_holder}, #{researchInfo.issued.split('/')[0]}
+        small &copy; #{info.copyright_holder}, #{info.issued.split('/')[0]}
       .center
         small By using this site, you agree to the #[a(href="/copyright") Copyright Notice].
 

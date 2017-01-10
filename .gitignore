@@ -56,3 +56,4 @@ jspm_packages
 # Build
 /dist
 /data
+/config/*.json
