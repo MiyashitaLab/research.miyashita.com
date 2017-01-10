@@ -95,3 +95,7 @@ footer {
 .gsc-cursor-box {
   text-align: center !important;
 }
+
+.gsc-adBlock {
+  display: none !important;
+}
