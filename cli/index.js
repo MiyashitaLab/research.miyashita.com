@@ -9,8 +9,9 @@ const YAML = require('yamljs');
 const pug = require('pug');
 const config = require('../config/data.json');
 
-const compileInfoHTML = pug.compileFile('./src/info/template.pug');
+const compileInfoHTML = pug.compileFile('./src/_info.pug');
 const compileIndexHTML = pug.compileFile('./src/index.pug');
+const compileSitemapXML = pug.compileFile('./src/_sitemap.pug');
 
 const GDriveFileIdRegExp = /([\w_]{28,})/;
 const DropBoxFileIdRegExp = /([\w_]{15,})/;
@@ -303,7 +304,7 @@ async function generateHTML(info) {
       title: converted.title,
       year: moment(converted.issued, 'YYYY/MM/DD').year(),
       date: moment(converted.issued, 'YYYY/MM/DD'),
-      url: path.join('/', path.relative('./data', getSaveDirPath(converted)), './'),
+      url: converted.url,
     });
   }
 
@@ -312,6 +313,12 @@ async function generateHTML(info) {
     researches: indexEntries.sort((a, b) => b.date - a.date),
   }));
   await fs.writeFile(indexHTMLPath, indexHTMLData);
+
+  const sitemapXMLPath = './dist/sitemap.xml';
+  const sitemapXMLData = compileSitemapXML(Object.assign({}, config, {
+    researches: indexEntries.sort((a, b) => b.date - a.date),
+  }));
+  await fs.writeFile(sitemapXMLPath, sitemapXMLData);
 
   return true;
 }())

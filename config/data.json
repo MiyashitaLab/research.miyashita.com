@@ -53,7 +53,7 @@
     ],
     "title": "歩み寄りインタフェースの提案",
     "year": "2008",
-    "url": "/info/template.html"
+    "url": "/_info.html"
   }, {
     "authors": [
       "青木秀憲",
@@ -61,7 +61,7 @@
     ],
     "title": "視覚を用いない状況下での高速楽曲探索インタフェースの設計と検証",
     "year": "2010",
-    "url": "/info/template.html"
+    "url": "/_info.html"
   }, {
     "authors": [
       "内平博貴",
@@ -69,23 +69,7 @@
     ],
     "title": "サンプリング書道：サンプラーのメタファを取り入れた書道による描画・閲覧手法の提案",
     "year": "2010",
-    "url": "/info/template.html"
-  }, {
-    "authors": [
-      "宮下芳明",
-      "中橋雅弘"
-    ],
-    "title": "学習者のモチベーション向上のための好意的解釈を行うフィジカルコンピューティング環境のデザイン",
-    "year": "2011",
-    "url": "/info/template.html"
-  }, {
-    "authors": [
-      "中村美惠子",
-      "宮下芳明"
-    ],
-    "title": "認知ツール設計に係る認知科学および心理学的知見",
-    "year": "2012",
-    "url": "/info/template.html"
+    "url": "/_info.html"
   }]
 
 }

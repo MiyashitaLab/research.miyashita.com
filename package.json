@@ -36,7 +36,7 @@
     "prebuild:pug": "pug --obj config/data.json --out dist src",
     "prebuild:postcss": "postcss --use postcss-cssnext --use csswring --dir dist/style src/style/*.css",
     "build": "npm-run-all build:clean build:compile build:cpx",
-    "build:clean": "rimraf dist/info/*",
+    "build:clean": "rimraf dist/**/_*",
     "build:compile": "node --harmony-async-await cli/index.js",
     "build:cpx": "cpx \"./data/**/*\" ./dist",
     "prerelease": "cpx ./CNAME ./dist",
