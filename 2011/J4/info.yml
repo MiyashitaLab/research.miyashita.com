@@ -1,0 +1,27 @@
+id: J4
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/J4/J4.pdf'
+type: article-journal
+title: 学習者のモチベーション向上のための好意的解釈を行うフィジカルコンピューティング環境のデザイン
+author:
+  - 宮下芳明
+  - 中橋雅弘
+abstract: 'This paper describes MOTIVATION, the physical computing environment that is intended to motivate the user. By using this system the user can develop programs running under Windows, HTML5, and mbed. The compiler approves mistakes such as misspelling or missing variable declaration, and by using programming language HMMMML the user can make programs with a few lines.'
+container_title: ヒューマンインタフェース学会論文誌
+issued: 2011/11/25
+volume: '13'
+issue: '4'
+number: ""
+page: 303-313
+publisher: ヒューマンインタフェース学会
+copyright_holder: ヒューマンインタフェース学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'https://www.his.gr.jp/paper/archives.cgi?c=download&pk=67'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2011/J4/'

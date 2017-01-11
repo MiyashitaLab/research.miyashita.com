@@ -8,7 +8,7 @@ author:
   - 'Haruki Takahashi'
   - 'Homei Miyashita'
 abstract: 'We present an interactive fabrication system that allows users to edit a 3D model during the printing. Our technique allows users to edit nonprinted areas of a 3D model during printing by intervening in the communications between the 3D printer and the host application controlling the printer. This system provides a new fabrication environment that integrates printing with 3D modeling; it not only speeds up the trial and error process, but also allows users to create 3D models during printing. We describe the mechanism in our system in detail and discuss the capability of this technique.'
-container_title: 'In Proc. of ICDF2016'
+container_title: 'Proceedings of 2nd International Conference on Digital Fabrication'
 issued: 2016/03/03
 volume: ""
 issue: ""
