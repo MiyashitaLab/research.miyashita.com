@@ -267,7 +267,7 @@ async function generateCSLJSON(info) {
 
 async function generateHTML(info) {
   const HTMLPath = path.join(getSaveDirPath(info), './index.html');
-  const HTMLData = compileInfoHTML(Object.assign({}, config, { researchInfo: info }));
+  const HTMLData = compileInfoHTML(Object.assign({}, config, { info }));
   await fs.writeFile(HTMLPath, HTMLData);
 }
 
