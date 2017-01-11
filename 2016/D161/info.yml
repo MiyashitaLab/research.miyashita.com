@@ -1,0 +1,27 @@
+id: D161
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/D161/D161.pdf'
+type: paper-conference
+title: 鑑賞位置を指定する展示作品に対する鑑賞領域拡張手法
+author:
+  - 林初実
+  - 宮下芳明
+abstract: 本稿では，人に合わせて向きを変える装置を用いた鑑賞領域拡張手法を提案する．芸術作品などには，鑑賞者の視点を固定することで初めてその作品が持つ面白さを示せるものや，作者が理想とする鑑賞位置を持つものがある．ただしそのような鑑賞位置を示すには，ガイドや足跡マークなどによる誘導が必要である．また，その位置に鑑賞者が移動しなくては作品の持つ面白さを理解できないという問題点がある．そこで，人に追従する展示装置を用いることで，初回鑑賞時から鑑賞者が位置を探らずとも最適な角度で作品を鑑賞することを可能にした．
+container_title: インタラクション2016論文集
+issued: 2016/02/24
+volume: ""
+issue: ""
+number: ""
+page: 278-280
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: ""
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2016/D161/'
