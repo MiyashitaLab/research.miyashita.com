@@ -87,6 +87,7 @@ footer {
   }
 }
 
+// Google Search
 .gsc-control-cse,
 .gsc-control-cse .gsc-table-result {
   font-family: inherit !important;
@@ -98,4 +99,11 @@ footer {
 
 .gsc-adBlock {
   display: none !important;
+}
+
+@media (max-width: 40em) {
+  html, body {
+    font-size: 15px;
+    line-height: 1.75;
+  }
 }
