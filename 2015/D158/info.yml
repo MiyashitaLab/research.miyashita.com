@@ -1,0 +1,27 @@
+id: D158
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/D158/D158.pdf'
+type: paper-conference
+title: プロジェクションマッピングによる箏への奏法提示
+author:
+  - 土井麻由佳
+  - 宮下芳明
+abstract: '本稿では,箏を対象とした奏法支援システムを提案する.提案システムは 11 種類の奏法に対応しており,プロジェクションマッピングによって撥弦位置と奏法を示す.提示情報は運指別に色分けしており,奏法によって提示情報も異なる.また爪輪を蛍光塗料で塗り,ブラックライトで光らせることによって,暗いところでも色を把握できるようにした.'
+container_title: '第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集'
+issued: 2015/12/02
+volume: ""
+issue: ""
+number: ""
+page: 181-182
+publisher: 情報処理学会
+copyright_holder: '土井麻由佳; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2015Proceedings/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2015/D158/'
