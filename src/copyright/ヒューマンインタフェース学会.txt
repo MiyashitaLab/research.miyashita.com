@@ -2,4 +2,4 @@
 本著作物の著作権はヒューマンインタフェース学会に帰属します。
 ご利用に当たっては「著作権法」ならびに「ヒューマンインタフェース学会著作権規程」に従うことをお願いいたします。
 <br>
-Copyright(C) 1999- Human Interface Society, All rights reserved.
+The copyright of this material is retained by Human Interface Society (HIS). This material is published on this web site with the agreement of the HIS. Please comply with Copyright Law of Japan and the Copyright rules of the HIS if any users wish to reproduce, make derivative work, distribute or make available to the public any part or whole thereof.
