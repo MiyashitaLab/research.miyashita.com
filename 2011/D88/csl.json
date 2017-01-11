@@ -1,0 +1,23 @@
+[
+  {
+    "id": "D88",
+    "type": "paper-conference",
+    "title": "チームプレゼン！",
+    "author": [
+      {
+        "literal": "永瀬翔"
+      },
+      {
+        "literal": "栗原一貴"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "第19回インタラクティブシステムとソフトウェアに関するワークショップ論文集",
+    "issued": "2011/12/01",
+    "page": "221-223",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

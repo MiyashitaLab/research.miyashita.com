@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D86",
+    "type": "paper-conference",
+    "title": "金額を実感する入力手法の提案",
+    "author": [
+      {
+        "literal": "中村美惠子"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "第19回インタラクティブシステムとソフトウェアに関するワークショップ論文集",
+    "issued": "2011/12/01",
+    "page": "176-178",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
