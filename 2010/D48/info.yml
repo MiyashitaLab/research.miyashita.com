@@ -1,0 +1,28 @@
+id: D48
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D48/D48.pdf'
+type: paper-conference
+title: 'Balloon Chat：発言されないコメントも浮かばれるチャット'
+author:
+  - 山中祥太
+  - 宮下芳明
+abstract: 'アイデアを集める目的のチャットでさえ,多くのコメントが発言すらされないまま消されている.発言者はコメントを記述した後に,その内容が現在の議論の流れに対して適切なタイミングか,適切な話題か,そして適切な品質かを自己評価し,不適切だと判断したものは発言せずに削除しているのである.本稿ではこうした発言も集められるチャットシステムのデザインを考察した.提案システムでは,発言のタイミングや話題を後から移動可能であり,発言されることなく消されてしまった 5 文字以上のテキストは,匿名の発言として共有のリサイクル箱に集められる.ここに埋もれている発言を取り出し,話題として取り上げることも可能である.'
+container_title: 第18回インタラクティブシステムとソフトウェアに関するワークショップ
+issued: 2010/12/01
+volume: ""
+issue: ""
+number: ""
+page: 189-191
+publisher: 情報処理学会
+copyright_holder: '山中祥太; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2010Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=56UYC2ZcYGg'
+links: []
+url: 'https://research.miyashita.com/2010/D48/'
+ogp_image: 'https://research.miyashita.com/2010/D48/thumb.jpg'

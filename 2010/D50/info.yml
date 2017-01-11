@@ -1,0 +1,28 @@
+id: D50
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D50/D50.pdf'
+type: paper-conference
+title: 'Bar-code Based Community：ソフト/ハードの区別なく同じツールのユーザ同士を繋げる仕組み'
+author:
+  - 清水和晃
+  - 宮下芳明
+abstract: '同じツールを利用するユーザについての情報や,それらのユーザが感じたことを共有できる基盤は少ない.本稿では,基本的に販売時にしか利用されていないバーコードを,同じツールを持つ者同士をつなげる手段として利用するシステムを提案する.ハードウェアの場合はバーコードを ID に,ソフトウェアの場合は実行ファイル名からバーコード/ID を生成し,対応するチャット空間を用意できる.バーコードによる認識によって,ユーザはソフトウェア/ハードウェアの区別なく,あらゆるツールのもとに集うことができる.そして,同じツールのユーザ同士が疑問に思ったこと等を書き込むことで,問題解決や共感につながるコミュニティ形成を促す.'
+container_title: 第18回インタラクティブシステムとソフトウェアに関するワークショップ
+issued: 2010/12/01
+volume: ""
+issue: ""
+number: ""
+page: 183-185
+publisher: 情報処理学会
+copyright_holder: '清水和晃; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2010Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=e7HBCmbnOSs'
+links: []
+url: 'https://research.miyashita.com/2010/D50/'
+ogp_image: 'https://research.miyashita.com/2010/D50/thumb.jpg'
