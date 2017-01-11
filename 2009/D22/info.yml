@@ -1,0 +1,29 @@
+id: D22
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2009/D22/D22.pdf'
+type: paper-conference
+title: 多人数参加型当たり判定
+author:
+  - 小久江卓哉
+  - 中村貴洋
+  - 宮下芳明
+abstract: 本稿で提案する「多人数参加型当たり判定」とは，ゲームプレイの模様が実況中継されるシステムにおいて，ゲームの当たり判定をオーディエンスによる多数決で決定するものである．それにより，オーディエンスは観戦者兼審判としてゲームに緩やかな介入が行え，また「審判としての眼力」を競い合うこともできる．提案システムでは，ゲームプレイに介入できるインタラクティビティと，オーディエンス同士で眼力を競うゲーム性が付与されるため，これまで鑑賞に耐えられなかったレベルのプレイであっても「楽しむ」ことが可能になると考えている．
+container_title: 第17回インタラクティブシステムとソフトウェアに関するワークショップ
+issued: 2009/12/02
+volume: ""
+issue: ""
+number: ""
+page: 163-164
+publisher: 情報処理学会
+copyright_holder: '小久江卓哉; 中村貴洋; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2009Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=uZqTTbapG0Y'
+links: []
+url: 'https://research.miyashita.com/2009/D22/'
+ogp_image: 'https://research.miyashita.com/2009/D22/thumb.jpg'
