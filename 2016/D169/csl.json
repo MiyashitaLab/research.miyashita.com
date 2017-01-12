@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D169",
+    "type": "paper-conference",
+    "title": "足音遅延フィードバックが歩行におよぼす影響の分析",
+    "author": [
+      {
+        "literal": "松尾良馬"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "第24回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2016) 論文集",
+    "issued": "2016/12/14",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
