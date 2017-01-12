@@ -1,0 +1,27 @@
+id: J8
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/J8/J8.pdf'
+type: article-journal
+title: 食メディアにおける味情報提示手法のサーベイ
+author:
+  - 中村裕美
+  - 宮下芳明
+abstract: 食メディアに関する研究には，料理情報の共有や調理工程の分析と支援，食事内容の記録や分析，健康維持のための食事環境支援，共食におけるコミュニケーションの分析，支援，味情報の計測や提示などが含まれる．本論文では，近年活発に展開されるようになった情報科学技術を活用した味情報の提示手法を対象に，該当する研究や技術展開を直接提示型と間接提示型の2つに分類し，各分類の特性を議論したうえでサーベイを行った．また，これらの研究領域や技術の今後の動向と食メディアへの貢献について議論した．
+container_title: コンピュータソフトウェア
+issued: 2013/01/25
+volume: '30'
+issue: '1'
+number: ""
+page: 65-75
+publisher: 日本ソフトウェア科学会
+copyright_holder: 日本ソフトウェア科学会
+keywords: []
+language: ja
+doi: 10.11309/jssst.30.1_65
+issn: 0289-6540
+isbn: ""
+external_url: 'https://www.jstage.jst.go.jp/article/jssst/30/1/30_1_65/_article/-char/ja/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/J8/'

@@ -1,0 +1,27 @@
+id: J17
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/J17/J17.pdf'
+type: article-journal
+title: 細長いターゲットのドラッグ開始を支援する手法とその評価
+author:
+  - 山中祥太
+  - 宮下芳明
+abstract: ウィンドウの縁を移動してリサイズする操作のように，細長いターゲットをドラッグアンドドロップ(DnD)するには，正確な操作と十分な時間が必要である．本稿ではこういった操作を支援する手法Cross-dragを提案し，実際のGUI環境で利用するためのシステムを実装した．また既存のポインティング支援手法を利用した場合との比較議論によって，DnD操作におけるCross-dragの性能を考察した．さらに提案手法の有用性を検証するために，ターゲットの縦横サイズ，およびターゲット間の距離を変更したDnDタスクを行い，操作時間とエラー率を従来手法と比較した．実験により，多く条件下でCross-dragの有用性が確認された．
+container_title: コンピュータソフトウェア
+issued: 2016/02/06
+volume: '33'
+issue: '1'
+number: ""
+page: 111-125
+publisher: 日本ソフトウェア科学会
+copyright_holder: 日本ソフトウェア科学会
+keywords: []
+language: ja
+doi: 10.11309/jssst.33.1_111
+issn: 0289-6540
+isbn: ""
+external_url: 'https://www.jstage.jst.go.jp/article/jssst/33/1/33_1_111/_article/-char/ja/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2016/J17/'
