@@ -16,7 +16,13 @@ number: ""
 page: 11-23
 publisher: 芸術科学会
 copyright_holder: '吉川祐輔; 宮下芳明'
-keywords: []
+keywords:
+  - 画像処理
+  - 錯覚表現
+  - 不可能立体
+  - 'image processing'
+  - 'illusion expression'
+  - 'impossible objects'
 language: ja
 doi: ""
 issn: ""

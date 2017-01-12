@@ -1,0 +1,27 @@
+id: J2
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/J2/J2.pdf'
+type: article-journal
+title: 視覚を用いない状況下での高速楽曲探索インタフェースの設計と検証
+author:
+  - 青木秀憲
+  - 宮下芳明
+abstract: 今日，数百万曲規模の楽曲ライブラリを対象とした音楽探索インタフェースが多く提案されているが，一般には携帯音楽プレイヤに数百曲しか保持しないという実情がある．この小規模なライブラリを対象として，特定楽曲を「視覚を用いずに」選択することは困難である．本論文で提案するインタフェースFFFは，ボタン押下間に楽曲のサビ冒頭部を連続的に高速再生し，ボタンの解放によって選曲を行うものである．サビ区間の幅や再生速度を調整し，ユーザの操作遅延を補正する機構を設けることにより，初めて使用するユーザでも従来の5倍速い探索が行えることを実験で明らかにした．また熟達によりこの探索速度はさらに向上することも実証した．
+container_title: 情報処理学会論文誌
+issued: 2010/02/15
+volume: '51'
+issue: '2'
+number: ""
+page: 356-364
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: 1882-7764
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00067960/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/J2/'
