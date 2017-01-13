@@ -1,0 +1,27 @@
+id: D18
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2009/D18/D18.pdf'
+type: paper-conference
+title: サンプラーのメタファーを取り入れた書道表現システム
+author:
+  - 内平博貴
+  - 宮下芳明
+abstract: 本稿では，電子楽器であるサンプラーのメタファーを取り入れる事による書道の新しい表現手法を提案する．目的は描画ツールで困難であった筆のかすれなどの表現を容易にする事と，楽器としてのサンプラーのメタファーを取り入れる事により書道の新しい表現方法を提案する事である．本システムはモデルとなる書をマウスポインタでなぞる事によってスキャニングし，描画画面でサンプル群を出力する事により描画を行う．本研究はさらにミキサーやエンベロープ・ジェネレータといった機能を導入し，出力画像の編集を行えるように改良している．
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2009/05/08
+volume: 2009-HCI-133
+issue: '5'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: 0919-6072
+external_url: 'http://id.nii.ac.jp/1001/00062244/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2009/D18/'

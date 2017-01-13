@@ -1,0 +1,28 @@
+id: D15
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2009/D15/D15.pdf'
+type: paper-conference
+title: 不可能立体の写実的表現手法の提案
+author:
+  - 篠原祐樹
+  - 宮下芳明
+abstract: 本論文では，不可能立体を含むシーンをレイトレーシング法を用いてレンダリングすることによって写実的な画像を生成する手法を提案する．また，モデリングからレンダリングまでの一連の作業を行うことの出来るシステムを制作し，ユーザが簡単かつ効率的に不可能立体の表現が行える枠組みを構築する．
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2009/03/06
+volume: '2009'
+issue: 28(2009-HCI-132)
+number: ""
+page: 95-102
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: 0919-6072
+external_url: 'http://id.nii.ac.jp/1001/00061711/'
+youtube_url: 'https://www.youtube.com/watch?v=cKHKVgVbc5s'
+links: []
+url: 'https://research.miyashita.com/2009/D15/'
+ogp_image: 'https://research.miyashita.com/2009/D15/thumb.jpg'

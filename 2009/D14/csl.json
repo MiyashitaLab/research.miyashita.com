@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D14",
+    "type": "paper-conference",
+    "title": "不可能立体のレイトレーシング",
+    "author": [
+      {
+        "literal": "篠原祐樹"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "インタラクション2009論文集",
+    "issued": "2009/03/05",
+    "page": "143-144",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

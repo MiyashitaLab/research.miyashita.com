@@ -1,0 +1,27 @@
+id: D25
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D25/D25.pdf'
+type: paper-conference
+title: プログラミングに対するモチベーションを向上させる新言語HMMMMLの開発
+author:
+  - 宮下芳明
+abstract: '本稿では，プログラミングに対して後ろ向きになっている学生のモチベーションを高めることを目的として新言語をデザイン・実装した．提案言語 HMMMML がまず目指したのは{}の完全廃止であり，ループや条件判定のためのタグ命令を用意した．提案システムではセミコロン抜けや宣言忘れなどのミスも許容して実行されるよう工夫している．また，音声合成による文字列の読み上げ，インターネットを利用した検索や翻訳，MIDI 音の出力，Google マップの表示といった処理が 1 命令で実行可能である．HMMMML エディタのインタフェースには無限ループボタンを用意し，これを利用することでカーソルキーによるキャラクタ操作やペイントプログラムも1行で記すことが出来る．さらに，C や Java や Javascript など他言語と混在・混同して書いても実行できるといった特徴を備えている．'
+container_title: 第51回プログラミング・シンポジウム予稿集
+issued: 2010/01/12
+volume: '2010'
+issue: ""
+number: ""
+page: 57-64
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00091429/'
+youtube_url: 'https://www.youtube.com/watch?v=HJH3q3E3ab0'
+links: []
+url: 'https://research.miyashita.com/2010/D25/'
+ogp_image: 'https://research.miyashita.com/2010/D25/thumb.jpg'
