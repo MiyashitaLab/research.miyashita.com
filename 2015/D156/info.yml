@@ -1,0 +1,31 @@
+id: D156
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/D156/D156.pdf'
+type: paper-conference
+title: 拡縮操作による柔軟なレーティングインタフェースの提案
+author:
+  - 若林裕太
+  - 加藤淳
+  - 濱崎雅弘
+  - 後藤真孝
+  - 宮下芳明
+abstract: 'コンテンツに評価付けをするレーティングインタフェースは，Web 上でのユーザ同士のコミュニケーションや推薦システムの構築を目的に使われている．しかし，既存のレーティングインタフェースでは，スケールや上下限が決められた上でレーティングをおこなわなければならず，ユーザの意図を十分に反映しきれないという問題があった．そこで本稿では，オブジェクトの大きさを変えることでレーティングをおこなう，拡縮レーティングインタフェースを提案する．これにより，ユーザは上限がなく連続的なスケールのもとで，柔軟にレーティングをおこなうことが可能になる．'
+container_title: '第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集'
+issued: 2015/12/02
+volume: ""
+issue: ""
+number: ""
+page: 151-152
+publisher: 情報処理学会
+copyright_holder: '若林裕太; 加藤淳; 濱崎雅弘; 後藤真孝; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2015Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=fkErskRhS6k'
+links: []
+url: 'https://research.miyashita.com/2015/D156/'
+ogp_image: 'https://research.miyashita.com/2015/D156/thumb.jpg'

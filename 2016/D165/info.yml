@@ -1,0 +1,28 @@
+id: D165
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/D165/D165.pdf'
+type: paper-conference
+title: PomPom：紙巻きオルゴール漫画の制作支援システムの提案
+author:
+  - 越後宏紀
+  - 宮下芳明
+abstract: 本稿の対象は，紙巻きオルゴールを用いて物語と音楽を同時に楽しむ「紙巻きオルゴール漫画」である．紙巻きオルゴール漫画においては，穴の位置は音を奏でるだけではなく，絵柄と整合した位置におかれる必要がある．しかし，実際に紙へ穴をあけてしまうと取り消すことができない．よって試行錯誤して制作することは困難である．そこで本稿では，画面上のシートに穴をあけて音楽をプレビューすることができ，その穴をもとに絵を描くことができる紙巻きオルゴール漫画の制作支援システム「PomPom」を提案・実装し，その有用性について評価した．
+container_title: 映像情報メディア学会技術報告
+issued: 2016/03/02
+volume: '40'
+issue: '11'
+number: ""
+page: 269-272
+publisher: 映像情報メディア学会
+copyright_holder: 映像情報メディア学会
+keywords: []
+language: ja
+doi: ""
+issn: 1342-6893
+isbn: ""
+external_url: 'http://ci.nii.ac.jp/naid/110010055927'
+youtube_url: 'https://www.youtube.com/watch?v=2nfCFhLHzMk'
+links: []
+url: 'https://research.miyashita.com/2016/D165/'
+ogp_image: 'https://research.miyashita.com/2016/D165/thumb.jpg'

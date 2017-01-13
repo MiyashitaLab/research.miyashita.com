@@ -1,0 +1,27 @@
+id: D141
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2014/D141/D141.pdf'
+type: paper-conference
+title: '日本初3Dプリンター屋オープン 変遷とこれから'
+author:
+  - 中村翼
+  - 宮下芳明
+abstract: '近年，デジタル・ファブリケーションの動きが主流になる可能性が高いなかで，個人向け3Dプリンタが多く開発されてきている．クリス・アンダーソンは「3Dプリンタは，なんでも生み出す魔法のになる[1]」と述べている．しかしながら，現在はまだ3Dプリンタというものを実際に見たことがない人もまだ多く． メディアなどで日々報道されてはいるが，実際に使ったことがある人は多くはいない．本編第一著者は，3Dプリンターは使うに至らないのは大衆がまだどんなものが造れるか想像ができないからであると考えた．そこで3Dプリンタを開かれた場所に出して，その結果何が起こるか実験をおこなった． '
+container_title: エンタテインメントコンピューティングシンポジウム2014論文集
+issued: 2014/09/12
+volume: '2014'
+issue: ""
+number: ""
+page: 162-167
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00102927/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2014/D141/'

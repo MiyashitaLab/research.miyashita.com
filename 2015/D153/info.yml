@@ -1,0 +1,28 @@
+id: D153
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/D153/D153.pdf'
+type: paper-conference
+title: 'コメントイン: コメントを先に書くことによる新形態のAPIリファレンス'
+author:
+  - 薄羽大樹
+  - 宮下芳明
+abstract: 本稿では，「使うべきAPIの仕様が分からないユーザ」を対象とし，コメントを先に書くことによる新形態のAPIリファレンス「コメントイン」を提案する．ユーザがコメントを入力すると，システムはそのコメントに関連して「そのプログラミング言語でできること」を推薦する．候補一覧から「やりたかったこと」をプレビュー・選択することを基本操作とし，ユーザはプログラムを記述していく．これにより，ユーザは仕様が分からない命令をも簡単に自身のプログラムに取り入れることが可能になる．また，評価実験により，提案システムを用いることで，仕様が分からない命令の追加，プログラムの修正が可能であることも示した．
+container_title: '第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集'
+issued: 2015/12/02
+volume: ""
+issue: ""
+number: ""
+page: 67-72
+publisher: 情報処理学会
+copyright_holder: '薄羽大樹; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2015Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=wnXBYoBeNv4'
+links: []
+url: 'https://research.miyashita.com/2015/D153/'
+ogp_image: 'https://research.miyashita.com/2015/D153/thumb.jpg'

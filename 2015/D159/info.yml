@@ -1,0 +1,28 @@
+id: D159
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/D159/D159.pdf'
+type: paper-conference
+title: ドラッグで配線できる基板による電子工作支援
+author:
+  - 秋山耀
+  - 宮下芳明
+abstract: '本稿では専用ペンのドラッグによって配線を行える基板を提案する．縦 5 個横 5 個に並んだ正方形(インタフェース部)上に素子を設置し，専用のペンでドラッグすることで結線・断線を行える．インタフェース部の接続関係をリレーで操作することにより，配線を変更できる基板とした．また，PC と連携することでショート回避機能や回路の保存・読み込み機能を基板に付加することに成功した．'
+container_title: '第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集'
+issued: 2015/12/02
+volume: ""
+issue: ""
+number: ""
+page: 183-184
+publisher: 情報処理学会
+copyright_holder: '秋山耀; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2015Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=1CRq5bLOMLU'
+links: []
+url: 'https://research.miyashita.com/2015/D159/'
+ogp_image: 'https://research.miyashita.com/2015/D159/thumb.jpg'

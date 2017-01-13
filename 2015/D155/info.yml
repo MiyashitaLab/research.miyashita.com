@@ -1,0 +1,28 @@
+id: D155
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2015/D155/D155.pdf'
+type: paper-conference
+title: ゲームにおけるプレイヤ戦略の床清掃ロボットへの適用
+author:
+  - 大場直史
+  - 宮下芳明
+abstract: '床清掃ロボットは複数のセンサで室内を把握し，AI アルゴリズムによってその空間をくまなく清掃しようとする．しかし，その効率は現状では低く，探索の無駄や未清掃領域が指摘されている．人間がプレイするゲームには「複雑な形状のフィールドを限られた時間・情報量・移動量で探索する」タスクが与えられるが，このタスクに対し，多くのプレイヤが主体的・無報酬で参加するだけでなく，多様で優れた解決戦略を生み出している．そこで筆者らは，人間に陣取りゲームを行わせることによって戦略を引き出し，その戦略を床清掃ロボットに適用した．評価実験を行った結果，床清掃ロボットに内蔵されている AI アルゴリズムによる探索よりも陣取りゲームの高得点者の探索のほうが優れていることを示した．'
+container_title: '第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集'
+issued: 2015/12/02
+volume: ""
+issue: ""
+number: ""
+page: 145-146
+publisher: 情報処理学会
+copyright_holder: '大場直史; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.wiss.org/WISS2015Proceedings/'
+youtube_url: 'https://www.youtube.com/watch?v=lRXe2AJ1SWg'
+links: []
+url: 'https://research.miyashita.com/2015/D155/'
+ogp_image: 'https://research.miyashita.com/2015/D155/thumb.jpg'
