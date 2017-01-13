@@ -1,0 +1,28 @@
+id: D11
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2008/D11/D11.pdf'
+type: paper-conference
+title: マンガ的手法を用いたニコニコ動画ナビゲーション
+author:
+  - 中村貴洋
+  - 青木秀憲
+  - 宮下芳明
+abstract: '本稿では，一度視聴したことのある映像コンテンツの中で印象に残ったシーンを再び見返す場合に，効率よくそのシーンを見つけるためのシステムを試作した．その映像コンテンツがニコニコ動画のものだとしたときに，コメント数が多いシーンほどより印象に残りやすいと考え，コメント数の多いところからサムネイル画像を取り出し，コメント数が多いほど大きいサイズで表示して並べ，各サムネイルには最頻コメントが吹き出しとして付与されるマンガ的な手法で一覧できるようにし，そのコマを選択することで映像を再生できるようにした．本稿では 4 つのバリエーションをもたせたシステムの評価実験によって，このシステムデザインの有効性を示した． '
+container_title: 情報処理学会研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2008/10/30
+volume: '2008'
+issue: 106(2008-HCI-130)
+number: ""
+page: 103-110
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00036529/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2008/D11/'

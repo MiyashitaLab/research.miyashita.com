@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D4",
+    "type": "paper-conference",
+    "title": "文字認識「する側」と「される側」を歩み寄らせるインタフェース",
+    "author": [
+      {
+        "literal": "篠原祐樹"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "インタラクション2008論文集",
+    "issued": "2008/03/03",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

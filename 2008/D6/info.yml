@@ -1,0 +1,28 @@
+id: D6
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2008/D6/D6.pdf'
+type: paper-conference
+title: ニコニコ動画における映像要約とサビ検出の試み
+author:
+  - 青木秀憲
+  - 宮下芳明
+abstract: '本稿では，ウェブサービス「ニコニコ動画」でのコメント頻度によってその映像にともなう音楽のサビ部分の検出や映像要約に応用可能なのかを検証すべく，様々なジャンルの映像をとりあげ評価を行った． '
+container_title: 情報処理学会研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2008/05/21
+volume: '2008'
+issue: 50(2008-HCI-128)
+number: ""
+page: 37-42
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00036546/'
+youtube_url: 'https://www.youtube.com/watch?v=r5nV__spCTI'
+links: []
+url: 'https://research.miyashita.com/2008/D6/'
+ogp_image: 'https://research.miyashita.com/2008/D6/thumb.jpg'

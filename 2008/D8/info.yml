@@ -1,0 +1,27 @@
+id: D8
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2008/D8/D8.pdf'
+type: paper-conference
+title: 実写画像によるポップアップカード生成
+author:
+  - 加納崇光
+  - 宮下芳明
+abstract: '本稿では、建物や人物を撮影したスナップ写真などの実写画像を入力とし、その 2 次元の画像をもとにポップアップカードを作成できるソフトウェアの研究開発をおこなった。このソフトウェアでは入力された実写画像が格子状に区切られ、その格子を選択、編集することによってポップアップカードの展開図を生成することができる。また前景抽出アルゴリズムを用いることにより、均一な背景の画像では被写体となったオブジェクトを自動で判別し飛び出させることも可能である。これらの機能を用いることにより誰でも簡単に 3 次元形状をあらわすポップアップカードを作ることができ、ギフトカードやメッセージカードなど身近な贈り物として用いることが可能となった。 '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2008/07/31
+volume: '2008'
+issue: 79(2008-HCI-129)
+number: ""
+page: 12-20
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00036533/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2008/D8/'
