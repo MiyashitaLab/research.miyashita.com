@@ -1,0 +1,28 @@
+id: D55
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D55/D55.pdf'
+type: paper-conference
+title: 'SeekRopes: 複数スライダとシークロープによる音楽制作'
+author:
+  - 青木惇季
+  - 宮下芳明
+abstract: '本稿第二著者らは紐のメタファでシークバーを拡張した SeekRope を提案してきた．時間軸を持たない平面上に，時間軸を表すロープを配置することにより直感的な音楽鑑賞を行える．従来の音楽制作ツールは，横軸に一方向の時間軸を持った波形表示のインタフェースであるが，本稿では，このSeekRope を発展させ，音楽制作の新しいスタイルを提案する．'
+container_title: インタラクション2011論文集
+issued: 2011/03/10
+volume: ""
+issue: ""
+number: ""
+page: 429-432
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
+youtube_url: 'https://www.youtube.com/watch?v=5d9lq1_e2b4'
+links: []
+url: 'https://research.miyashita.com/2011/D55/'
+ogp_image: 'https://research.miyashita.com/2011/D55/thumb.jpg'

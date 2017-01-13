@@ -1,0 +1,28 @@
+id: D40
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D40/D40.pdf'
+type: paper-conference
+title: エモーションホイールを用いた感情実況インタフェースの提案
+author:
+  - 青島さやか
+  - 青木惇季
+  - 宮下芳明
+abstract: '近年，twitter や SNS の普及に伴い，自己の思想・状況や気持ちをインターネット上で伝え合うことが日常的になっている．本稿では，エモーションホイールを用いた感情実況インタフェースと，感情のみによるノンバーバルコミュニケーションの枠組みを提案する．提案システムでは極座標平面上のクリック操作により twitter に感情を 「つぶやける」 だけでなく，タイムライン上の感情ログやフォロワーの感情的な分布を表示できるビューア機能も備えている．'
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2010/07/23
+volume: 2010-HCI-139
+issue: '5'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: 0919-6072
+external_url: 'http://id.nii.ac.jp/1001/00070055/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/D40/'

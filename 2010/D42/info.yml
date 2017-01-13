@@ -1,0 +1,27 @@
+id: D42
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D42/D42.pdf'
+type: paper-conference
+title: 知覚的解釈を促すノートツール
+author:
+  - 中村美恵子
+  - 宮下芳明
+abstract: '本稿では図形や色などの視覚的な情報が知覚的に解釈されることを利用し，後から見返した時でも印象に残る講義ノートを作成できるノートツールの開発を行った．講義ノートはノート PC でとることが多いため，操作が煩雑となるポインティングデバイスを使用することなく，キーボード操作のみでテキストの入力とその装飾まで行えるようにした．そのために，テキストボックスの自動生成機能と装飾コマンド実行のための 「どつき実行」 機能を実装した．'
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2010/07/23
+volume: 2010-HCI-139
+issue: '12'
+number: ""
+page: 1-6
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: 0919-6072
+external_url: 'http://id.nii.ac.jp/1001/00070062/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/D42/'

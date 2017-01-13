@@ -1,0 +1,27 @@
+id: D39
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D39/D39.pdf'
+type: paper-conference
+title: グラフィカルデータフローによる調理レシピプログラミング言語の提案
+author:
+  - 吉川祐輔
+  - 宮下芳明
+abstract: '本稿では，調理レシピを記述するためのデータフロープログラミング言語を提案する．提案手法でレシピを記述することで，調理と食材の流れを視覚的に把握しつつ，構造化されたレシピを得ることができるようになる．本稿ではさらに，調理レシピをデータフロープログラミング言語として表すために必要な要件と，もたらされるであろう未来について述べる． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2010/07/23
+volume: 2010-HCI-139
+issue: '4'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: 0919-6072
+external_url: 'http://id.nii.ac.jp/1001/00070054/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/D39/'

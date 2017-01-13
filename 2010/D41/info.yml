@@ -1,0 +1,27 @@
+id: D41
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D41/D41.pdf'
+type: paper-conference
+title: マンガのコマ割り表現を用いたプレゼンテーションツール
+author:
+  - 藤本雄太
+  - 宮下芳明
+abstract: '従来のプレゼンテーションは，同じ形状・サイズの四角いスライドを 1 枚ずつ用いているため，全体の構成もメリハリのない均質なものとなりがちである．そこで本稿では，マンガのコマ割りの技法を導入し，自由な形状とサイズのコマをレイアウトして，時には複数の情報を同時に見せられるプレゼンテーションを作成するツールを提案する． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2010/07/23
+volume: 2010-HCI-139
+issue: '11'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: 0919-6072
+external_url: 'http://id.nii.ac.jp/1001/00070061/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/D41/'
