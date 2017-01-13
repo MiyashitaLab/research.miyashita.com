@@ -1,0 +1,27 @@
+id: D96
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D96/D96.pdf'
+type: paper-conference
+title: 'ToolBaCo: 提示型の情報共有コミュニティ'
+author:
+  - 清水和晃
+  - 宮下芳明
+abstract: 現代のツールは様々な使用目的を想定しているため多機能であり，個々のユーザにとって有用な機能を探し出すことは容易ではない．普段我々はこのような問題に対し他人と問題意識を共有したり，有用な機能を教えてもらうことで対処をする．しかし現在のインターネット上での知識共有は，フォーマルな文章化が必要であったり，情報を適切に探し出す能力が求められるため，他のユーザの知識を十分に活用できているとは言えない．そこで著者らは，現在使っているツールを認識しそのツール専用のコミュニティに自動でアクセスするメディアを開発した．これによりユーザは情報を探し出すというアクションをしなくても，そのツールに対する意見や議論を感じながら作業をすることができる．
+container_title: インタラクション2012論文集
+issued: 2012/03/15
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D96/'

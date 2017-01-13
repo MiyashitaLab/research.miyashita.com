@@ -1,0 +1,27 @@
+id: D99
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D99/D99.pdf'
+type: paper-conference
+title: 映像鑑賞と飲食行為の連動
+author:
+  - 中村裕美
+  - 宮下芳明
+abstract: 本研究では，映像鑑賞と飲食行為を連動させる手法を提案する．これまで筆者らは電気味覚を飲食物に付加する装置を味の出力装置として提案してきた．今回我々は電気味覚付加装置を新たに入力装置として用いる手法を提案し，飲む，食べる行動を検出する手法を提案する．この手法によって，飲食に合わせて映像を変化させたり，あるいは味質を変化させたりといった様々なインタラクションを実現することができる．本研究ではさらに，味覚の知覚レイテンシと視覚のレイテンシを計測し，提案手法でのタイミング調節について考察を行う．
+container_title: インタラクション2012論文集
+issued: 2012/03/15
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D99/'
