@@ -1,0 +1,28 @@
+id: D67
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D67/D67.pdf'
+type: paper-conference
+title: 'CatchyAccount2:金額の知覚的解釈による家計簿'
+author:
+  - 中村美惠子
+  - 宮下芳明
+abstract: '本稿では，金額を図形の面積で表示することにより，その大きさやそれぞれの関係を実感するためのシステムの提案を行う．面積一定のまま図形を変形する機能の他に，タイムラインによる表示や実際の貨幣イメージの AR 表示によって，貨幣価値を実感するためのインタフェースの検討を行った．'
+container_title: 第10回NICOGRAPH春季大会予稿集
+issued: 2011/03/25
+volume: ""
+issue: ""
+number: ""
+page: 192-193
+publisher: 芸術科学会
+copyright_holder: '中村美惠子; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://art-science.org/dl/nicograph/program2011s.html'
+youtube_url: 'https://www.youtube.com/watch?v=qtUHcsuHydw'
+links: []
+url: 'https://research.miyashita.com/2011/D67/'
+ogp_image: 'https://research.miyashita.com/2011/D67/thumb.jpg'

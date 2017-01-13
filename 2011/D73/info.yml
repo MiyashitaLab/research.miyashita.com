@@ -1,0 +1,28 @@
+id: D73
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D73/D73.pdf'
+type: paper-conference
+title: ノリ乗り－観客のノリを動画に乗せて疑似ライブ感を共有するシステムの提案－
+author:
+  - 吉田有花
+  - 宮下芳明
+abstract: 'アーティストや DJ などのライブイベントは，パフォーマと観客が一体となって作り上げるものである．現在，動画共有サイトでは，様々なライブイベントを非同期に鑑賞することができる．しかし，ライブイベントにおける醍醐味である「観客同士が一緒に体を動かして盛り上がる」ことは，非同期メディアゆえに実現していない．そこで我々は，動画の前に立つ観客の「ノリ」を重畳することで，非同期メディアであっても擬似ライブ感を共有できるシステムを開発した．'
+container_title: エンタテインメントコンピューティングシンポジウム2011論文集
+issued: 2011/10/07
+volume: ""
+issue: ""
+number: ""
+page: 232-234
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://ec2011.entcomp.org/program/'
+youtube_url: 'https://www.youtube.com/watch?v=6i2zUad4lRA'
+links: []
+url: 'https://research.miyashita.com/2011/D73/'
+ogp_image: 'https://research.miyashita.com/2011/D73/thumb.jpg'
