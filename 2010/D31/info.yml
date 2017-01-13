@@ -1,0 +1,27 @@
+id: D31
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2010/D31/D31.pdf'
+type: paper-conference
+title: 'Seek Rope：曲げて切って結べるシークバー'
+author:
+  - 佐藤剛
+  - 宮下芳明
+abstract: '本稿では，シークバーの概念を拡張し，単に再生するだけではなく編集機能も包含したインタフェース シークロープ を提案する．このシステムは，固定されている棒（バー）のメタファではなく，柔軟に曲がる紐（ロープ）のメタファでインタフェースを再考したものである．時間軸を意味する線分を紐のように扱うことができ，「曲げる」「切る」「結ぶ」といった機能を持つ．これにより，シークバーの特性である再生位置のわかりやすさと再生位置の変更のしやすさを残しつつ，プレイリストの作成やコンテンツ編集を柔軟に行うことが出来る．'
+container_title: インタラクション2010論文集
+issued: 2010/03/01
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2010/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/D31/'

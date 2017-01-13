@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D32",
+    "type": "paper-conference",
+    "title": "デザイン書道のためのウェーブテーブル方式シンセサイザ",
+    "author": [
+      {
+        "literal": "内平博貴"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "インタラクション2010論文集",
+    "issued": "2010/03/01",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
