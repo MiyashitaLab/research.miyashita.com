@@ -1,0 +1,29 @@
+id: D121
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D121/D121.pdf'
+type: paper-conference
+title: '音響マクロ : マウス操作の音響記録・再生・配信と編集'
+author:
+  - 太田佳敬
+  - 高橋治輝
+  - 中橋雅弘
+  - 宮下芳明
+abstract: '本稿では，マウス操作を音響信号に変換して保存することで，あらゆる操作を音として保存・再生を可能にするシステムを提案する．変換した音は任意の音響編集ソフトウェアで編集する事ができ，操作の変更や切り出し，結合などができる．さらに，既存の音楽配信手法をそのまま利用できるため，様々な方法で操作を配信することが可能になる． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2013/01/25
+volume: 2013-HCI-151
+issue: '12'
+number: ""
+page: 1-2
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00089450/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D121/'

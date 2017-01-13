@@ -1,0 +1,28 @@
+id: D103
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D103/D103.pdf'
+type: paper-conference
+title: トランプ型ファイルブラウジング手法の提案
+author:
+  - 鈴木悠司
+  - 井川洋平
+  - 宮下芳明
+abstract: 従来のエクスプローラでのファイルの閲覧・探索は，階層構造によるフォルダ表現と，階層ごとに分割されたファイル表示によって行われていた．これら二つはファイル探索に大きな手間を取らせる要因だと考える．そこで，本稿ではトランプ型ファイルブラウジング手法を提案する．本手法により，フォルダの構造を俯瞰的に認識しながら，探し出したいファイルを見つけることが可能となり，ファイル探索行為の手間を軽減し，効率的にファイルを見つけ出すことができる．
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2012/05/25
+volume: 2012-HCI-148
+issue: '3'
+number: ""
+page: 1-6
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00082483/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D103/'

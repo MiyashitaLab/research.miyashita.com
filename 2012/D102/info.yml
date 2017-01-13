@@ -1,0 +1,29 @@
+id: D102
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D102/D102.pdf'
+type: paper-conference
+title: 創作時間そのものを利用したリミックス
+author:
+  - 太田佳敬
+  - 中橋雅弘
+  - 宮下芳明
+abstract: '創作時間とは，絵を描くときのペン (筆) のストロークや映像制作時にエフェクトをかける操作などといった，コンテンツを作る際の作業工程全体のことである．本稿では，あらゆるコンテンツ制作ソフトウェア上で行われた創作時間をブロックとして保存し，並び替えや他の作品との組み合わせにより新しい作品を作る，新たなリミックス手法を提案する．これにより，従来の完成された作品を利用したリミックスとは違った表現が可能になる． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2012/05/25
+volume: 2012-HCI-148
+issue: '2'
+number: ""
+page: 1-6
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00082482/'
+youtube_url: 'https://www.youtube.com/watch?v=mfw-PehGdbE'
+links: []
+url: 'https://research.miyashita.com/2012/D102/'
+ogp_image: 'https://research.miyashita.com/2012/D102/thumb.jpg'

@@ -1,0 +1,27 @@
+id: D101
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D101/D101.pdf'
+type: paper-conference
+title: コンテンツリストにおけるインタラクション手法の提案
+author:
+  - 山中祥太
+  - 宮下芳明
+abstract: 'コンテンツが 1 軸方向に並べられたリストでは，個々の項目が持つ情報の一部にしか触れることができず，限られたインタラクションしか行うことができない．本稿で提案する手法は，コンテンツの並びに直交する方向をなぞることによるインタラクションである．音楽や動画のシークや，PDF ファイルやウェブページのスクロールをリスト上で行うことができ，コンテンツの内容に応じた操作が可能になる．本稿ではこの手法を搭載したプロトタイプのソフトウェア群と実世界インタフェース群を実装し，そのランドスケープから考察を行った． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2012/03/14
+volume: 2012-HCI-147
+issue: '11'
+number: ""
+page: 1-8
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00081239/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D101/'

@@ -1,0 +1,27 @@
+id: D106
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/D106/D106.pdf'
+type: paper-conference
+title: Webコンテンツに対するプレゼンテーション形式での表現手法
+author:
+  - 大島裕樹
+  - 宮下芳明
+abstract: プレゼンテーション資料は，文字情報量が適度に抑えられ，書式や画像による視覚効果もあり，理解しやすい情報提示を実現している．さらに，スライド単位で情報を扱うことで，閲覧者に情報を理解するための区切りを提供していると考えられる．本稿ではその特徴に着目し，膨大な情報量が扱われるWebコンテンツをプレゼンテーション形式で表現することで，閲覧性を高める手法を提案する．
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2012/07/12
+volume: 2012-HCI-149
+issue: '11'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00082853/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2012/D106/'
