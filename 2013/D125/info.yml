@@ -1,0 +1,27 @@
+id: D125
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D125/D125.pdf'
+type: paper-conference
+title: 陰極刺激の提示と停止による塩味味覚感度制御
+author:
+  - 中村裕美
+  - 宮下芳明
+abstract: '舌へ陰極刺激提示を行うと，刺激提示中は塩味が阻害されるが，刺激を停止した後には「塩味をさらに強く感じさせる」効果があることが Hettinger らの研究で明らかになっている．本稿ではこの知見を応用し，減塩を支援するシステムを構築した．提案システムは食器(ストローまたはフォーク)と一体化した陰極刺激付加装置をもち，さらに飲食行動検知機構を備えている．飲食行動を検知すると，食品を媒介としてユーザの舌に陰極刺激を付加し，その後停止する．ユーザは，刺激停止後に塩味が強まったような感覚を得られる．このため，塩味の物足りない食事であっても，新たに塩分を付加せずにその感覚を増強することができ，過剰な塩分摂取を防ぐことができると考えられる．'
+container_title: インタラクション2013論文集
+issued: 2013/02/28
+volume: ""
+issue: ""
+number: ""
+page: 103-110
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D125/'

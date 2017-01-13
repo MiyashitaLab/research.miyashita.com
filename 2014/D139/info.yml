@@ -1,0 +1,28 @@
+id: D139
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2014/D139/D139.pdf'
+type: paper-conference
+title: 自由なテンポで演奏した複数の録音データから楽曲を生成するシステム
+author:
+  - 川名勇気
+  - 宮下芳明
+abstract: '本研究では，1 つの楽曲を制作する際に，各パートの奏者がテンポを自由に演奏した録音データを統合して，合奏を行っているような楽曲を生成できるシステムを提案する．複数の録音データのテンポを同期させるための 「マーク付け」 と，生成する楽曲のテンポとなる 「指揮データ」 を選択することで，他の録音データがこの指揮データに合わせて合奏しているかのような音楽を生成することができる．本システムによって，現在の録音方法で用いられている，ガイドリズムのクリック音や既存の演奏のテンポに合わせて演奏を行うといった方法をとる必要がなくなる．そのため，奏者はテンポに合わせることから解放され，自由に演奏を行うことができるので演奏表現が十分に発揮される．また，楽曲の制作者は，DAW 上での複雑な作業から解放される．これまでは，テンポが既に決まっている楽曲を 1 つしか作ることができなかったが，本システムでは録音データの数だけ指揮データを選ぶことができるため，テンポによって生まれる音楽表現について，楽曲の創造の幅を広げることが可能となっている．'
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2014/03/06
+volume: 2014-HCI-157
+issue: '17'
+number: ""
+page: 1-8
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00099194/'
+youtube_url: 'https://www.youtube.com/watch?v=tiKt72dF4QE'
+links: []
+url: 'https://research.miyashita.com/2014/D139/'
+ogp_image: 'https://research.miyashita.com/2014/D139/thumb.jpg'

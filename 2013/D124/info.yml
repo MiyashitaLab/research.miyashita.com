@@ -1,0 +1,27 @@
+id: D124
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D124/D124.pdf'
+type: paper-conference
+title: 信頼性を下げることによる感情緩和表現
+author:
+  - 大家眸美
+  - 宮下芳明
+abstract: 'Twitter 等におけるネガティブな感情表現の不快感を緩和する手法として，筆者らはこれまでポジティブな表現に言い換える手法を提案してきたが，本稿では，その文章の信頼性を下げる言い換えを行うことによって緩和する手法を提案する．信頼性を下げる手法としては，文章に文字化けを混入させたり，誤変換を行ったり，むやみなカタカナ語を使用したり，文末を変更することによって他人が言っていたことにしたり夢オチにすることによって実現している． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2013/01/25
+volume: 2013-HCI-151
+issue: '15'
+number: ""
+page: 1-2
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00089453/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D124/'

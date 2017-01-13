@@ -1,0 +1,27 @@
+id: D128
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D128/D128.pdf'
+type: paper-conference
+title: 笑いや拍手を誘発するプレゼンテーションシステム
+author:
+  - 嶋本諒太
+  - 宮下芳明
+abstract: '本稿では笑いの誘発性に着目し，発表中に意図的にラフトラックを再生して聴衆の笑いを誘発し，プレゼンテーションを盛り上げるシステムを提案する．提案システムは聴衆が持参した PC に常駐し，発表者の PC と無線通信を行う．特定のスライドが出現したとき，あるいは発表者がエンターキーを押したときに，聴衆のPCから様々な笑い声が出力され，プレゼンテーション会場全体から発せられるラフトラックとして聴衆の笑いを誘発する．また，拍手の音を出力することで拍手を誘発する機能も備えている．笑いや拍手によって場を盛り上げることは，たとえそれがシステムによって誘発されたものであったとしても，発表者の気分向上やモチベーション維持につながり，一方で聴衆がプレゼンテーションを理解する上でも，その内容の区切りや面白さを把握するための助けとなる．'
+container_title: インタラクション2013論文集
+issued: 2013/02/28
+volume: ""
+issue: ""
+number: ""
+page: 226-231
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D128/'

@@ -1,0 +1,27 @@
+id: D131
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D131/D131.pdf'
+type: paper-conference
+title: イヤホンを用いたスマートフォンの操作と個人認証
+author:
+  - 山本涼太
+  - 宮下芳明
+abstract: 本稿ではスマートフォン端末内部の磁気センサに着目し，イヤホンの移動による磁束密度の変化を利用した非接触の入力手法を提案する．画面にスクロールバーなどのユーザインタフェースを表示することもなく，また指で遮蔽することもないため，情報の描画領域を全画面に保ったままの操作が行える．またイヤホンの種類，端末に対する位置，方向の違いによって磁気センサの値が変化することを調査し，その差異に基づいた個人認証手法を提案する．
+container_title: インタラクション2013論文集
+issued: 2013/02/28
+volume: ""
+issue: ""
+number: ""
+page: 626-656
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D131/'

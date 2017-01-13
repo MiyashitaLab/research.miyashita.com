@@ -1,0 +1,27 @@
+id: D134
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D134/D134.pdf'
+type: paper-conference
+title: 文章の不快感レベルを制御する手法群とその実装
+author:
+  - 大家眸美
+  - 宮下芳明
+abstract: '怒りや悲しみなどの否定的感情を含む文章は，読者に不快感を与え，そういった感情がさらに他人に伝染していく現象も報告されている．本稿では，文章が不快感を与えるレベルを制御することを目指し，不快感をもたらす文章表現を書き換える手法として，婉曲化手法・リフレーミング手法・文末表現変更手法・腰砕け手法・表現誇張手法を提案する．さらに，否定的な感情が伝染するのを緩和する手法として，段階的換言手法，ユーザによる感情表現の換言，そして無機能ボタンによる意思表明という手法を提案する．これらの手法を用いて実際に Twitter のつぶやきにおける不快感レベルを制御するシステムの試作・運用を行った．'
+container_title: インタラクション2013論文集
+issued: 2013/02/28
+volume: ""
+issue: ""
+number: ""
+page: 550-555
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D134/'

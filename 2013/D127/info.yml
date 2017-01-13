@@ -1,0 +1,27 @@
+id: D127
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D127/D127.pdf'
+type: paper-conference
+title: 磁気ヘッドと磁気テープを用いたヴァイオリン運弓練習支援システム
+author:
+  - 榊原絵里
+  - 宮下芳明
+abstract: 'ヴァイオリンで雑音のない美しい音を演奏するには，弓を等速で動かすことが必要である．このことは多くの教則本でも指摘されているが，腕の感覚や視覚的判断で等速を保つことも，微細な「音質変化」を感じ取りながら練習を行うことも非常に難しい．そこで筆者らは，運弓速度を「音高変化」として出力し，速度の変化をわかりやすく感じ取ることができる運弓練習システムを提案する．ヴァイオリン本体の指板と駒の間にオープンリールデッキの磁気ヘッドを取り付け，一定の高さの音を録音した磁気テープを弓に貼る．磁気テープを磁気ヘッドに擦る際，その速度が一定であれば音高も一定となり，加速すれば音高が上昇，減速すれば音高が下降する．PC によって音程の検出と再出力を行うことによって，その変化量を調整することも可能である．磁気テープと磁気ヘッドを用いたこの検出方法は，光学的な検出より時間分解能に優れた手法であるため，本稿のような楽器練習支援システムに適していると考えている．'
+container_title: インタラクション2013論文集
+issued: 2013/02/28
+volume: ""
+issue: ""
+number: ""
+page: 709-714
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2013/D127/'

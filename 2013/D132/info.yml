@@ -1,0 +1,28 @@
+id: D132
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/D132/D132.pdf'
+type: paper-conference
+title: 'アイズフリーで速記できる 「方向のみ」のフリック入力手法'
+author:
+  - 井川洋平
+  - 宮下芳明
+abstract: 文字入力方式としてのフリック入力は，キー押下を繰り返すトグル入力よりも軽負担で素早い操作が行えるため，タッチスクリーン搭載のスマートフォンに広く普及している．フリック入力では，タッチ位置で子音を選択し，フリック方向で母音を決定することで文字を入力していくが，タッチする際はその位置を見て確認する必要があり，アイズフリーでの速記は多くの誤入力を伴う．そこで，著者らは入力プロセスを子音と母音の二段階に分け，それぞれをフリックの「方向のみ」で指定する手法を提案する．アイズフリーでの素早い入力が可能になるだけでなく，従来のフリック入力ユーザがスムーズに理解・移行できる点も特徴である．
+container_title: インタラクション2013論文集
+issued: 2013/02/28
+volume: ""
+issue: ""
+number: ""
+page: 651-631
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
+youtube_url: 'https://www.youtube.com/watch?v=b5CbKog-m7g'
+links: []
+url: 'https://research.miyashita.com/2013/D132/'
+ogp_image: 'https://research.miyashita.com/2013/D132/thumb.jpg'
