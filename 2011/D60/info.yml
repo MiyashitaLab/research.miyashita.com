@@ -1,0 +1,28 @@
+id: D60
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D60/D60.pdf'
+type: paper-conference
+title: 'HMMMML3: 他人を意識したモチベーション向上を考えたプログラミング環境'
+author:
+  - 中橋雅弘
+  - 宮下芳明
+abstract: '本稿で提案するプログラミング言語 HMMMML3 における超好意的解釈コンパイラは，スペルミスを大幅に許容するとともに，複数の解釈が成り立つ場合はその全ての解釈を実行し，タブ切り替えによってユーザに選択させる．プログラムの正確さをスコア化しランキングサイトにアップロードする機能も持つ．全てのプログラムは HTML5 上で実行されるので，スマートフォンでも実行可能である．これにより，プログラミングする過程においても，その成果を見せるときも，ユーザはより他人を意識し，それがモチベーション向上につながると考えている．'
+container_title: インタラクション2011論文集
+issued: 2011/03/10
+volume: ""
+issue: ""
+number: ""
+page: 511-514
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
+youtube_url: 'https://www.youtube.com/watch?v=mZ19RC09Pqs'
+links: []
+url: 'https://research.miyashita.com/2011/D60/'
+ogp_image: 'https://research.miyashita.com/2011/D60/thumb.jpg'

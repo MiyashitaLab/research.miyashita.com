@@ -1,0 +1,28 @@
+id: D58
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D58/D58.pdf'
+type: paper-conference
+title: '建前のあとに: 空白を利用したウェブコンテンツのステガノグラフィ'
+author:
+  - 吉永珠里
+  - 宮下芳明
+abstract: '本稿では，他人に知られたくない本音を目に見えない空白文字で表現し，記述者本人あるいは許可されたメンバのみが閲覧できるシステムを開発した．本音を記したテキストや画像・動画は，ローカルのファイルに暗号化されて保存され，その相対パスを全角・半角 Space の羅列に変換したものがクリップボードに送られる．ユーザはこれを SNS や Twitter 等の Web サービスで「建前のあとに」貼りつける．ブラウザの拡張機能によってこれを復元し，選ばれたユーザのみが本音を閲覧できる．'
+container_title: インタラクション2011論文集
+issued: 2011/03/10
+volume: ""
+issue: ""
+number: ""
+page: 483-486
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
+youtube_url: 'https://www.youtube.com/watch?v=wtQ1Ick2xsk'
+links: []
+url: 'https://research.miyashita.com/2011/D58/'
+ogp_image: 'https://research.miyashita.com/2011/D58/thumb.jpg'

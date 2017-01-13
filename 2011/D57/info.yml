@@ -1,0 +1,27 @@
+id: D57
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D57/D57.pdf'
+type: paper-conference
+title: 電気味覚を活用した味覚の増幅と拡張
+author:
+  - 中村裕美
+  - 宮下芳明
+abstract: 味覚器に電気刺激を与えると，電気味覚と呼ばれる味覚を呼び起こすことができる．本稿ではこの特性を利用し，通常味覚器では感知できない情報を味覚で感知可能にする手法を提案する．各種センサからの入力信号を出力電圧または電圧提示パターンに置き換えることにより，二酸化炭素の濃度などを味覚で受容することができる．また電気を飲食できる装置と組み合わせて活用することで，舌で感知しきれない液体の濃度の違いなどを弁別することができる．
+container_title: インタラクション2011論文集
+issued: 2011/03/10
+volume: ""
+issue: ""
+number: ""
+page: 461-464
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2011/D57/'

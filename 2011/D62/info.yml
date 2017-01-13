@@ -1,0 +1,28 @@
+id: D62
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D62/D62.pdf'
+type: paper-conference
+title: そこに立つだけで音域が広がる「口笛拡張場」
+author:
+  - 松岡拓人
+  - 宮下芳明
+abstract: '口笛の演奏では，「あと少し高い（低い）音が出れば」という局面がしばしば生まれる．訓練によって音域を改善できても，自由に扱える音域は 2 オクターブ程度に留まる．本稿では，そこに立つだけで口笛の音域が拡張される「口笛拡張場」を提案する．システムは演奏者が出そうとしている音をリアルタイムで推測し，口笛の音として出力する．ガンマイクと超指向性スピーカの使用により，何ら道具を装着しない演奏を可能にし，更に演奏者から音が出ているかのような錯覚を聴取者と演奏者自身に与える．本稿ではまた，演奏における支援のあり方とシステムの応用についても論じた．'
+container_title: インタラクション2011論文集
+issued: 2011/03/10
+volume: ""
+issue: ""
+number: ""
+page: 813-816
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
+youtube_url: 'https://www.youtube.com/watch?v=j4MmC5fq3HM'
+links: []
+url: 'https://research.miyashita.com/2011/D62/'
+ogp_image: 'https://research.miyashita.com/2011/D62/thumb.jpg'

@@ -1,0 +1,28 @@
+id: D56
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D56/D56.pdf'
+type: paper-conference
+title: ジェスチャ操作で入力する絵文字ソースの携帯プログラミング
+author:
+  - 瀬戸優之
+  - 宮下芳明
+abstract: '本稿では携帯端末上でプログラムを編集・実行するシステムを提案する．Android アプリケーションとして実装した提案システムでは，絵文字によるソースコード記述が行われ，一画面あたりの情報量を増やしている．また，プログラム入力インタフェースでは，ジェスチャ認識による関数入力が行える．プログラムをメールとして送信するとインタラクティブなデコレーションメールとなる．'
+container_title: インタラクション2011論文集
+issued: 2011/03/10
+volume: ""
+issue: ""
+number: ""
+page: 453-456
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
+youtube_url: 'https://www.youtube.com/watch?v=3ug5r690mxc'
+links: []
+url: 'https://research.miyashita.com/2011/D56/'
+ogp_image: 'https://research.miyashita.com/2011/D56/thumb.jpg'
