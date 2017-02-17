@@ -1,0 +1,32 @@
+id: I5
+draft: false
+available_pdf: false
+pdf_url: 'https://drive.google.com/open?id=0BzR_n0rTs8gxZXhrbzdvb0JRczA'
+type: paper-conference
+title: 'Development and Evaluation of Interactive System for Synchronizing Electric Taste and Visual Content'
+author:
+  - 'Hiromi Nakamura'
+  - 'Homei Miyashita'
+abstract: 'Electric taste is a characteristic taste produced when the tongue is electrically stimulated. We have proposed apparatuses to add electric taste to food and drink. An interactive system could be developed to synchronize video contents using the reversibility and instantaneity of electric taste. However, to do so, the presentation time must be determined based on the different latency for the perception of each sense. We measured the latencies for electric taste and visual stimuli as a basic evaluation for a content presentation system in which electric taste and visual content are synchronized.'
+container_title: 'Proceedings of the SIGCHI Conference on Human Factors in Computing Systems'
+issued: 2012/03/05
+volume: ""
+issue: ""
+number: ""
+page: 517-520
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'electric taste'
+  - 'gustatory presentation system'
+  - 'latency difference of several sensations'
+  - 'multimodal information system'
+language: en
+doi: 10.1145/2207676.2207747
+issn: ""
+isbn: 978-1-4503-1015-4
+external_url: 'http://dl.acm.org/citation.cfm?id=2207747'
+youtube_url: 'https://www.youtube.com/watch?v=6NjkW4aSWvo'
+links: []
+url: 'https://research.miyashita.com/2012/I5/'
+ogp_image: 'https://research.miyashita.com/2012/I5/thumb.jpg'

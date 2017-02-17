@@ -1,0 +1,21 @@
+[
+  {
+    "id": "D71",
+    "type": "paper-conference",
+    "title": "File Based Programming ファイルを用いた新たなプログラミング手法の提案",
+    "author": [
+      {
+        "literal": "中橋雅弘"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "abstract": "ファイル管理システムと思われてきたWindows エクスプローラはプログラムエディタだったのである．本稿ではWindows エクスプローラにプログラムを実行する”実行ボタン”を新たに設け，”ファイルの2 次元配置”，”右クリックメニュープログラミング”，”フォルダは関数”などの考えを採り入れたFileBased Programming を提案する．",
+    "container-title": "エンタテインメントコンピューティングシンポジウム2011論文集",
+    "issued": "2011/10/07",
+    "page": "58-60",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

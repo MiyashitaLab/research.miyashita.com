@@ -1,0 +1,28 @@
+id: D71
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D71/D71.pdf'
+type: paper-conference
+title: 'File Based Programming ファイルを用いた新たなプログラミング手法の提案'
+author:
+  - 中橋雅弘
+  - 宮下芳明
+abstract: 'ファイル管理システムと思われてきたWindows エクスプローラはプログラムエディタだったのである．本稿ではWindows エクスプローラにプログラムを実行する”実行ボタン”を新たに設け，”ファイルの2 次元配置”，”右クリックメニュープログラミング”，”フォルダは関数”などの考えを採り入れたFileBased Programming を提案する．'
+container_title: エンタテインメントコンピューティングシンポジウム2011論文集
+issued: 2011/10/07
+volume: ""
+issue: ""
+number: ""
+page: 58-60
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://ec2011.entcomp.org/program/'
+youtube_url: 'https://www.youtube.com/watch?v=3zubZf2c8BI'
+links: []
+url: 'https://research.miyashita.com/2011/D71/'
+ogp_image: 'https://research.miyashita.com/2011/D71/thumb.jpg'

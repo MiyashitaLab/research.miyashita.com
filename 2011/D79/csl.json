@@ -1,0 +1,23 @@
+[
+  {
+    "id": "D79",
+    "type": "paper-conference",
+    "title": "発表者がスクリーン前に立つプレゼンテーションスタイルの提案",
+    "author": [
+      {
+        "literal": "前田晴己"
+      },
+      {
+        "literal": "栗原一貴"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "エンタテインメントコンピューティングシンポジウム2011論文集",
+    "issued": "2011/10/07",
+    "page": "431-434",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D46",
+    "type": "paper-conference",
+    "title": "口笛の音域を拡張するシステム",
+    "author": [
+      {
+        "literal": "松岡拓人"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "エンタテインメントコンピューティング2010論文集",
+    "issued": "2010/10/22",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

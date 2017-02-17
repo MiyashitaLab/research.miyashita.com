@@ -1,0 +1,26 @@
+[
+  {
+    "id": "I6",
+    "type": "paper-conference",
+    "title": "Enhancing saltiness with cathodal current",
+    "author": [
+      {
+        "family": "Nakamura",
+        "given": "Hiromi"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "Weak cathodal current applied to the tongue inhibits the taste of salt, but perceived saltiness tends to increase after the current is released. In this study, we propose a saltiness enhancer that uses this phenomenon. Our system applies weak cathodal current for a short time when the user eats or drinks. The user can thus perceive a salty taste without the use of salt.",
+    "container-title": "CHI '13 Extended Abstracts on Human Factors in Computing Systems",
+    "issued": "2013/03/02",
+    "page": "3111-3114",
+    "publisher": "ACM",
+    "keyword": "cathodal current; gustatory perception; taste",
+    "language": "en",
+    "DOI": "10.1145/2468356.2479623",
+    "ISBN": "978-1-4503-1952-2"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "D89",
+    "type": "paper-conference",
+    "title": "オフレコマーカー",
+    "author": [
+      {
+        "literal": "吉川祐輔"
+      },
+      {
+        "literal": "中橋雅弘"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "第19回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2011) 論文集",
+    "issued": "2011/12/01",
+    "language": "ja"
+  }
+]

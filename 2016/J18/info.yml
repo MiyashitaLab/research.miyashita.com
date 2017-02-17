@@ -1,0 +1,28 @@
+id: J18
+draft: false
+available_pdf: false
+pdf_url: ""
+type: article-journal
+title: 幅の変化する経路を逆向きにステアリングする時間の予測方法の提案
+author:
+  - 山中祥太
+  - 宮下芳明
+abstract: '経路内を移動する運動をモデル化したステアリングの法則によって，操作時間をタスクの難易度IDから予測できるようになった．本稿では，幅が線形に変化する直線状経路の移動時間が通過方向によって異なることに着目し，通過方向ごとの難易度IDの関係を表す式を導出した．これによって，1方向の通過時間を十分に計測すれば，他方向の通過時間は少ないデータから予測できるようになる．実験では，狭まる方向への通過時間を1種類のIDで計測するだけで，残り5種類のIDにおける通過時間を高精度（決定係数R2=.971）で予測できることを示し，有用性を確認した． '
+container_title: 情報処理学会論文誌
+issued: 2016/02/15
+volume: '57'
+issue: '2'
+number: ""
+page: 794-802
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords:
+  - ステアリングの法則，グラフィカルユーザインタフェース，ポインティング，操作性能
+language: ja
+doi: ""
+issn: 1882-7764
+isbn: ""
+external_url: 'https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=148220&item_no=1'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2016/J18/'
