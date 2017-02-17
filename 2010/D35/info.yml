@@ -1,0 +1,28 @@
+id: D35
+draft: false
+available_pdf: false
+pdf_url: ""
+type: paper-conference
+title: 'Camera Shake Sequencer：ブレた写真を撮る新しいカメラの研究'
+author:
+  - 中林隆介
+  - 宮下芳明
+abstract: 現在，カメラはより手ブレを軽減するように進化し続けている．しかし，ブレた写真の中には人を惹きつける魅力的な写真も存在する．本稿では，現在のカメラでは実現しがたいブレた写真を意図的に撮り，かつそのブレをデザインできるカメラを提案し，カメラを使った新しい映像表現の実現を目指す．
+container_title: 'インタラクション2010 Fresh From the Oven Session'
+issued: 2010/03/01
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/2010/FFOprogram.html'
+youtube_url: 'https://www.youtube.com/watch?v=YNrvqnorw9g'
+links: []
+url: 'https://research.miyashita.com/2010/D35/'
+ogp_image: 'https://research.miyashita.com/2010/D35/thumb.jpg'

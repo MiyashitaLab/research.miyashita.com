@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D19",
+    "type": "paper-conference",
+    "title": "Gravity Piano：物理演算による作曲インタフェース",
+    "author": [
+      {
+        "literal": "矢田裕基"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "エンタテインメントコンピューティングシンポジウム2008論文集",
+    "page": "181-182",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

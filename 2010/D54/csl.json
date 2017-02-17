@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D54",
+    "type": "paper-conference",
+    "title": "CatchyMemo 2：記憶定着を促すメモ帳",
+    "author": [
+      {
+        "literal": "中村美惠子"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "第18回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2010) 論文集",
+    "issued": "2010/12/01",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

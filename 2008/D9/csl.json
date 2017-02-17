@@ -1,0 +1,23 @@
+[
+  {
+    "id": "D9",
+    "type": "paper-conference",
+    "title": "音楽の未来を実装するということ",
+    "author": [
+      {
+        "literal": "永野哲久"
+      },
+      {
+        "literal": "大山宗哉"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "エンタテインメントコンピューティングシンポジウム2008論文集",
+    "issued": "2008/10/29",
+    "page": "59",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "D34",
+    "type": "paper-conference",
+    "title": "ラジオマーカ：仮想オブジェクト位置に音像を再現するARマーカ",
+    "author": [
+      {
+        "literal": "吉川祐輔"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "インタラクション2010論文集",
+    "issued": "2010/03/01",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
