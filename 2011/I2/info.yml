@@ -1,0 +1,31 @@
+id: I2
+draft: false
+available_pdf: false
+pdf_url: ""
+type: paper-conference
+title: 'CatchyAccount: A System for Acquiring a Realistic Sense of Expenditures'
+author:
+  - 'Mieko Nakamura'
+  - 'Homei Miyashita'
+abstract: 'In this paper, we propose a new household accounting system for realistically sensing expenditures. In 2D mode, expenditures are visualized through the placement of rectangles whose areas are proportional to the amount spent; thus, each item can be understood within the context of the total expenditure. In AR mode, spheres whose volumes are proportional to the amount spent appear to be floating in the camera image. The spheres fill the entire room and the size of expenditure can be realistically sensed. We designed this system in an attempt to "augment" the experience, so that the user can acquire a more realistic sense of expenditures.'
+container_title: 'Proceedings of the 2nd Augmented Human International Conference'
+issued: 2011/03/13
+volume: ""
+issue: ""
+number: '29'
+page: '29:1-29:2'
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - accounting
+  - 'realistic sense'
+  - visualization
+language: en
+doi: 10.1145/1959826.1959855
+issn: ""
+isbn: 978-1-4503-0426-9
+external_url: 'http://dl.acm.org/citation.cfm?id=1959855'
+youtube_url: 'https://www.youtube.com/watch?v=cw6pW-_ph80'
+links: []
+url: 'https://research.miyashita.com/2011/I2/'
+ogp_image: 'https://research.miyashita.com/2011/I2/thumb.jpg'

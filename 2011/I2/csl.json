@@ -1,0 +1,27 @@
+[
+  {
+    "id": "I2",
+    "type": "paper-conference",
+    "title": "CatchyAccount: A System for Acquiring a Realistic Sense of Expenditures",
+    "author": [
+      {
+        "family": "Nakamura",
+        "given": "Mieko"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "In this paper, we propose a new household accounting system for realistically sensing expenditures. In 2D mode, expenditures are visualized through the placement of rectangles whose areas are proportional to the amount spent; thus, each item can be understood within the context of the total expenditure. In AR mode, spheres whose volumes are proportional to the amount spent appear to be floating in the camera image. The spheres fill the entire room and the size of expenditure can be realistically sensed. We designed this system in an attempt to \"augment\" the experience, so that the user can acquire a more realistic sense of expenditures.",
+    "container-title": "Proceedings of the 2nd Augmented Human International Conference",
+    "issued": "2011/03/13",
+    "number": "29",
+    "page": "29:1-29:2",
+    "publisher": "ACM",
+    "keyword": "accounting; realistic sense; visualization",
+    "language": "en",
+    "DOI": "10.1145/1959826.1959855",
+    "ISBN": "978-1-4503-0426-9"
+  }
+]

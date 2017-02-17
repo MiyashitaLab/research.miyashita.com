@@ -1,0 +1,30 @@
+id: I1
+draft: false
+available_pdf: false
+pdf_url: ""
+type: paper-conference
+title: 'Control of Augmented Reality Information Volume by Glabellar Fader'
+author:
+  - 'Hiromi Nakamura'
+  - 'Homei Miyashita'
+abstract: 'In this paper, we propose a device for controlling the volume of augmented reality information by the glabellar movement. Our purpose is to avoid increasing the sum of the amount of information during the perception of "Real Space +Augmented Reality" by an intuitive and seamless control. For this, we focused on the movement of the glabella (between the eyebrows) when the user stare at objects as a trigger of information presentation. The system detects the movement of the eyebrows by the amount of the light reflected by a photo-reflector, and controlling information volume or the transparency of objects in augmented reality space.'
+container_title: 'Proceedings of the 1st Augmented Human International Conference'
+issued: 2010/04/02
+volume: ""
+issue: ""
+number: '20'
+page: '20:1-20:3'
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - glabellar
+  - 'information volume'
+  - 'photo reflector'
+language: en
+doi: 10.1145/1785455.1785475
+issn: ""
+isbn: 978-1-60558-825-4
+external_url: 'http://dl.acm.org/citation.cfm?id=1785475'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2010/I1/'
