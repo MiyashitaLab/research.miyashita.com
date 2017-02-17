@@ -1,0 +1,35 @@
+[
+  {
+    "id": "D162",
+    "type": "report",
+    "title": "感性評価値を用いた対話型進化計算による三次元物体デザイン手法",
+    "author": [
+      {
+        "literal": "檜山翼"
+      },
+      {
+        "literal": "中村美惠子"
+      },
+      {
+        "literal": "宮下芳明"
+      },
+      {
+        "literal": "飛谷謙介"
+      },
+      {
+        "literal": "長田典子"
+      },
+      {
+        "literal": "荒川薫"
+      }
+    ],
+    "container-title": "電子情報通信学会技術研究報告",
+    "issued": "2016/03/10",
+    "volume": "115",
+    "number": "505",
+    "page": "1-6",
+    "publisher": "電子情報通信学会",
+    "language": "ja",
+    "ISBN": "0913-5685"
+  }
+]

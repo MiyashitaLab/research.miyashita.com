@@ -1,0 +1,26 @@
+[
+  {
+    "id": "I4",
+    "type": "paper-conference",
+    "title": "Communication by Change in Taste",
+    "author": [
+      {
+        "family": "Nakamura",
+        "given": "Hiromi"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "In this paper, we discuss the possibilities and enjoyment of communication by changes in taste, as well as the concept of expanding the sense of taste. When the tongue is electrically stimulated, it senses a characteristic taste. We developed various apparatuses to change the taste of food and drinks based on this effect [1]. An apparatus for drinks, comprising two electrically conducting straws, is used to change the taste of the drink by the formation of an electrical circuit inside the mouth only when drinking by holding both straws in the mouth. In the case of two persons each having one straw in their mouths, shaking hands causes electricity to flow, resulting in the change in taste. With a chopsticksfork type of apparatus, the taste changes by the electric current that flows through the human body when one person helps the other to eat. In the case of both types of apparatuses, it is possible to control the voltage by a PWM(pulse width modulation) and the pattern by a relay, and a variety of tastes can be produced by a personal computer.",
+    "container-title": "CHI '11 Extended Abstracts on Human Factors in Computing Systems",
+    "issued": "2011/03/07",
+    "page": "1999-2004",
+    "publisher": "ACM",
+    "keyword": "altering the taste of food and drink; electric taste; physical communication",
+    "language": "en",
+    "DOI": "10.1145/1979742.1979916",
+    "ISBN": "978-1-4503-0268-5"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "D151",
+    "type": "paper-conference",
+    "title": "対話型進化計算による物体デザインシステム―感性評価値の導入―",
+    "author": [
+      {
+        "literal": "檜山翼"
+      },
+      {
+        "literal": "中村美惠子"
+      },
+      {
+        "literal": "宮下芳明"
+      },
+      {
+        "literal": "飛谷謙介"
+      },
+      {
+        "literal": "長田典子"
+      },
+      {
+        "literal": "荒川薫"
+      }
+    ],
+    "container-title": "電子情報通信学会基礎・境界ソサイエティ/NOLTAソサイエティ大会講演論文集",
+    "issued": "2015/08/25",
+    "volume": "2015",
+    "page": "150",
+    "publisher": "電子情報通信学会",
+    "language": "ja",
+    "ISSN": "2189700X"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "J21",
+    "type": "article-journal",
+    "title": "A Study of the Steering Time Difference between Narrowing and Widening Circular Tunnels",
+    "author": [
+      {
+        "family": "Yamanaka",
+        "given": "Shota"
+      },
+      {
+        "family": "MIyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "The steering law is a robust model for expressing the relationship between movement time and task difficulty. Recently, a corrected model to calculate the steering time difference between narrowing and widening tunnels was proposed. However, the previous work only conducted a user study with straight paths. This paper presents an investigation of steering performance in narrowing and widening circular tunnels to confirm the corrected model as being either adequate or a limitation. The results show that the steering law achieves a good fit (R2>.98) without the corrected model, thereby indicating the limited benefit of employing the corrected model.",
+    "container-title": "コンピュータソフトウェア",
+    "issued": "2017/01/14",
+    "volume": "33",
+    "issue": "4",
+    "page": "116-121",
+    "publisher": "日本ソフトウェア科学会",
+    "language": "en",
+    "DOI": "10.11309/jssst.33.4_116"
+  }
+]
