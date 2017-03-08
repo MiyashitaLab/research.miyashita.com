@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D20",
+    "type": "paper-conference",
+    "title": "HAMIGAKI-K.O.：歯ブラシ付きiPhoneによるオンライン対戦",
+    "author": [
+      {
+        "literal": "森本浩尉"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "エンタテインメントコンピューティングシンポジウム2009論文集",
+    "issued": "2009/9/16",
+    "page": "183-184",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
