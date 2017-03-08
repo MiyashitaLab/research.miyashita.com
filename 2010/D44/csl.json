@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D44",
+    "type": "paper-conference",
+    "title": "HMMMML2：モチベーション向上の為のコンパイラ",
+    "author": [
+      {
+        "literal": "中橋雅弘"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "container-title": "夏のプログラミング・シンポジウム報告集",
+    "issued": "2010/09/01",
+    "page": "107-110",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
