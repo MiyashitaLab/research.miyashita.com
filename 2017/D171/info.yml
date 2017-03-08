@@ -1,0 +1,28 @@
+id: D171
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D171/D171.pdf'
+type: paper-conference
+title: 往復を前提とした一時的スクロール手法の提案
+author:
+  - 高田勝也
+  - 宮下芳明
+abstract: ページ内の別の位置にある文章や図を，一時的に参照したい場合がある．このとき，多くの場合はスクロールによってページ内を往復することによって解決する．本研究ではスマートフォンにおける新しいスクロール手法として，往復を前提とした一時的スクロール手法を提案する．従来のフリックによるスクロールとは別に，画面に円を描く動作によってスクロールを行う．この場合のみ指を離すとスクロールを開始した位置へ自動でページが移動する．これにより，従来のフリックによるスクロールでは往復する必要があるようなスクロール動作を，片方向のスクロールのみで完了することができる．
+container_title: インタラクション2017論文集
+issued: 2017/03/02
+volume: ""
+issue: ""
+number: ""
+page: 417-422
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2017/data/bib/2-6F-07.html'
+youtube_url: 'https://www.youtube.com/watch?v=g35rf86BfBo'
+links: []
+url: 'https://research.miyashita.com/2017/D171/'
+ogp_image: 'https://research.miyashita.com/2017/D171/thumb.jpg'
