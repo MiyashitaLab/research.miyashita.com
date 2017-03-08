@@ -1,0 +1,27 @@
+id: D184
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D184/D184.pdf'
+type: paper-conference
+title: 'Movable Background 方式インタフェースにおけるポインティング操作性能の検証'
+author:
+  - 宮代理弘
+  - 宮下芳明
+abstract: 'Fat finger 問題の解決策として，固定したカーソルに向けてターゲットを移動させる “Movable Background 方式” インタフェースが提案されている．これは，画面全体をスクロール移動させる要領で，固定したカーソル下に選択したいオブジェクトをもってくる手法である．しかし，このような操作手法について，ポインティングでの操作性能は検証されていない．本稿では，Movable Background 方式インタフェースのポインティングタスクを行った．結果，Movable Background 方式は Fitts'' Law に適合することが示された．また，Movable Background 方式において，カーソル数と位置が操作時間に及ぼす影響についても調査した．以上の 2 つの結果にもとづき，Movable Background 方式インタフェースの特徴を考察した． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2017/02/27
+volume: 2017-HCI-172
+issue: '27'
+number: ""
+page: 1-6
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: '2188-8760 '
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00177802/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/D184/'
