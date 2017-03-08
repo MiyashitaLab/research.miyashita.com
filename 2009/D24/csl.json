@@ -1,0 +1,21 @@
+[
+  {
+    "id": "D24",
+    "type": "paper-conference",
+    "title": "Yosotter 2：「猫も杓子もTwitter」の猫じゃない方",
+    "author": [
+      {
+        "literal": "宮下芳明"
+      },
+      {
+        "literal": "中村裕美"
+      },
+      {
+        "literal": "吉川祐輔"
+      }
+    ],
+    "container-title": "第17回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2009) 飛び入りデモ",
+    "issued": "2009/12/02",
+    "language": "ja"
+  }
+]
