@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D91",
+    "type": "paper-conference",
+    "title": "ノリ乗り♪",
+    "author": [
+      {
+        "literal": "吉田有花"
+      },
+      {
+        "literal": "宮下芳明"
+      }
+    ],
+    "abstract": "棒人間の群衆が「弾幕」となる身体動作版ニコニコ動画．これによってEC2011のナイトセッションとWISS2011のナイトセッションはつながるのか？",
+    "container-title": "WISS Challenge 2011",
+    "issued": "2011/12/01",
+    "publisher": "情報処理学会",
+    "language": "ja"
+  }
+]
