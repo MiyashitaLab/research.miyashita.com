@@ -1,0 +1,28 @@
+id: D72
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D72/D72.pdf'
+type: paper-conference
+title: 組み換え可能なARマーカの提案
+author:
+  - 井川洋平
+  - 宮下芳明
+abstract: 本稿では，組み換え可能なARマーカを提案する．従来のARマーカは出力内容を決めた後に出力位置を操作できる単なるポインタでしかなかった．そこでARマーカを組み換え可能にし，それに応じて出力が変更できるインタフェースとして提案する．また，スライドパズルの操作手法を組み込んだプロトタイプを実装し，エンタテインメントへの応用を考察した．その結果，多様なパターン生成を行えることに加え，コントローラとしての有用性も見出された．
+container_title: エンタテインメントコンピューティングシンポジウム2011論文集
+issued: 2011/10/07
+volume: ""
+issue: ""
+number: ""
+page: 218-221
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://ec2011.entcomp.org/program/'
+youtube_url: 'https://www.youtube.com/watch?v=0bMSE-zB3Yo'
+links: []
+url: 'https://research.miyashita.com/2011/D72/'
+ogp_image: 'https://research.miyashita.com/2011/D72/thumb.jpg'

@@ -1,0 +1,28 @@
+id: D76
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D76/D76.pdf'
+type: paper-conference
+title: 複数のスマートフォンを用いた多人数による動画編集システムの提案
+author:
+  - 嶋本諒太
+  - 宮下芳明
+abstract: 近年，携帯電話で動画を撮影する機会が増えてきている．しかし，多人数で撮影した状況では各自が撮影した動画が共有されにくく，動画編集も着手しづらい．本稿では，スマートフォンで撮影された動画をスマートフォンを並べて操作することによって編集し，ひとつの動画を作成するシステムを提案する．
+container_title: エンタテインメントコンピューティングシンポジウム2011論文集
+issued: 2011/10/07
+volume: ""
+issue: ""
+number: ""
+page: 383-386
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://ec2011.entcomp.org/program/'
+youtube_url: 'https://www.youtube.com/watch?v=n2b5fttn410'
+links: []
+url: 'https://research.miyashita.com/2011/D76/'
+ogp_image: 'https://research.miyashita.com/2011/D76/thumb.jpg'

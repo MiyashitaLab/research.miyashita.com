@@ -1,14 +1,14 @@
 id: D79
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D79/D79.pdf'
 type: paper-conference
 title: 発表者がスクリーン前に立つプレゼンテーションスタイルの提案
 author:
   - 前田晴己
   - 栗原一貴
   - 宮下芳明
-abstract: ""
+abstract: '一般的なプレゼンテーションでは,聴衆はスクリーンを注視し発表者がプレゼンテーションの中心に存在するとは言い難い環境となっていた.本稿では発表者がスクリーンの前に立ち,発表者と発表内容が一体となったプレゼンテーションスタイルを提案する.発表者を避けるよう動的にオブジェクトを配置することで遮蔽問題を解決し,スクリーン上のオブジェクトとインタラクションすることで発表者の意図をより強く表現できる.'
 container_title: エンタテインメントコンピューティングシンポジウム2011論文集
 issued: 2011/10/07
 volume: ""
