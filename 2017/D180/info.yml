@@ -1,0 +1,27 @@
+id: D180
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D180/D180.pdf'
+type: paper-conference
+title: 足音遅延フィードバックを用いた歩行周期への介入
+author:
+  - 松尾良馬
+  - 宮下芳明
+abstract: 歩行に関する研究の知見は，医療やVRの分野に多く応用されている．中でも一歩間の時間に対する歩行状態を表す歩行周期と，歩行時のバランスや消費体力との関係性については，以前より理学分野で議論されている．また「聴覚的遅延フィードバック」は知覚や行動に様々な影響をおよぼすことが示され，一歩間の歩行時間にも影響が生じることが確認されている．本研究では，歩行者に対し遅延した自身の足音を提示し，歩行動作に生じる影響を検証した．両足に取り付けた圧力センサによって得られたデータから，歩行周期に生じる影響の分析を行った．また本実験の結果と先行研究の知見から，足音遅延フィードバックによる歩行周期の変化メカニズムについて考察する．
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2017/02/27
+volume: 2017-HCI-172
+issue: '6'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=177869&item_no=1&page_id=13&block_id=8'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/D180/'
