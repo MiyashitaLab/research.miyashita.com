@@ -1,18 +1,19 @@
-id: D43
+id: D45
 draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
-title: フィジカルコンピューティングへのモチベーションを向上させるブレッドボード
+title: 料理プログラミングの為の枠組みについて
 author:
+  - 吉川祐輔
   - 宮下芳明
 abstract: ""
 container_title: 夏のプログラミング・シンポジウム報告集
-issued: 2010/09/01
-volume: ""
+issued: 2011/01/07
+volume: '2010'
 issue: ""
 number: ""
-page: 1-4
+page: 29-36
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
 keywords: []
@@ -21,7 +22,6 @@ doi: ""
 issn: ""
 isbn: ""
 external_url: 'http://www.logos.ic.i.u-tokyo.ac.jp/spro2010/'
-youtube_url: 'https://www.youtube.com/watch?v=CAHaTn8PPjA'
+youtube_url: ""
 links: []
-url: 'https://research.miyashita.com/2010/D43/'
-ogp_image: 'https://research.miyashita.com/2010/D43/thumb.jpg'
+url: 'https://research.miyashita.com/2011/D45/'

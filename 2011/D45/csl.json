@@ -1,19 +1,20 @@
 [
   {
-    "id": "D44",
+    "id": "D45",
     "type": "paper-conference",
-    "title": "HMMMML2：モチベーション向上の為のコンパイラ",
+    "title": "料理プログラミングの為の枠組みについて",
     "author": [
       {
-        "literal": "中橋雅弘"
+        "literal": "吉川祐輔"
       },
       {
         "literal": "宮下芳明"
       }
     ],
     "container-title": "夏のプログラミング・シンポジウム報告集",
-    "issued": "2010/09/01",
-    "page": "107-110",
+    "issued": "2011/01/07",
+    "volume": "2010",
+    "page": "29-36",
     "publisher": "情報処理学会",
     "language": "ja"
   }
