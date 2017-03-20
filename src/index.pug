@@ -9,13 +9,13 @@ html
     link(rel="canonical", href=general.siteUrl)
 
     //- description and keywords
-    meta(name="description", content=general.description)
+    meta(name="description", content=general.description.trim())
 
     //- OGP
     meta(property="og:type", content="website")
     meta(property="og:title", content=general.siteName)
     meta(property="og:url", content=general.siteUrl)
-    meta(property="og:description", content=general.description)
+    meta(property="og:description", content=general.description.trim())
 
     //- JSON-LD
     -
