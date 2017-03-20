@@ -7,7 +7,7 @@ title: HMMMML2：モチベーション向上の為のコンパイラ
 author:
   - 中橋雅弘
   - 宮下芳明
-abstract: ""
+abstract: '本稿で提案するプログラミング言語HMMMML2における超好意的解釈コンパイラは,スペルミスを大幅に許容するとともに,複数の解釈が成り立つ場合はその全ての解釈を実行し,タブ切り替えによってユーザに選択させる。また,プログラムの正確さをスコア化しtwitterでつぶやく機能も持つ。'
 container_title: 夏のプログラミング・シンポジウム報告集
 issued: 2011/01/07
 volume: '2010'
@@ -21,7 +21,7 @@ language: ja
 doi: ""
 issn: ""
 isbn: ""
-external_url: 'http://www.logos.ic.i.u-tokyo.ac.jp/spro2010/'
+external_url: 'http://jglobal.jst.go.jp/public/201102237697921788'
 youtube_url: 'https://www.youtube.com/watch?v=7h0EedR5C3Y'
 links: []
 url: 'https://research.miyashita.com/2011/D44/'

@@ -7,7 +7,7 @@ title: 料理プログラミングの為の枠組みについて
 author:
   - 吉川祐輔
   - 宮下芳明
-abstract: ""
+abstract: '本論文では,レシピを読んでその通りに作ることが出来る程度の初心者を対象とし,データフローブログラミングの枠組みを利用して料理レシピの改変やマッシュアップが行える環境を構築した。提案システムでは,ある料理を食材のように用いることができるモジュール化機構や,画像処理によって調理工程を表示する簡易ビジュアライザを設けた。'
 container_title: 夏のプログラミング・シンポジウム報告集
 issued: 2011/01/07
 volume: '2010'
@@ -21,7 +21,7 @@ language: ja
 doi: ""
 issn: ""
 isbn: ""
-external_url: 'http://www.logos.ic.i.u-tokyo.ac.jp/spro2010/'
+external_url: 'http://jglobal.jst.go.jp/public/20090422/201102262114252845'
 youtube_url: ""
 links: []
 url: 'https://research.miyashita.com/2011/D45/'

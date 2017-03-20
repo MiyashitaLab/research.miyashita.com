@@ -3,10 +3,10 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
-title: フィジカルコンピューティングへのモチベーションを向上させるブレッドボード
+title: 'フィジカルコンピューティングへのモチベーションを向上させるブレッドボードHMMBBの提案 '
 author:
   - 宮下芳明
-abstract: ""
+abstract: '本稿で報告する試作システムHMMBBは「電気回路における好意的解釈」を行うブレッドボードであり,断線箇所を自動探索・結線する機構を搭載している。HMMBB‐Rは,リレーで内部スイッチングを行うハードウェアに仮想的導線を投影する拡張現実感的システムであり,HMMBB‐Vは,タッチパネルに直接結線することで画面内の素子に通電したり,逆に画面内の電池から実世界の部品に通電しているかのような体験をもたらす拡張仮想感的システムである。 '
 container_title: 夏のプログラミング・シンポジウム報告集
 issued: 2011/01/07
 volume: '2010'
@@ -20,7 +20,7 @@ language: ja
 doi: ""
 issn: ""
 isbn: ""
-external_url: 'http://www.logos.ic.i.u-tokyo.ac.jp/spro2010/'
+external_url: 'http://jglobal.jst.go.jp/public/201102264346395661'
 youtube_url: 'https://www.youtube.com/watch?v=CAHaTn8PPjA'
 links: []
 url: 'https://research.miyashita.com/2011/D43/'
