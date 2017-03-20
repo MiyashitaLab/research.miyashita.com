@@ -1,0 +1,26 @@
+[
+  {
+    "id": "I9",
+    "type": "paper-conference",
+    "title": "Controlling saltiness without salt: evaluation of taste change by applying and releasing cathodal current",
+    "author": [
+      {
+        "family": "Nakamura",
+        "given": "Hiromi"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "In this study, we evaluate the taste intensity of food when a saltiness enhancer is applied, for verifying the effectiveness of our system. In a previous study, we proposed a saltiness enhancer using a cathodal current based on the work of Hettinger et al. However, we received feedback from subjects that other tastes (e.g., sourness and bitterness) are also enhanced. Therefore, we conducted experimental tests to compare the intensity of the fundamental tastes and a metallic taste over three phases: before application of current, during application of current, and after the release of current.",
+    "container-title": "Proceedings of the 5th international workshop on Multimedia for cooking & eating activities",
+    "issued": "2013/10/21",
+    "page": "101-105",
+    "publisher": "ACM",
+    "keyword": "cathodal current; enhancing saltiness; taste",
+    "language": "en",
+    "DOI": "10.1145/2506023.2506026",
+    "ISBN": "978-1-4503-2392-5"
+  }
+]

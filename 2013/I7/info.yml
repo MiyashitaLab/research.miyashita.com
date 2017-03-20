@@ -1,0 +1,33 @@
+id: I7
+draft: false
+available_pdf: false
+pdf_url: ""
+type: paper-conference
+title: 'Switchback Cursor: Mouse Cursor Operation for Overlapped Windowing'
+author:
+  - 'Shota Yamanaka'
+  - 'Homei Miyashita'
+abstract: 'When we perform a task that involves opening a number of windows, we cannot access the objects behind them. Thus, we are forced to switch the foreground window frequently or to move it temporarily. In this paper, we propose a Switchback Cursor technique where the cursor can move underneath windows when the user presses both the left and right mouse buttons. We also discuss some of the advantages of our method and effective situations that may be suited to the Switchback Cursor.'
+container_title: 'Human-Computer Interaction – INTERACT 2013'
+issued: 2013/09/02
+volume: '8117'
+issue: ""
+number: ""
+page: 746-753
+publisher: 'Springer Berlin Heidelberg'
+copyright_holder: IFIP
+keywords:
+  - Cursor
+  - 'Graphical user interfaces (GUIs)'
+  - Mouse
+  - Pointer
+  - WIMP
+language: en
+doi: 10.1007/978-3-642-40483-2_52
+issn: 0302-9743
+isbn: 978-3-642-40483-2
+external_url: 'http://link.springer.com/chapter/10.1007/978-3-642-40483-2_52'
+youtube_url: 'https://www.youtube.com/watch?v=_nLt5PurgPY'
+links: []
+url: 'https://research.miyashita.com/2013/I7/'
+ogp_image: 'https://research.miyashita.com/2013/I7/thumb.jpg'

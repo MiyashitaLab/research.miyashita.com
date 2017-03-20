@@ -1,0 +1,26 @@
+[
+  {
+    "id": "J14",
+    "type": "article-journal",
+    "title": "Calligraphy Expressions Based On Electronic Musical Instruments Metaphor",
+    "author": [
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      },
+      {
+        "family": "Uchihira",
+        "given": "Hiroki"
+      }
+    ],
+    "abstract": "We propose a new calligraphy drawing system based on the principles of electronic music samplers and synthesizers. Our purpose is to make it easier to digitally render the scratched brushstrokes and other expressions of calligraphy which had been difficult to achieve with drawing tools and to propose a new mode of expression by incorporating the electronic musical instruments metaphor. With a sampler metaphor, the user scans reference calligraphy images by tracing the strokes with a mouse-pointer and rewrites the calligraphy by outputting sampled images on the drawing window. With a synthesizer metaphor, we aimed to create digital brushstrokes in the way that synthesizers create sounds. We propose this as a function that has the ability to design expressions with a scratched or blurred look. We designed this system based on the principles of electronic music devices, and built this metaphor by adding further editing functions: an envelope controller and a mixer. Samples of calligraphy created by our system are provided at the end of this paper.",
+    "container-title": "AIDIA Journal",
+    "issued": "2014/11/01",
+    "volume": "14",
+    "page": "66-73",
+    "publisher": "Asia Interior Design Institute Association",
+    "keyword": "Calligraphy; Design; Drawing system",
+    "language": "en",
+    "ISSN": "1598-3811"
+  }
+]

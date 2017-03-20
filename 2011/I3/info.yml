@@ -1,0 +1,31 @@
+id: I3
+draft: false
+available_pdf: false
+pdf_url: ""
+type: paper-conference
+title: 'Augmented Gustation using Electricity'
+author:
+  - 'Hiromi Nakamura'
+  - 'Homei Miyashita'
+abstract: 'In this paper, we propose a method to augment gustation and increase the number of perceptible tastes. Electric taste is the sensation elicited upon stimulating the tongue with electric current. We used this phenomenon to convey information that humans cannot perceive with their tongue. Our method involves changing the taste of foods and drinks by using electric taste. First, we propose a system to drink beverages using straws that are connected to an electric circuit. Second, we propose a system to eat foods using a fork or chopsticks connected to an electric circuit. Finally, we discuss augmented gustation using various sensors.'
+container_title: 'Proceedings of the 2nd Augmented Human International Conference'
+issued: 2011/03/13
+volume: ""
+issue: ""
+number: '34'
+page: '34:1-34:2'
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'augmented gustation'
+  - 'eating and drinking'
+  - 'electric taste'
+language: en
+doi: 10.1145/1959826.1959860
+issn: ""
+isbn: 978-1-4503-0426-9
+external_url: 'http://dl.acm.org/citation.cfm?id=1959860'
+youtube_url: 'https://www.youtube.com/watch?v=sCOXzfnh9uU'
+links: []
+url: 'https://research.miyashita.com/2011/I3/'
+ogp_image: 'https://research.miyashita.com/2011/I3/thumb.jpg'

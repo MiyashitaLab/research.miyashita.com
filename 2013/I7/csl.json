@@ -1,0 +1,28 @@
+[
+  {
+    "id": "I7",
+    "type": "paper-conference",
+    "title": "Switchback Cursor: Mouse Cursor Operation for Overlapped Windowing",
+    "author": [
+      {
+        "family": "Yamanaka",
+        "given": "Shota"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "When we perform a task that involves opening a number of windows, we cannot access the objects behind them. Thus, we are forced to switch the foreground window frequently or to move it temporarily. In this paper, we propose a Switchback Cursor technique where the cursor can move underneath windows when the user presses both the left and right mouse buttons. We also discuss some of the advantages of our method and effective situations that may be suited to the Switchback Cursor.",
+    "container-title": "Human-Computer Interaction – INTERACT 2013",
+    "issued": "2013/09/02",
+    "volume": "8117",
+    "page": "746-753",
+    "publisher": "Springer Berlin Heidelberg",
+    "keyword": "Cursor; Graphical user interfaces (GUIs); Mouse; Pointer; WIMP",
+    "language": "en",
+    "DOI": "10.1007/978-3-642-40483-2_52",
+    "ISBN": "978-3-642-40483-2",
+    "ISSN": "0302-9743"
+  }
+]

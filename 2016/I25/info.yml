@@ -1,0 +1,33 @@
+id: I25
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2016/I25/I25.pdf'
+type: paper-conference
+title: 'Scale Effects in the Steering Time Difference between Narrowing and Widening Linear Tunnels'
+author:
+  - 'Shota Yamanaka'
+  - 'Homei Miyashita'
+abstract: 'Steering time differs between narrowing and widening linear tunnels; a narrowing tunnel requires more time to navigate than a widening one. A prediction model, IDGap, for the time difference has recently been proposed, and it shows an excellent fit. However, the time difference in movement and model fitness were confirmed on a limited scale. The experiment used a 13.3-inch pen tablet, which required primarily wrist movements with a particular level of forearm extension. In this study, we tested the scale effects in the steering time difference between the two tunnel types. In our experiment, participants performed steering operations at five scales, from the entire 21.5-inch tablet area to its 1/12-scale size. The results always showed the time difference, and the conventional steering law did not show a good fit. IDGap improved the fitness, thereby confirming the validity of the model. The scale effects for the other results, including error rates and index of performance, are also discussed.'
+container_title: 'Proceedings of the 9th Nordic Conference on Human-Computer Interaction'
+issued: 2016/10/23
+volume: ""
+issue: ""
+number: '12'
+page: 1-10
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'Scale effects'
+  - 'motor scale'
+  - 'visual scale'
+  - 'steering law'
+  - 'graphical user interface'
+  - 'human performance.'
+language: en
+doi: 10.1145/2971485.2971486
+issn: ""
+isbn: 978-1-4503-4763-1
+external_url: 'http://dl.acm.org/citation.cfm?id=2971486'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2016/I25/'
