@@ -1,0 +1,28 @@
+id: D175
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D175/D175.pdf'
+type: paper-conference
+title: タイムラインとビジュアルプログラミングを融合した映像制作システム
+author:
+  - 高橋弘毅
+  - 宮下芳明
+abstract: 本稿ではモーショングラフィックスと呼ばれる映像の制作に焦点を当て，タイムラインとビジュアルプログラミングを組み合わせた映像制作システムを提案する．映像の制作手法にはタイムラインを用いるものと，プログラミングを用いるものがある．前者は映像を時間軸上で管理できるが大量の映像オブジェクトを扱うことや，数式に基づいてオブジェクトを移動させることなどが難しい．一方プログラミングを用いればタイムラインの欠点を補うことができるが時間指定での映像制作が難しく，プログラミング未経験者にとってハードルが高い．そこで提案手法では映像プログラムを視覚的にわかりやすいビジュアルプログラミングで構築し，タイムラインで映像プログラムの実行時間を制御することで既存の手法の問題点を解決する．本論文では提案システムの実装，評価を行った．
+container_title: インタラクション2017論文集
+issued: 2017/02/23
+volume: ""
+issue: ""
+number: ""
+page: 201-206
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2017/data/bib/1-506-26.html'
+youtube_url: 'https://www.youtube.com/watch?v=zAyZGdVmwkw'
+links: []
+url: 'https://research.miyashita.com/2017/D175/'
+ogp_image: 'https://research.miyashita.com/2017/D175/thumb.jpg'

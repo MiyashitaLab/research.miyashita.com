@@ -1,0 +1,28 @@
+id: D181
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D181/D181.pdf'
+type: paper-conference
+title: チルトコントロールを用いたステアリングタスクにおけるユーザパフォーマンスの評価
+author:
+  - 下野弘朗
+  - 山中祥太
+  - 宮下芳明
+abstract: '本研究は，デバイスの傾きによってポインターの位置を入力する手法について，そのユーザパフォーマンスを評価したものである．実験では参加者に両手でタブレット型端末を持たせ，直線型 ・ 円形の経路に沿ってポインターを通過させた．複数の経路幅 ・ 経路長の組み合わせについてそれぞれ実施した結果，そのユーザパフォーマンスがステアリングの法則に適合することが分かった．また，横方向に通過する直線型経路を縦方向にずらした状態でポインターを通過させる実験を行った．その結果，経路幅 ・ 経路長が同じであっても経路の位置によって通過時間が異なり，経路が回転軸離れているほど通過時間が長くなることが分かった．ただし，回転軸から経路までの距離と通過時間の関係は必ずしも対称になるわけではないことが観察された． '
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2017/02/27
+volume: 2017-HCI-172
+issue: '7'
+number: ""
+page: 1-6
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: '2188-8760 '
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00177782/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/D181/'

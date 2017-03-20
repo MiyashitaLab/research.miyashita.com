@@ -1,0 +1,28 @@
+id: D176
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D176/D176.pdf'
+type: paper-conference
+title: MouseTutor：マウスに手を動かされるチュートリアル
+author:
+  - 塩出研史
+  - 宮下芳明
+abstract: コンピュータのソフトウェアのチュートリアルには，文章・画像・動画などを用いたものが存在する．これらの方法では，得られる情報が視覚・聴覚情報に限定されている．一方で，マウス操作を多用するペイント系・3Dモデリングのソフトウェアを代表に，視覚・聴覚情報だけでは理解の困難なソフトウェアが存在する．本研究では，実際のソフトウェア上で自動的に動くカーソルに合わせ，マウスの位置を制御するチュートリアルを提案する．マウスの位置はXYステージとコンピュータによって制御される．本システムは，従来のチュートリアルで得られた視覚・聴覚情報に加え，物理的にユーザに対して働きかけることによって，ソフトウェアの使い方の理解を促進することが期待される．本稿では，システムの基本的な設計，評価および今後の展望を述べる．
+container_title: インタラクション2017論文集
+issued: 2017/02/23
+volume: ""
+issue: ""
+number: ""
+page: 216-221
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2017/data/bib/1-510-29.html'
+youtube_url: 'https://www.youtube.com/watch?v=PLYZwBod9MU'
+links: []
+url: 'https://research.miyashita.com/2017/D176/'
+ogp_image: 'https://research.miyashita.com/2017/D176/thumb.jpg'

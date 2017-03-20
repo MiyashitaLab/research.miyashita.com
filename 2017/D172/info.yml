@@ -1,0 +1,29 @@
+id: D172
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D172/D172.pdf'
+type: paper-conference
+title: 連結した直線経路をステアリングする動作の分析とモデル化
+author:
+  - 山中祥太
+  - 'Wolfgang Stuerzlinger'
+  - 宮下芳明
+abstract: 'ステアリングの法則は，単一の直線経路・環状経路を通過する時間を高精度に予測できることが知られている．また，コーナーで連結された経路を通過する時間を求めるバージョンなど，モデルにさらなる拡張が施されることもある．しかし，連結された直線経路，すなわち幅の異なる直線経路が直線状に繋がったものを通過する動作について詳細に分析・モデル化されたことはない．このような動作は，イラストレーションソフトのラッソ操作（投げ縄ツールのように自由選択をする操作）で求められる．本研究では，連結経路を通過するタスクにおける操作性能を検証するために3つの実験を行った．実験の結果，単一経路と連結経路を比較したとき，ユーザが明確に挙動を変えることを示し，その挙動変化は経路の連結点を通過するよりもかなり前もって決められてることを示した．単一の経路の難易度（ID）を単純に加算することで，経路全体の通過時間を高精度に予測できる（R2 > 0.96）ことがわかったが，より正確に予測可能なモデルを導出して比較議論する．R2および赤池情報量基準（AIC）の値の比較から，2本目の経路に進入する動作をクロッシングタスクと見なしてIDを調整するモデルが最良であることが支持された．'
+container_title: インタラクション2017論文集
+issued: 2017/02/23
+volume: ""
+issue: ""
+number: ""
+page: 17-26
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2017/data/bib/17INT003.html'
+youtube_url: 'https://www.youtube.com/watch?v=SjMnUsvHcyI'
+links: []
+url: 'https://research.miyashita.com/2017/D172/'
+ogp_image: 'https://research.miyashita.com/2017/D172/thumb.jpg'

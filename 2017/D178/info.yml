@@ -1,0 +1,28 @@
+id: D178
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D178/D178.pdf'
+type: paper-conference
+title: レーザカットによるぜんまいばね製作とその性能評価
+author:
+  - 大場直史
+  - 宮下芳明
+abstract: これまでにレーザカッターで立体物や可動部を作りやすくする研究が行われてきた．筆者らはそれらに動力として組み込めるぜんまいを提案する．レーザカットで他の部品と同素材のぜんまいを製作できれば，別出力する時間とコストの削減に繋がる．ユーザがばねの性能を設計できることが望ましいが，金属のぜんまいばね製作に利用されていた式を適用できるかは分かっていない．本論文ではレーザカッターに広く利用されるMDFとアクリル板でぜんまいばねを製作し，ある程度の誤差の範囲内で設計式の利用及び性能制御が可能であることを示した．
+container_title: インタラクション2017論文集
+issued: 2017/02/23
+volume: ""
+issue: ""
+number: ""
+page: 838-843
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2017/data/bib/3-404-52.html'
+youtube_url: 'https://www.youtube.com/watch?v=FoREdPqhxfw'
+links: []
+url: 'https://research.miyashita.com/2017/D178/'
+ogp_image: 'https://research.miyashita.com/2017/D178/thumb.jpg'

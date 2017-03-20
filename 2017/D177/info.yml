@@ -1,0 +1,28 @@
+id: D177
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D177/D177.pdf'
+type: paper-conference
+title: レーザカッタにより発生した端材の再利用システム
+author:
+  - 林初実
+  - 宮下芳明
+abstract: 本稿ではレーザカッタ作業によって発生してしまう端材群から，指定した図形を切り出せるものを画像処理によって選定するシステムを提案する．また本稿では，複数の図形を切り出せる端材を選定するまでの時間やユーザへの負担について評価する実験を行い，その有効性を確認した．
+container_title: インタラクション2017論文集
+issued: 2017/02/23
+volume: ""
+issue: ""
+number: ""
+page: 605-610
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2017/data/bib/2-406-62.html'
+youtube_url: 'https://www.youtube.com/watch?v=J-CAgNGf5As'
+links: []
+url: 'https://research.miyashita.com/2017/D177/'
+ogp_image: 'https://research.miyashita.com/2017/D177/thumb.jpg'

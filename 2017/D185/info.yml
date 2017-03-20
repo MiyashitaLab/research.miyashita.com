@@ -1,0 +1,27 @@
+id: D185
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D185/D185.pdf'
+type: paper-conference
+title: 説明員がヘッドマウントディスプレイ体験者を誘導するための支援システム
+author:
+  - 若林裕太
+  - 宮下芳明
+abstract: '3D モデル化した住居の内覧など，ヘッドマウントディスプレイ （HMD） を利用したヴァーチャルリアリティ （VR） コンテンツの普及が急速に進んでいる．このような VR コンテンツの体験の場では，説明員が HMD 体験者に対して説明を行うことがある．説明の際には，HMD 体験者に説明の対象となる箇所を見て貰う必要がある．そのため，説明員は HMD 体験者を移動させたり，特定の方向を向かせるなどの誘導を行う．発話のみで HMD 体験者を誘導することは容易ではないため，説明員と HMD 体験者間で説明対象の伝達をスムーズにすることで誘導を支援する手法が提案されている．しかし，説明対象を HMD 体験者と共有するだけでは，HMD 体験者を説明対象を見るのに適した鑑賞地点へ誘導することはできない．そこで本論文では，説明員が説明対象と，それを見るのに適切な鑑賞地点を指定して HMD 体験者へ伝達する誘導手法を提案する．この手法により，説明員は HMD 体験者を説明対象を見るのに適した位置へ誘導することができる． '
+container_title: 研究報告エンタテインメントコンピューティング（EC）
+issued: 2017/03/03
+volume: 2017-EC-43
+issue: '1'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: 2188-8914
+isbn: ""
+external_url: 'http://id.nii.ac.jp/1001/00178190/'
+youtube_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/D185/'
