@@ -2,7 +2,7 @@ general:
   isTest: true
   siteName: Example Research
   siteUrl: https://example.com
-  twitterID: @twitter
+  twitterID: '@twitter'
   searchID: 'XXXXXXXXX:XXXXXXXXXX'
 researchList:
   - author:
