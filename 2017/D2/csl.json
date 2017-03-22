@@ -1,15 +1,16 @@
 [
   {
-    "id": "D1",
+    "id": "D2",
     "type": "paper-conference",
-    "title": "減算式作曲：「音を削る」彫刻的な次世代音楽制作法",
+    "title": "pHテルミンと泡音リズム[Awa-Odo-Rhythm]化学楽器を用いたメディアアートパフォーマンス",
     "author": [
       {
         "literal": "宮下芳明"
       }
     ],
     "container-title": "エンタテインメントコンピューティングシンポジウム2007論文集",
-    "page": "141-144",
+    "issued": "2017/10/01",
+    "page": "223-224",
     "publisher": "情報処理学会",
     "language": "ja"
   }
