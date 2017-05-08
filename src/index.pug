@@ -46,7 +46,10 @@ html
       form(method="GET", action="/search").flex
         input.flex-auto.p2.border(type="search", name="q", placeholder="Google Search")
     section.notice.max-width-4.mx-auto.px2
-      p.center 本データベースにおける著作権については#[a(href="/copyright/") こちらをご覧ください]
+      p.center
+        span.nowrap 本データベースにおける
+        span.nowrap 著作権については
+        span.nowrap #[a(href="/copyright/") こちらをご覧ください]
     section.max-width-4.mx-auto.px2
       h3.center List of All Research
       ul.block.p0
