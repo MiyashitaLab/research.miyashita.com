@@ -42,6 +42,18 @@ a:focus {
   text-decoration: inherit;
 }
 
+.notice {
+  & a {
+    color: #0288D1;
+
+    &:hover,
+    &:active,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}
+
 .border,
 .border-left,
 .border-right,

@@ -42,9 +42,11 @@ html
       h2.center
         a(href="/")
           span.nowrap 明治大学 宮下研究室&#x20;
-          span.nowrap 機関リポジトリ
+          span.nowrap 論文データベース
       form(method="GET", action="/search").flex
         input.flex-auto.p2.border(type="search", name="q", placeholder="Google Search")
+    section.notice.max-width-4.mx-auto.px2
+      p.center 本データベースにおける著作権については#[a(href="/copyright/") こちらをご覧ください]
     section.max-width-4.mx-auto.px2
       h3.center List of All Research
       ul.block.p0
@@ -60,6 +62,6 @@ html
     footer.max-width-4.mx-auto.px2.my3
       .center
         small &copy; Miyashita Lab
-      .center
+      .center.notice
         small By using this site, you agree to the #[a(href="/copyright") Copyright Notice].
 
