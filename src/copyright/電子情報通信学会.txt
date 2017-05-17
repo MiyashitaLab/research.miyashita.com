@@ -1,0 +1,7 @@
+本著作物は電子情報通信学会著作権規程に則り、著作権者である電子情報通信学会の許可のもとに掲載するものです。
+本著作物の著作権は電子情報通信学会に帰属します。
+ご利用に当たっては「著作権法」ならびに「電子情報通信学会著作権規程」に従うことをお願いいたします。
+<br>
+The copyright of this material is retained by the Institute of Electronics, Information and Communication Engineers (IEICE). This material is published on this web site with the agreement of the IEICE. Please comply with Copyright Law of Japan and the Copyright rules of the IEICE if any users wish to reproduce, make derivative work, distribute or make available to the public any part or whole thereof.
+<br>
+<a href="https://search.ieice.org/">IEICE Transactions Online TOP https://search.ieice.org/</a>
