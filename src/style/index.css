@@ -9,6 +9,8 @@
 @import url("https://unpkg.com/basscss-responsive-padding@1.1.0/css/responsive-padding.css");
 @import url("https://unpkg.com/basscss-responsive-layout@1.0.1/css/responsive-layout.css");
 @import url("https://unpkg.com/basscss-responsive-type-scale@1.0.1/css/responsive-type-scale.css");
+@import url("https://unpkg.com/basscss-btn@1.1.1/css/btn.css");
+@import url("https://unpkg.com/basscss-btn-sizes@1.2.0/css/btn-sizes.css");
 
 body {
   line-height: 1.5;
@@ -88,8 +90,15 @@ footer {
 
 .link-list {
   list-style-type: none;
+
+  & .pdf-link {
+    color: #C62828;
+  }
+  & a {
+    border-bottom: 1px solid #BDBDBD;
+  }
   & a:hover {
-    border-bottom: 1px solid #E0E0E0;
+    border-bottom: 1px solid #FAFAFA;
   }
 }
 
@@ -111,6 +120,32 @@ footer {
 
 .gsc-adBlock {
   display: none !important;
+}
+
+.social-buttons {
+  font-size: 0.75em;
+
+  & .btn {
+    margin-left: 0.5rem;
+    color: #FFFFFF;
+
+    &.twitter {
+      background-color: #1DA1F2;
+    }
+    &.facebook {
+      background-color: #3B5998;
+    }
+    &:hover {
+      color: #FAFAFA;
+      opacity: 0.75;
+    }
+  }
+}
+
+.research-list {
+  &:hover {
+    opacity: 0.5;
+  }
 }
 
 @media (max-width: 40em) {

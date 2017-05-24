@@ -113,6 +113,21 @@ html
           for author in info.author
             span.nowrap.ml2= author
             wbr
+        p.social-buttons.right-align
+          -
+            var facebookURL =
+              "https://facebook.com/sharer/sharer.php?u=" + encodeURIComponent(info.url);
+          a.mx1.rounded.btn.btn-small.facebook.ml1(href=facebookURL, target="_blank")
+            i.fa.fa-facebook.mr1
+            span Facebook
+          -
+            var twitterURL =
+              "https://twitter.com/intent/tweet/?text=" +
+              encodeURIComponent(info.title + ' | ' + general.siteName) +
+              '&amp;url=' + encodeURIComponent(info.url);
+          a.rounded.btn.btn-small.twitter.ml1(href=twitterURL, target="_blank")
+            i.fa.fa-twitter.mr1
+            span Twitter
     if info.youtube_url
       section.max-width-4.mx-auto.px2
         .lg-px4
@@ -177,14 +192,20 @@ html
       ul.p0.px2.link-list
         if info.pdf_url
           li.inline-block.mr2.pb1
-            i.mr1.fa.fa-lg.fa-file-pdf-o
-            a(href=info.pdf_url) Paper (PDF)
+            i.pdf-link.mr1.fa.fa-lg.fa-file-pdf-o
+            a(href=info.pdf_url)
+              span Paper (PDF)
+              small.ml1 #[i.fa.fa-external-link]
         li.inline-block.mr2.pb1
-          i.mr1.fa.fa-lg.fa-file-text-o
-          a(href="bibtex.bib") BibTeX
+          i.bibtex-link.mr1.fa.fa-lg.fa-file-text-o
+          a(href="./bibtex.bib")
+            span BibTeX
+            small.ml1 #[i.fa.fa-external-link]
         li.inline-block.mr2.pb1
-          i.mr1.fa.fa-lg.fa-file-code-o
-          a(href="csl.json") CSL-JSON
+          i.csl-link.mr1.fa.fa-lg.fa-file-code-o
+          a(href="./csl.json")
+            span CSL-JSON
+            small.ml1 #[i.fa.fa-external-link]
     if info.links.length !== 0
       section.max-width-4.mx-auto.px2
         h2.px2.pb1.border-bottom Links

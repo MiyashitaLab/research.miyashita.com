@@ -15,6 +15,13 @@ researchList:
     title: Example Paper
     year: 9999
     url: /_info.html
+  - author:
+      - John Smith
+      - John Smith
+      - John Smith
+    title: Example Paper - James while John had had had had had had had had had had had a better effect on the teacher
+    year: 9999
+    url: /_info.html
 info:
   id: X0
   draft: false

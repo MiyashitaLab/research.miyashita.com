@@ -36,6 +36,12 @@ html
     link(rel="stylesheet", href="/style/index.css")
 
   body
+    nav.px2.pt2.pb1.border-bottom.clearfix
+      .left.col-12.md-col-2.pb1.center.nowrap
+        a(href="/") Miyashita Lab Research
+      .right.col-12.md-col-3.lg-col-2.pb1
+        form(method="GET", action="/search").flex
+          input.flex-auto.px1.border(type="search", name="q", placeholder="Search")
     header.max-width-4.mx-auto.px2
       h1.center
         a(href="/") Miyashita Lab Research
@@ -44,25 +50,28 @@ html
           span.mr1.nowrap.inline-block 明治大学
           span.mr1.nowrap.inline-block 宮下研究室
           span.nowrap.inline-block 論文データベース
-      form(method="GET", action="/search").flex
-        input.flex-auto.p2.border(type="search", name="q", placeholder="Google Search")
+      //- form(method="GET", action="/search").flex
+      //-   input.flex-auto.p2.border(type="search", name="q", placeholder="Google Search")
     section.notice.max-width-4.mx-auto.px2
       p.center
         span.nowrap.inline-block 本データベースにおける
         span.nowrap.inline-block 著作権については
         span.nowrap.inline-block #[a(href="/copyright/") こちらをご覧ください]
     section.max-width-4.mx-auto.px2
-      h3.center List of All Research
+      h3.center 論文一覧
       ul.block.p0
         for research in researchList
           li.block.px1.pt2.pb1.border
-            a.block.clearfix(href=research.url)
-              .left.pb1
-                span= research.title
-              .right.pb1
-                .px1.right-align= research.author.join(', ')
-                .px1.right-align
-                  date= research.year
+            a.research-list.block.flex(href=research.url)
+              .flex-auto.clearfix
+                .left.pb1
+                  span= research.title
+                .right.pb1
+                  .px1.right-align
+                    span= research.author.join(', ')
+                    date.px1= research.year
+              div
+                i.mx-auto.fa.fa-lg.fa-arrow-circle-right
     footer.max-width-4.mx-auto.px2.my3
       .center
         small &copy; Miyashita Lab
