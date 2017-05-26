@@ -58,7 +58,9 @@ html
         span.nowrap.inline-block 著作権については
         span.nowrap.inline-block #[a(href="/copyright/") こちらをご覧ください]
     section.max-width-4.mx-auto.px2
-      h3.center 論文一覧
+      h3.center
+        span.nowrap.inline-block 論文一覧
+        small.mx1.nowrap.inline-block #{researchList.length} 件
       ul.block.p0
         for research in researchList
           li.block.px1.pt2.pb1.border
