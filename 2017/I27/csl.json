@@ -1,0 +1,38 @@
+[
+  {
+    "id": "I27",
+    "type": "paper-conference",
+    "title": "Machines as Co-Designers: A Fiction on the Future of Human-Fabrication Machine Interaction",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Jeeeun"
+      },
+      {
+        "family": "Takahashi",
+        "given": "Haruki"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      },
+      {
+        "family": "Annett",
+        "given": "Michelle"
+      },
+      {
+        "family": "Yeh",
+        "given": "Tom"
+      }
+    ],
+    "abstract": "While current fabrication technologies have led to a wealth of techniques to create physical artifacts of virtual designs, they require unidirectional and constraining interaction workflows. Instead of acting as intelligent agents that support human’s natural tendencies to iteratively refine ideas and experiment, today’s fabrication machines function as output devices. In this work, we argue that fabrication machines and tools should be thought of as live collaborators to aid in-situ creativity, adapting physical dynamics come from unique materiality and/or machine specific parameters. Through a series of design narratives, we explore Human-FabMachine Interaction (HFI), a novel viewpoint from which to reflect on the importance of (i) interleaved design thinking and refinement during fabrication, (ii) enriched methods of interaction with fabrication machines regardless of skill level, and (iii) concurrent human and machine interaction.",
+    "container-title": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+    "issued": "2017/05/06",
+    "page": "790-805",
+    "publisher": "ACM",
+    "keyword": "Human-fabMachine interaction; concurrent collaboration; creativity support; emerging design",
+    "language": "en",
+    "DOI": "10.1145/3027063.3052763",
+    "ISBN": "978-1-4503-4656-6"
+  }
+]
