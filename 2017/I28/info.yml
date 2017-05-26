@@ -1,0 +1,35 @@
+id: I28
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/I28/I28.pdf'
+type: paper-conference
+title: 'Steering Through Sequential Linear Path Segments'
+author:
+  - 'Shota Yamanaka'
+  - 'Wolfgang Stuerzlinger'
+  - 'Homei Miyashita'
+abstract: 'The steering law models human motor performance and has been verified to hold for a single linear and/or circular path. Some extensions investigated steering around corners. Yet, little is known about human performance in navigating joined linear paths, i.e., successions of path segments with different widths. Such operations appear in graphical user interface tasks, including lasso operations in illustration software. In this work, we conducted several experiments involving joined paths. The results show that users significantly changed their behavior, and that this strategy change can be predicted beforehand. A simple model summing the two indexes of difficulty (IDs) for each path predicts movement time well, but more sophisticated models were also evaluated. The best model in terms of both of R2 and AIC values includes the ID of the crossing operation to enter the second path.'
+container_title: 'Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems'
+issued: 2017/05/06
+volume: ""
+issue: ""
+number: ""
+page: 232-243
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'Steering law'
+  - 'graphical user interfaces'
+  - pointing
+  - 'human performance'
+  - modeling
+  - 'motor control'
+language: en
+doi: 10.1145/3025453.3025625
+issn: ""
+isbn: ""
+external_url: 'http://dl.acm.org/citation.cfm?id=3025836'
+youtube_url: 'https://www.youtube.com/watch?v=kQQe4N6Tsa0'
+links: []
+url: 'https://research.miyashita.com/2017/I28/'
+ogp_image: 'https://research.miyashita.com/2017/I28/thumb.jpg'
