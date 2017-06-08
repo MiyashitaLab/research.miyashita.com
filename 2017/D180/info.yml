@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D180/D180.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 足音遅延フィードバックを用いた歩行周期への介入
 author:
   - 松尾良馬

@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D96/D96.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'ToolBaCo: 提示型の情報共有コミュニティ'
 author:
   - 清水和晃

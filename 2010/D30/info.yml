@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D30/D30.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'F.A.R. Vision：拡張現実感の情報量を制御する眉間フェーダー'
 author:
   - 中村裕美

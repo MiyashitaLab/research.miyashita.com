@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2008/D6/D6.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: ニコニコ動画における映像要約とサビ検出の試み
 author:
   - 青木秀憲

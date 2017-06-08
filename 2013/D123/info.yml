@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D123/D123.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 「数値メモ」のための入力手法
 author:
   - 井川洋平

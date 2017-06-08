@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D146/D146.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 極小タッチデバイスにおける文字の分割入力手法
 author:
   - 金井達巳

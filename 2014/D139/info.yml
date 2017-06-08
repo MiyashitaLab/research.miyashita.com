@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D139/D139.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 自由なテンポで演奏した複数の録音データから楽曲を生成するシステム
 author:
   - 川名勇気

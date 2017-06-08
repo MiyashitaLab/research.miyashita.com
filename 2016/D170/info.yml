@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/D170/D170.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: '俯瞰視点と体験者視点の差異を考慮した VR 空間誘導システム'
 author:
   - 若林裕太

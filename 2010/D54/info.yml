@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: 'CatchyMemo 2：記憶定着を促すメモ帳'
 author:
   - 中村美惠子

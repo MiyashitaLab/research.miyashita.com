@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D156/D156.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 拡縮操作による柔軟なレーティングインタフェースの提案
 author:
   - 若林裕太

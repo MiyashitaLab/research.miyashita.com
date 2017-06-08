@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D131/D131.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: イヤホンを用いたスマートフォンの操作と個人認証
 author:
   - 山本涼太

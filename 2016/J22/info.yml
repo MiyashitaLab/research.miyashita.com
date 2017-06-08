@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/J22/J22.pdf'
 type: article-journal
+thumbnailpreview: ""
 title: オーバーエクストルージョンを用いた熱溶解積層方式3Dプリンタのための造形手法
 author:
   - 高橋治輝

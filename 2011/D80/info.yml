@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D80/D80.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: スライドの分割・統合による柔軟なプレゼンテーションツールの提案
 author:
   - 矢田裕基

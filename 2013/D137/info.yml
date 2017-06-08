@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D137/D137.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: '紙窓: そこに置くだけで操作可能なカードインタフェース'
 author:
   - 加藤邦拓

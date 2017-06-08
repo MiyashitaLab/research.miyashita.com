@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: ラジオマーカ：仮想オブジェクト位置に音像を再現するARマーカ
 author:
   - 吉川祐輔

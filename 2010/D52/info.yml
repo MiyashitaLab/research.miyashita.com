@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D52/D52.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: プレゼンとプレゼンの場をマンガ表現するインタラクティブシステム
 author:
   - 藤本雄太

@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: 'Fitter: A System for Easily Printing Objects that Fit Real Objects'
 author:
   - 'Yoh Akiyama'

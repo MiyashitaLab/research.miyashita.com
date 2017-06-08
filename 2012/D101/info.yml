@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D101/D101.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: コンテンツリストにおけるインタラクション手法の提案
 author:
   - 山中祥太

@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: 'Electronic kit with no current flow that uses projection mapping'
 author:
   - 'Yoh Akiyama'

@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: 磁気センシングに基づくスマートフォン近辺でのイヤホン位置推定と非接触入力デバイスとしての活用
 author:
   - 山本涼太

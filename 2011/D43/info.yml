@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: 'フィジカルコンピューティングへのモチベーションを向上させるブレッドボードHMMBBの提案 '
 author:
   - 宮下芳明

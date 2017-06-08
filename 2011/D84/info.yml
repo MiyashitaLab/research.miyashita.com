@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D84/D84.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 例示による携帯プログラミングの拡張
 author:
   - 瀬戸優之

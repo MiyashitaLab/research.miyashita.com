@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2008/D4/D4.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 文字認識「する側」と「される側」を歩み寄らせるインタフェース
 author:
   - 篠原祐樹

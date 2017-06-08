@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/J9/J9.pdf'
 type: article-journal
+thumbnailpreview: ""
 title: 画像バッファの組み合わせによるリアルタイム錯覚表現生成手法
 author:
   - 吉川祐輔

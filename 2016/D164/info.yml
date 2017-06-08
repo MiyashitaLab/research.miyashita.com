@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/D164/D164.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 表面でのタッチ操作が可能なタンジブルインタフェースの3Dプリント手法
 author:
   - 上野新葉

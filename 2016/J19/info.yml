@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/J19/J19.pdf'
 type: article-journal
+thumbnailpreview: ""
 title: 'ExtensionSticker: タッチパネルを拡張するインタフェース'
 author:
   - 加藤邦拓

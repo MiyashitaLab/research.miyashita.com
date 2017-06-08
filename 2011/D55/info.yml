@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D55/D55.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'SeekRopes: 複数スライダとシークロープによる音楽制作'
 author:
   - 青木惇季

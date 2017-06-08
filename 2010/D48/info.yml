@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D48/D48.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'Balloon Chat：発言されないコメントも浮かばれるチャット'
 author:
   - 山中祥太

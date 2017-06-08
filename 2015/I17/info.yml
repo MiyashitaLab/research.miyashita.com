@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/I17/I17.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'ExtensionSticker: A Proposal for A Striped Pattern Sticker to Extend Touch Interfaces and its Assessment'
 author:
   - 'Kunihiro Kato'

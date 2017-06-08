@@ -13,6 +13,7 @@
         "given": "Homei"
       }
     ],
+    "abstract": "GUI環境におけるユーザの操作にアニメーションを付加することで操作感を変化させる，という研究の展示を行う．これまでも，ユーザが操作するデバイスの移動量と，ディスプレイ上に表示される操作対象の移動量との比を制御することで，触覚を生じさせることが可能であるという研究が広く行われている．本展示は，こういった操作対象への直接のノイズ付加を行わずにデバイスの操作感を変化させようというものである．",
     "container-title": "International Symposium on Psychological vs Mathematical Approaches to Optical Illusion(Tokyo Symposium on Optical Illusion 2015)",
     "issued": "2015/3/4",
     "language": "en"

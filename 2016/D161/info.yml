@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/D161/D161.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 鑑賞位置を指定する展示作品に対する鑑賞領域拡張手法
 author:
   - 林初実

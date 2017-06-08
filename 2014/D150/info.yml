@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D150/D150.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'HoverPen: 交わらない線が描けるペンで実現可能な表現'
 author:
   - 高橋治輝

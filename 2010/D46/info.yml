@@ -3,6 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
+thumbnailpreview: ""
 title: 口笛の音域を拡張するシステム
 author:
   - 松岡拓人

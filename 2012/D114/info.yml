@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D114/D114.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 路面上への二点投影による歩行速度ナビゲーション
 author:
   - 馬場さおり

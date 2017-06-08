@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D56/D56.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: ジェスチャ操作で入力する絵文字ソースの携帯プログラミング
 author:
   - 瀬戸優之

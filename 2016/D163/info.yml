@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/D163/D163.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: オブジェクト上でのタッチ操作を実現するタンジブルインタフェース
 author:
   - 上野新葉

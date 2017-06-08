@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/I13/I13.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'TapLaptop: Expansion of the Operating Area of a Laptop by Detection Taps Using a Single Embedded Microphone'
 author:
   - 'Haruki Takahashi'

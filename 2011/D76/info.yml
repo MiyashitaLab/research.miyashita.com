@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D76/D76.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 複数のスマートフォンを用いた多人数による動画編集システムの提案
 author:
   - 嶋本諒太

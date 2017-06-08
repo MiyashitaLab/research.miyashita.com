@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I21/I21.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: '3D Printed Physical Interfaces that can Extend Touch Devices'
 author:
   - 'Kunihiro Kato'

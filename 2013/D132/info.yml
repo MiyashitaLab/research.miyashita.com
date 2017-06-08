@@ -3,6 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D132/D132.pdf'
 type: paper-conference
+thumbnailpreview: ""
 title: 'アイズフリーで速記できる 「方向のみ」のフリック入力手法'
 author:
   - 井川洋平
