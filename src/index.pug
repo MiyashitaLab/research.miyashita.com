@@ -61,9 +61,9 @@ html
       h3.center
         span.nowrap.inline-block 論文一覧
         small.mx1.nowrap.inline-block #{researchList.length} 件
-      ul.block.p0
+      ul.block.p0.border-top.border-left.border-right
         for research in researchList
-          li.block.px1.pt2.pb1.border
+          li.block.px1.pt2.pb1.border-bottom
             a.research-list.block.flex(href=research.url)
               .flex-auto.clearfix
                 .left.pb1
