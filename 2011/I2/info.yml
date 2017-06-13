@@ -1,7 +1,7 @@
 id: I2
 draft: false
-available_pdf: false
-pdf_url: 'https://drive.google.com/open?id=0B9VTK9E5zVBaR29JN2dvSGtNWmc'
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/I2/I2.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 'CatchyAccount: A System for Acquiring a Realistic Sense of Expenditures'
