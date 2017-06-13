@@ -1,7 +1,7 @@
 id: D45
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D45/D45.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 料理プログラミングの為の枠組みについて

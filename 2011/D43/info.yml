@@ -1,7 +1,7 @@
 id: D43
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D43/D43.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 'フィジカルコンピューティングへのモチベーションを向上させるブレッドボードHMMBBの提案 '
