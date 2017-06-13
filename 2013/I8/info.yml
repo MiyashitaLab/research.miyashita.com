@@ -1,7 +1,7 @@
 id: I8
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2013/I8/I8.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 'The Nudging Technique: Input Method without Fine-Grained Pointing by Pushing a Segment'

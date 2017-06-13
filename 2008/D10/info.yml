@@ -1,7 +1,7 @@
 id: D10
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2008/D10/D10.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 4-Danmension：デュアル断面図による４次元空間の表現

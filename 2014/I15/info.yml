@@ -1,7 +1,7 @@
 id: I15
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2014/I15/I15.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 'Projectron Mapping: The Exercise and Extension of Augmented Workspaces for Learning Electronic Modeling through Projection Mapping'

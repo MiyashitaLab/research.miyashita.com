@@ -1,7 +1,7 @@
 id: I5
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2012/I5/I5.pdf'
 type: paper-conference
 thumbnail_preview: ""
 title: 'Development and Evaluation of Interactive System for Synchronizing Electric Taste and Visual Content'
