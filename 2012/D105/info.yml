@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D105/D105.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 時間とのインタラクションによるプログラミング支援
 author:
   - 加藤邦拓

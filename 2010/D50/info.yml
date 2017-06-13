@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D50/D50.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Bar-code Based Community：ソフト/ハードの区別なく同じツールのユーザ同士を繋げる仕組み'
 author:
   - 清水和晃

@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D176/D176.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: MouseTutor：マウスに手を動かされるチュートリアル
 author:
   - 塩出研史

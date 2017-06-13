@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I22/I22.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Thickness Control Technique for Printing Tactile Sheets with Fused Deposition Modeling'
 author:
   - 'Haruki Takahashi'

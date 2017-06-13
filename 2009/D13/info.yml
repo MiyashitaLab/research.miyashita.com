@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2009/D13/D13.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Far Faster Forward：視覚を用いない状況下での高速楽曲探索インタフェース'
 author:
   - 青木秀憲

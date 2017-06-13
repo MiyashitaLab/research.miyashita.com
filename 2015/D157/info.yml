@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D157/D157.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 3Dプリンタの造形中もモデリング可能なインタラクティブ・ファブリケーション
 author:
   - 高橋治輝

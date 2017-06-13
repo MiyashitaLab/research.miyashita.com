@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I19/I19.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'An Interactive Fabrication System that Allows Users to Edit a 3D Model during 3D Printing'
 author:
   - 'Haruki Takahashi'

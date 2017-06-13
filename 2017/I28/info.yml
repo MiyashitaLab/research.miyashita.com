@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/I28/I28.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Steering Through Sequential Linear Path Segments'
 author:
   - 'Shota Yamanaka'

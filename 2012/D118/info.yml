@@ -3,7 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: タッチによる文字選択を廃した新しいフリック入力手法の検討
 author:
   - 井川洋平

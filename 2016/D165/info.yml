@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/D165/D165.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: PomPom：紙巻きオルゴール漫画の制作支援システムの提案
 author:
   - 越後宏紀

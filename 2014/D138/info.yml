@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D138/D138.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'クリップパイプ: ウインドウの見たままを流し続けるアプリケーション連携手法'
 author:
   - 大島裕樹

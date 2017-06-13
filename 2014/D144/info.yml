@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D144/D144.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 操作の気持ちよさを再現するためのインタラクティブアニメーション分析ツール
 author:
   - 大島裕樹

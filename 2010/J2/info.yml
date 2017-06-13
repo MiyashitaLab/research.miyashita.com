@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/J2/J2.pdf'
 type: article-journal
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 視覚を用いない状況下での高速楽曲探索インタフェースの設計と検証
 author:
   - 青木秀憲

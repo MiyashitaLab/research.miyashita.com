@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I23/I23.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'A Tangible Interface to Realize Touch Operations on the Face of a Physical Object'
 author:
   - 'Saraha Ueno'

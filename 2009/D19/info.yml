@@ -3,7 +3,7 @@ draft: false
 available_pdf: false
 pdf_url: ""
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Gravity Piano：物理演算による作曲インタフェース'
 author:
   - 矢田裕基

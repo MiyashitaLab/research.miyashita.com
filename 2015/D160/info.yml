@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D160/D160.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: SensorPipe：スマートフォン側のプログラミングを一切行わないスマートフォン連携プログラミング
 author:
   - 鳥山らいか

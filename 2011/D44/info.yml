@@ -1,9 +1,9 @@
 id: D44
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2011/D44/D44.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: HMMMML2：モチベーション向上の為のコンパイラ
 author:
   - 中橋雅弘

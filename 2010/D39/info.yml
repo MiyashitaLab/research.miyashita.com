@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D39/D39.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: グラフィカルデータフローによる調理レシピプログラミング言語の提案
 author:
   - 吉川祐輔

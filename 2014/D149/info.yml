@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D149/D149.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 不動カーソル領域：ユーザが安心して画面を触ることができる閲覧インタフェース
 author:
   - 宮代理弘

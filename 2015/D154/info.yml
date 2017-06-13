@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D154/D154.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 打ち間違えを適度に許容するパスワード認証の提案
 author:
   - 宮代理弘

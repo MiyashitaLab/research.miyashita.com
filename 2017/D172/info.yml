@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D172/D172.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 連結した直線経路をステアリングする動作の分析とモデル化
 author:
   - 山中祥太

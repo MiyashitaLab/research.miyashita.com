@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D111/D111.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 注視していないことを利用したマウスカーソル高速化手法
 author:
   - 山中祥太

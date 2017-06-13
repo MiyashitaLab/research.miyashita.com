@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2008/D7/D7.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 文字認識における「歩み寄りインタフェース」の試作と検証
 author:
   - 篠原祐樹

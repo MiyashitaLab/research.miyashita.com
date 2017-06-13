@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D184/D184.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Movable Background 方式インタフェースにおけるポインティング操作性能の検証'
 author:
   - 宮代理弘

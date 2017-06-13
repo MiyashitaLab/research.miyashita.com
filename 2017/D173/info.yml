@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D173/D173.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 2次元のタッチ操作を可能とする3Dオブジェクトのプロトタイピング手法
 author:
   - 加藤邦拓

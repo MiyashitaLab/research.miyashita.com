@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D121/D121.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: '音響マクロ : マウス操作の音響記録・再生・配信と編集'
 author:
   - 太田佳敬

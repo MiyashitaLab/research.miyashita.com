@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D147/D147.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: タッチ入力の柔軟な再配置を可能としたインタフェースの作成支援
 author:
   - 加藤邦拓

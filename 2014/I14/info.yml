@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/I14/I14.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Extension Sticker: A Method for Transferring External Touch Input Using a Striped Pattern Sticker'
 author:
   - 'Kunihiro Kato'

@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D153/D153.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'コメントイン: コメントを先に書くことによる新形態のAPIリファレンス'
 author:
   - 薄羽大樹

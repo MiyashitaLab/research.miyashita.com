@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D126/D126.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: '108107: 超好意的解釈コンパイラによりかかったプログラマのための激好意的解釈コンパイラ'
 author:
   - 中橋雅弘

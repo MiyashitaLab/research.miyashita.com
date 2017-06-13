@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/I26/I26.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Expressive Fused Deposition Modeling by Controlling Extruder Height and Extrusion Amount'
 author:
   - 'Haruki Takahashi'

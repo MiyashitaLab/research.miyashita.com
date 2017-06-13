@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D159/D159.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: ドラッグで配線できる基板による電子工作支援
 author:
   - 秋山耀

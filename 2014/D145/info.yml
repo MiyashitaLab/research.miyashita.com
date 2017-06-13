@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D145/D145.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Cross-drag: 細長いターゲットのドラッグを容易にする操作手法'
 author:
   - 山中祥太

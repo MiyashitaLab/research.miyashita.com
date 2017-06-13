@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D100/D100.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 複数の画像バッファを組み合わせることによる拡張現実感上での錯覚表現
 author:
   - 吉川祐輔

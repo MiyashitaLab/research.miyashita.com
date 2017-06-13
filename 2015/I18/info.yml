@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/I18/I18.pdf'
 type: paper-conference
-thumbnailpreview: ""
+thumbnail_preview: ""
 title: 'Creating a Mobile Head-mounted Display with Proprietary Controllers for Interactive Virtual Reality Content'
 author:
   - 'Kunihiro Kato'
