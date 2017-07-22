@@ -13,8 +13,8 @@ const compileInfoHTML = pug.compileFile('./src/_info.pug');
 const compileIndexHTML = pug.compileFile('./src/index.pug');
 const compileSitemapXML = pug.compileFile('./src/_sitemap.pug');
 
-const GDriveFileIdRegExp = /([\w_]{28,})/;
-const DropBoxFileIdRegExp = /([\w_]{15,})/;
+const GDriveFileIdRegExp = /([\w_-]{28,})/;
+const DropBoxFileIdRegExp = /([\w_-]{15,})/;
 
 async function fetchFromGDriveURL(GDriveURL) {
   if (!GDriveFileIdRegExp.test(GDriveURL)) {
