@@ -11,6 +11,8 @@ const config = require('../config/data.json');
 
 const compileInfoHTML = pug.compileFile('./src/_info.pug');
 const compileIndexHTML = pug.compileFile('./src/index.pug');
+const compileListOfYearsHTML = pug.compileFile('./src/_list_of_years.pug');
+const compileYearHTML = pug.compileFile('./src/_year.pug');
 const compileSitemapXML = pug.compileFile('./src/_sitemap.pug');
 
 const GDriveFileIdRegExp = /([\w_-]{28,})/;
@@ -316,8 +318,43 @@ async function generateHTML(info) {
   const indexHTMLData = compileIndexHTML(indexConfig);
   await fs.writeFile(indexHTMLPath, indexHTMLData);
 
+  const yearInfoList = Array.from(new Set(indexEntries.map((entry) => entry.year)))
+    .map((year) => ({
+      year,
+      url: url.resolve(config.general.siteUrl, `/${year}/`),
+    }));
+
+  await fs.mkdirs('./dist/list_of_years');
+  const listOfYearsHTMLPath = './dist/list_of_years/index.html';
+  const listOfYearsHTMLData = compileListOfYearsHTML(Object.assign({}, config, {
+    url: url.resolve(config.general.siteUrl, '/list_of_years/'),
+    yearInfoList,
+  }));
+  await fs.writeFile(listOfYearsHTMLPath, listOfYearsHTMLData);
+
+  for (const yearInfo of yearInfoList) {
+    await fs.mkdirs(`./dist/${yearInfo.year}`);
+    const researchList = indexEntries
+      .filter((entry) => entry.year === yearInfo.year)
+      .sort((a, b) => b.date - a.date);
+    const yearHTMLPath = `./dist/${yearInfo.year}/index.html`;
+    const yearHTMLConfig = Object.assign({}, config, yearInfo, {
+      researchList,
+    });
+    const yearHTMLData = compileYearHTML(yearHTMLConfig);
+    await fs.writeFile(yearHTMLPath, yearHTMLData);
+  }
+
   const sitemapXMLPath = './dist/sitemap.xml';
-  const sitemapXMLData = compileSitemapXML(indexConfig);
+  const sitemapList = [
+    { url: config.general.siteUrl },
+    { url: url.resolve(config.general.siteUrl, '/list_of_years/') },
+    ...yearInfoList,
+    ...indexEntries,
+  ];
+  const sitemapXMLData = compileSitemapXML({
+    sitemapList,
+  });
   await fs.writeFile(sitemapXMLPath, sitemapXMLData);
 
   return true;

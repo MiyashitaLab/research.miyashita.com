@@ -4,6 +4,11 @@ general:
   siteUrl: https://example.com
   twitterID: '@twitter'
   searchID: 'XXXXXXXXX:XXXXXXXXXX'
+yearInfoList:
+  - year: 9999
+    url: /
+sitemapList:
+  - url: https://example.com
 researchList:
   - author:
       - John Smith

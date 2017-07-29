@@ -1,0 +1,58 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1, minimum-scale=1")
+    title= `${general.siteName} | 発表年リスト`
+    if general.isTest
+      meta(name="robots", content="none, noindex, nofollow")
+    link(rel="canonical", href=url)
+
+    //- description and keywords
+    meta(name="description", content=general.description.trim())
+
+    //- OGP
+    meta(property="og:type", content="website")
+    meta(property="og:title", content=`${general.siteName} | 発表年リスト`)
+    meta(property="og:url", content=url)
+    meta(property="og:description", content=general.description.trim())
+
+    //- CSS
+    link(rel="stylesheet", href="/style/index.css")
+
+  body
+    nav.px2.pt2.pb1.border-bottom.clearfix
+      .left.col-12.md-col-2.pb1.center.nowrap
+        a(href="/") Miyashita Lab Research
+      .right.col-12.md-col-3.lg-col-2.pb1
+        form(method="GET", action="/search").flex
+          input.flex-auto.px1.border(type="search", name="q", placeholder="Search")
+    header.max-width-4.mx-auto.px2
+      h1.center
+        a(href="/")
+          span.mr1.nowrap.inline-block 明治大学
+          span.mr1.nowrap.inline-block 宮下研究室
+          span.nowrap.inline-block 論文データベース
+    section.notice.max-width-4.mx-auto.px2
+      p.center
+        span.nowrap.inline-block 本データベースにおける
+        span.nowrap.inline-block 著作権については
+        span.nowrap.inline-block #[a(href="/copyright/") こちらをご覧ください]
+    section.max-width-4.mx-auto.px2
+      h3.center
+        span.nowrap.inline-block 発表年リスト
+      ul.block.p0.border-top.border-left.border-right
+        for yearInfo in yearInfoList
+          li.block.px1.pt2.pb1.border-bottom
+            a.research-list.block.flex(href=yearInfo.url)
+              .flex-auto.clearfix
+                .left.pb1
+                  span #{yearInfo.year} 年
+                .right.pb1
+              .ml1
+                i.mx-auto.fa.fa-lg.fa-arrow-circle-right
+    footer.max-width-4.mx-auto.px2.my3
+      .center
+        small &copy; Miyashita Lab
+      .center.notice
+        small By using this site, you agree to the #[a(href="/copyright") Copyright Notice].
