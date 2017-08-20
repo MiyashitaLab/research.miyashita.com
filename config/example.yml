@@ -14,6 +14,7 @@ researchList:
       - John Smith
     title: Example Paper
     year: 9999
+    small_thumbnail: https://unsplash.it/320/180/?random
     url: /_info.html
   - author:
       - John Smith

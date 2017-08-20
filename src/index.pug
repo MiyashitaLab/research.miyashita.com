@@ -17,6 +17,12 @@ html
     meta(property="og:url", content=general.siteUrl)
     meta(property="og:description", content=general.description.trim())
 
+    //- Twitter Card
+    meta(name="twitter:card", content="summary")
+    meta(name="twitter:site", content=general.twitterID)
+    meta(name="twitter:title", content=general.siteName)
+    meta(name="twitter:description", content=general.description.trim())
+
     //- JSON-LD
     -
       var schemaJSON = JSON.stringify({
@@ -35,6 +41,11 @@ html
     //- CSS
     link(rel="stylesheet", href="/style/index.css")
 
+    //- Lazy Load
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/blazy/1.8.2/blazy.min.js")
+    script.
+      document.addEventListener('DOMContentLoaded',function(){new Blazy()});
+
   body
     nav.px2.pt2.pb1.border-bottom.clearfix
       .left.col-12.md-col-2.pb1.center.nowrap
@@ -48,8 +59,21 @@ html
           span.mr1.nowrap.inline-block 明治大学
           span.mr1.nowrap.inline-block 宮下研究室
           span.nowrap.inline-block 論文データベース
-      //- form(method="GET", action="/search").flex
-      //-   input.flex-auto.p2.border(type="search", name="q", placeholder="Google Search")
+      p.social-buttons.center
+        -
+          var facebookURL =
+            "https://facebook.com/sharer/sharer.php?u=" + encodeURIComponent(general.siteUrl);
+        a.mx1.rounded.btn.btn-small.facebook.ml1(href=facebookURL, target="_blank")
+          i.fa.fa-facebook.mr1
+          span Facebook
+        -
+          var twitterURL =
+            "https://twitter.com/intent/tweet/?text=" +
+            encodeURIComponent(general.siteName) +
+            '&url=' + encodeURIComponent(general.siteUrl);
+        a.rounded.btn.btn-small.twitter.ml1(href=twitterURL, target="_blank")
+          i.fa.fa-twitter.mr1
+          span Twitter
     section.notice.max-width-4.mx-auto.px2
       p.center
         span.nowrap.inline-block 本データベースにおける
@@ -61,8 +85,13 @@ html
         small.mx1.nowrap.inline-block #{researchList.length} 件
       ul.block.p0.border-top.border-left.border-right
         for research in researchList
-          li.block.px1.pt2.pb1.border-bottom
-            a.research-list.block.flex(href=research.url)
+          li.block.px1.pt1.pb1.border-bottom
+            a.research-list.block.flex.items-center(href=research.url)
+              .mr1.thumbnail
+                img.b-lazy(
+                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                  data-src=research.small_thumbnail || "/assets/placeholder.png"
+                )
               .flex-auto.clearfix
                 .left.pb1
                   span= research.title

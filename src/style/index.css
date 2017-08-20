@@ -146,6 +146,22 @@ footer {
   &:hover {
     opacity: 0.5;
   }
+  & .thumbnail {
+    border: 1px #E0E0E0 solid;
+    height: 4.0em;
+    width: 7.1em;
+    & > img {
+      height: 4.0em;
+      width: 7.1em;
+    }
+  }
+  & .b-lazy {
+    transition: opacity 500ms ease-in-out;
+    opacity: 0;
+    &.b-loaded {
+      opacity: 1;
+    }
+  }
 }
 
 @media (max-width: 40em) {

@@ -2,7 +2,7 @@ general:
   isTest: false
   description: |
     明治大学 宮下研究室 論文データベース
-  siteName: Miyashita Lab Research
+  siteName: 明治大学 宮下研究室 論文データベース
   siteUrl: 'https://research.miyashita.com'
   twitterID: '@Miyashita_Lab'
   searchID: '006475268403292805769:ayfwuy8akxg'

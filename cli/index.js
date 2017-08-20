@@ -7,6 +7,7 @@ const path = require('path');
 const moment = require('moment');
 const YAML = require('yamljs');
 const pug = require('pug');
+const Jimp = require('jimp');
 const config = require('../config/data.json');
 
 const compileInfoHTML = pug.compileFile('./src/_info.pug');
@@ -127,8 +128,18 @@ async function fetchThumbnail(entry) {
   if (!data) {
     return false;
   }
-  const thumbnailPath = path.join(getSaveDirPath(entry), 'thumb.jpg');
-  await fs.writeFile(thumbnailPath, data);
+  await fs.writeFile(path.join(getSaveDirPath(entry), 'thumb.jpg'), data);
+  const smallData =
+    await new Promise((resolve, reject) => {
+      Jimp.read(data).then((img) => {
+        img.resize(Jimp.AUTO, 180).getBuffer(Jimp.MIME_JPEG, (err, buffer) => {
+          if (err) return reject(err);
+          return resolve(buffer);
+        });
+      });
+    });
+  await fs.writeFile(path.join(getSaveDirPath(entry), 'thumb-small.jpg'), smallData);
+
   return true;
 }
 
@@ -295,6 +306,7 @@ async function generateHTML(info) {
     const converted = await convertEntry(entry);
     if (await fetchThumbnail(converted)) {
       converted.ogp_image = url.resolve(converted.url, 'thumb.jpg');
+      converted.small_thumbnail = url.resolve(converted.url, 'thumb-small.jpg');
     }
     await saveEntryAsYAML(converted);
     await generateBibTeX(converted);
@@ -307,6 +319,7 @@ async function generateHTML(info) {
       year: moment(converted.issued, 'YYYY/MM/DD').year(),
       date: moment(converted.issued, 'YYYY/MM/DD'),
       url: converted.url,
+      small_thumbnail: converted.small_thumbnail,
     });
   }
 
