@@ -1,5 +1,5 @@
 const _ = require('lodash');
-const axios = require('axios');
+const { default: axios } = require('axios');
 const fs = require('fs-promise');
 const { sync: exists } = require('exists-file');
 const url = require('url');
@@ -111,34 +111,45 @@ async function fetchPDF(entry) {
 }
 
 async function fetchThumbnail(entry) {
-  if (!entry.youtube_url) {
-    return false;
-  }
+  let arraybuffer;
 
-  const id = url.parse(entry.youtube_url, true).query.v;
-
-  const baseUrl = `https://img.youtube.com/vi/${id}/`;
   const fetchConfig = { responseType: 'arraybuffer' };
-  const { data } =
-    await axios.get(url.resolve(baseUrl, 'maxresdefault.jpg'), fetchConfig)
-      .catch(() => axios.get(url.resolve(baseUrl, 'sddefault.jpg'), fetchConfig))
-      .catch(() => axios.get(url.resolve(baseUrl, 'hqdefault.jpg'), fetchConfig))
-      .catch(() => Promise.resolve({ data: false }));
+  if (entry.youtube_url) {
+    const id = url.parse(entry.youtube_url, true).query.v;
+    const baseUrl = `https://img.youtube.com/vi/${id}/`;
+    const { data } =
+      await axios.get(url.resolve(baseUrl, 'maxresdefault.jpg'), fetchConfig)
+        .catch(() => axios.get(url.resolve(baseUrl, 'sddefault.jpg'), fetchConfig))
+        .catch(() => axios.get(url.resolve(baseUrl, 'hqdefault.jpg'), fetchConfig))
+        .catch(() => Promise.resolve({ data: false }));
+    arraybuffer = data;
+  } else if (entry.thumbnail_url) {
+    const { data } =
+      await axios.get(entry.thumbnail_url, fetchConfig)
+        .catch(() => Promise.resolve({ data: false }));
+    arraybuffer = data;
+  }
 
-  if (!data) {
+  if (!arraybuffer) {
     return false;
   }
-  await fs.writeFile(path.join(getSaveDirPath(entry), 'thumb.jpg'), data);
-  const smallData =
-    await new Promise((resolve, reject) => {
-      Jimp.read(data).then((img) => {
-        img.resize(Jimp.AUTO, 180).getBuffer(Jimp.MIME_JPEG, (err, buffer) => {
-          if (err) return reject(err);
-          return resolve(buffer);
-        });
-      });
+  const image = await Jimp.read(Buffer.from(arraybuffer));
+
+  await new Promise((resolve, reject) => {
+    image.getBuffer(Jimp.MIME_JPEG, (err, buffer) => {
+      if (err) return reject(err);
+      return resolve(buffer);
     });
-  await fs.writeFile(path.join(getSaveDirPath(entry), 'thumb-small.jpg'), smallData);
+  })
+  .then((buffer) => fs.writeFile(path.join(getSaveDirPath(entry), 'thumb.jpg'), buffer));
+
+  await new Promise((resolve, reject) => {
+    image.resize(Jimp.AUTO, 180).getBuffer(Jimp.MIME_JPEG, (err, buffer) => {
+      if (err) return reject(err);
+      return resolve(buffer);
+    });
+  })
+  .then((buffer) => fs.writeFile(path.join(getSaveDirPath(entry), 'thumb-small.jpg'), buffer));
 
   return true;
 }
