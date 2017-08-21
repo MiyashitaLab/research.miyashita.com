@@ -25,6 +25,8 @@ isbn: ""
 acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2013/'
 youtube_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/e8a64045b25e7a9b3e0858f0dcd933fc.png'
 links: []
 url: 'https://research.miyashita.com/2013/D130/'
+ogp_image: 'https://research.miyashita.com/2013/D130/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/D130/thumb-small.jpg'

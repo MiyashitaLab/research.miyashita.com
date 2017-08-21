@@ -26,6 +26,8 @@ isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00177782/'
 youtube_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/4f14bff314e1e8b94cfcc98b71bebd79.png'
 links: []
 url: 'https://research.miyashita.com/2017/D181/'
+ogp_image: 'https://research.miyashita.com/2017/D181/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/D181/thumb-small.jpg'
