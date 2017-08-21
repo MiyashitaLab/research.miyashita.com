@@ -13,7 +13,8 @@ dependencies:
 
 test:
   override:
-    - npm run build
+    - npm run build:
+      timeout: 1800
 
 deployment:
   publish:
