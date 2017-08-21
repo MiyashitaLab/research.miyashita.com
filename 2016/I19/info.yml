@@ -25,6 +25,8 @@ isbn: ""
 acmdl_url: ""
 external_url: 'http://iith.ac.in/~icdf16/submissions.html'
 youtube_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/30cb02da4431417cb8d7404ccd7c793c.png'
 links: []
 url: 'https://research.miyashita.com/2016/I19/'
+ogp_image: 'https://research.miyashita.com/2016/I19/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2016/I19/thumb-small.jpg'
