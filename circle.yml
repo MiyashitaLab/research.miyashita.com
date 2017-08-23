@@ -14,7 +14,7 @@ dependencies:
 test:
   override:
     - npm run build:
-      timeout: 1800
+        timeout: 1800
 
 deployment:
   publish:
