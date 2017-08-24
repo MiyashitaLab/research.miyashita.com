@@ -28,6 +28,8 @@ isbn: ""
 acmdl_url: ""
 external_url: 'https://www.his.gr.jp/paper/archives.cgi?c=download&pk=88&page=paper_journal'
 youtube_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/80d32a29c9c2ffe9a031360d3035eb68.png'
 links: []
 url: 'https://research.miyashita.com/2016/J19/'
+ogp_image: 'https://research.miyashita.com/2016/J19/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2016/J19/thumb-small.jpg'

@@ -3,7 +3,7 @@ draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2008/J1/J1.pdf'
 type: article-journal
-thumbnail_preview: ""
+thumbnail_preview: '#REF!'
 title: 歩み寄りインタフェースの提案
 author:
   - 篠原祐樹

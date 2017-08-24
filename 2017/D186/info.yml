@@ -1,0 +1,32 @@
+id: D186
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D186/D186.pdf'
+type: paper-conference
+thumbnail_preview: ""
+title: オープンアクセスを見据えた研究室論文データベースの構築
+author:
+  - 宮代理弘
+  - 宮下芳明
+abstract: '学術成果は，出版社が所有する学術リポジトリで公開されているが，有償で購読する必要がある．そのため近年では，学術成果を広く伝えるため，研究機関や自身の Web サイトで無償公開する 「セルフアーカイブ」 が注目されている．研究室や個人など小規模組織でのセルフアーカイブは，各々独自の手法で管理されており，データベースのような一元化された管理システムがあるものは僅かである．今回，我々の所属する研究室では，学術リポジトリとして 『研究室論文データベース』 を作成し，一般公開した．研究室論文データベースでは，既存の学術リポジトリシステムにおけるメタデータを踏襲し，Google Scholar などの論文管理システムにも適応させた．本稿では実体験をもとに，研究室単位で学術リポジトリを運用する方法や利点，問題点を報告する．'
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: 2017/08/16
+volume: 2017-HCI-174
+issue: '12'
+number: ""
+page: 1-7
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: 2188-8760
+isbn: ""
+acmdl_url: ""
+external_url: 'http://id.nii.ac.jp/1001/00182980/'
+youtube_url: ""
+thumbnail_url: 'https://i.imgur.com/ZZvHyfd.png'
+links: []
+url: 'https://research.miyashita.com/2017/D186/'
+ogp_image: 'https://research.miyashita.com/2017/D186/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/D186/thumb-small.jpg'
