@@ -68,7 +68,7 @@ footer {
   color: #424242;
 }
 
-.video-wrapper {
+.oembed-wrapper {
   position: relative;
   width: 100%;
 
@@ -77,7 +77,7 @@ footer {
     display: block;
     padding-top: calc(100% * 9 / 16);
   }
-  & > .video-content {
+  & > .oembed-content {
     position: absolute;
     top: 0;
     left: 0;

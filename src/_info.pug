@@ -131,9 +131,17 @@ html
     if info.youtube_url
       section.max-width-4.mx-auto.px2
         .lg-px4
-          .video-wrapper
-            iframe.video-content(
+          .oembed-wrapper
+            iframe.oembed-content(
               src=info.youtube_url.replace('/watch?v=', '/embed/') + "?rel=0",
+              frameborder="0", allowfullscreen=true
+            )
+    else if info.slideshare_url
+      section.max-width-4.mx-auto.px2
+        .lg-px4
+          .oembed-wrapper
+            iframe.oembed-content(
+              src=info.slideshare_url,
               frameborder="0", allowfullscreen=true
             )
     if info.abstract
