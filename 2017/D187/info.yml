@@ -1,0 +1,39 @@
+id: D187
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D187/D187.pdf'
+type: paper-conference
+thumbnail_preview: ""
+title: 摩擦力と振動刺激による複合触感呈示の基礎検討
+author:
+  - 石塚裕己
+  - 加藤邦拓
+  - 宮下芳明
+  - 梶本裕之
+abstract: 人間の触知覚のメカニズムから，触感呈示には複数の触覚刺激が重要である．そこで，電気刺激による振動刺激と静電吸着力による摩擦力とを組み合わせた複合触感呈示用触覚ディスプレイを提案する．本触覚ディスプレイは銀ナノインク印刷技術に基づいており，高面積化・高密度化か期待できる．本稿では原理や作製方法について説明し，予備実験の結果も報告する．
+container_title: 第22回日本バーチャルリアリティ学会大会論文集
+issued: 2017/09/27
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 日本バーチャルリアリティ学会
+copyright_holder: 日本バーチャルリアリティ学会
+keywords:
+  - 触覚ディスプレイ
+  - 電気刺激
+  - 静電吸着
+  - プリンタブルデバイス
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=orMoguAnP8w'
+slideshare_url: ""
+thumbnail_url: 'https://gyazo.com/1a9660bf2eed719a0b374da76a798ca9'
+links: []
+url: 'https://research.miyashita.com/2017/D187/'
+ogp_image: 'https://research.miyashita.com/2017/D187/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/D187/thumb-small.jpg'

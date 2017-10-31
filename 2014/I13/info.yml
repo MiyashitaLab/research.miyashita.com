@@ -10,7 +10,7 @@ author:
   - 'Shota Yamanaka'
   - 'Homei Miyashita'
 abstract: 'Unique sounds are produced by tapping each area of the keyboard or palm rest on a laptop PC. These different sounds are attributable to the internal structure of the computer or the position of the microphone used to detect these sounds. Various approaches are available for enriching the input area by identifying the operating sounds produced by users, but most require an additional microphone (e.g., piezoelectric microphone) to detect the structure-borne sounds carried by the laptop structure. In this study, we propose the expansion of the operating area of a laptop by distinguishing tapping sounds using the embedded microphone. Our method does not require any external sensors, thereby maintaining the advantages of laptops in terms of mobility and low weight, and it is readily deployed on a laptop using the embedded microphone.'
-container_title: 'Proceedings of the adjunct publication of the 27th annual ACM symposium on User interface software and technology'
+container_title: 'Adjunct Proceedings of the adjunct publication of the 27th annual ACM symposium on User interface software and technology'
 issued: 2014/10/05
 volume: ""
 issue: ""

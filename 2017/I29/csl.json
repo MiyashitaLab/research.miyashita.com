@@ -1,0 +1,34 @@
+[
+  {
+    "id": "I29",
+    "type": "paper-conference",
+    "title": "Tactile Element with Double-sided Inkjet Printing to Generate Electrostatic Forces and Electrostimuli",
+    "author": [
+      {
+        "family": "Kato",
+        "given": "Kunihiro"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      },
+      {
+        "family": "Kajimoto",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Ishizuka",
+        "given": "Hiroki"
+      }
+    ],
+    "abstract": "We propose a tactile element that can generate both an electrostatic force and an electrostimulus, and can be used to provide tactile feedback on a wide area of human skin such as the palm of the hand. Touching the flat surface through the our proposed tactile element allow the user to feel both uneven and rough textures. In addition, the element can be fabricated using double-sided inkjet printing with conductive ink. Use of a flexible substrate, such as a PET film or paper, allows the user to design a free-formed tactile element. In this demonstration, we describe the implementation of the proposed stimuli element and show examples of applications.",
+    "container-title": "Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology",
+    "issued": "2017/10/22",
+    "page": "31-33",
+    "publisher": "ACM",
+    "keyword": "Tactile display; electrostatic force; electrical stimulus; conductive ink; inkjet printer; flexible device",
+    "language": "en",
+    "DOI": "10.1145/3131785.3131789",
+    "ISBN": "978-1-4503-5419-6"
+  }
+]

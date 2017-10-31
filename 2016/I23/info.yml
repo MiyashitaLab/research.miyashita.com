@@ -10,7 +10,7 @@ author:
   - 'Kunihiro Kato'
   - 'Homei Miyashita'
 abstract: 'In this paper, we describe a tangible interface that can realize touch operations on a physical object. We printed physical objects that have conductive striped patterns using a multi-material 3D printer. The ExtensionSticker technique allows the user to operate capacitive touch-panel devices by tapping, scrolling, and swiping the physical object. By shaping the structure of conductive wiring inside a physical object, a variety of interfaces can be realized. We examined the conditions for using our proposed method on touch-panel devices.'
-container_title: 'Proceedings of the 29th Annual Symposium on User Interface Software and Technology'
+container_title: 'Adjunct Proceedings of the 29th Annual Symposium on User Interface Software and Technology'
 issued: 2016/10/16
 volume: ""
 issue: ""
