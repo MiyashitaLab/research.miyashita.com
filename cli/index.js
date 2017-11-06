@@ -154,6 +154,22 @@ async function fetchThumbnail(entry) {
   return true;
 }
 
+function generateCitation(info) {
+  const punc = (info.author.every((author) => author.match(/^\w+$/))) ? [',', '.'] : ['，', '．'];
+  const author = `${info.author.join(`${punc[0]}\x20`)}${punc[1]}`;
+  const arr = [
+    info.title,
+    info.container_title,
+    info.volume && `Vol.${info.volume}`,
+    info.issue && `Issue.${info.issue}`,
+    info.number && `No.${info.number}`,
+    info.page && `pp.${info.page}`,
+    info.issued && `${info.issued.split('/').shift()}`,
+  ];
+
+  return `${author} ${arr.join(`${punc[0]}\x20`)}${punc[1]}`;
+}
+
 async function convertEntry(originalEntry) {
   const entry = Object.assign({}, originalEntry);
   const YAMLPath = path.join(getSaveDirPath(entry), './info.yml');
@@ -177,6 +193,8 @@ async function convertEntry(originalEntry) {
     const oldEntry = YAML.parse(await fs.readFile(YAMLPath, 'utf8'));
     entry.links = _.defaultsDeep(entry.links, oldEntry.links);
   }
+
+  Object.assign(entry, { citation: generateCitation(entry) });
 
   return entry;
 }
