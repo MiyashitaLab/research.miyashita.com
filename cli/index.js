@@ -156,7 +156,7 @@ async function fetchThumbnail(entry) {
 
 function generateCitation(info) {
   const punc = (info.author.every((author) => author.match(/^\w+$/))) ? [',', '.'] : ['，', '．'];
-  const author = `${info.author.join(`${punc[0]}\x20`)}${punc[1]}`;
+  const author = `${info.author.join(`${punc[0]}`)}${punc[1]}`;
   const arr = [
     info.title,
     info.container_title,
@@ -167,7 +167,7 @@ function generateCitation(info) {
     info.issued && `${info.issued.split('/').shift()}`,
   ].filter((item) => !!item);
 
-  return `${author} ${arr.join(`${punc[0]}\x20`)}${punc[1]}`;
+  return `${author} ${arr.join(`${punc[0]}`)}${punc[1]}`;
 }
 
 async function convertEntry(originalEntry) {
