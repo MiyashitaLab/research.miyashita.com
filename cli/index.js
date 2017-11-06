@@ -155,7 +155,7 @@ async function fetchThumbnail(entry) {
 }
 
 function generateCitation(info) {
-  const punc = (info.author.every((author) => author.match(/^\w+$/))) ? [',', '.'] : ['，', '．'];
+  const punc = (info.author.every((author) => /^[\w\s]+$/.test(author))) ? [',\x20', '.\x20'] : ['，', '．'];
   const author = `${info.author.join(`${punc[0]}`)}${punc[1]}`;
   const arr = [
     info.title,
