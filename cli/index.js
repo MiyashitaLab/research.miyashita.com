@@ -165,7 +165,7 @@ function generateCitation(info) {
     info.number && `No.${info.number}`,
     info.page && `pp.${info.page}`,
     info.issued && `${info.issued.split('/').shift()}`,
-  ];
+  ].filter((item) => !!item);
 
   return `${author} ${arr.join(`${punc[0]}\x20`)}${punc[1]}`;
 }
