@@ -46,6 +46,14 @@ html
     script.
       document.addEventListener('DOMContentLoaded',function(){new Blazy()});
 
+    //- Global site tag (gtag.js) - Google Analytics
+    script(async, src="https://www.googletagmanager.com/gtag/js?id=UA-25034793-4")
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-25034793-4');
+
   body
     nav.px2.pt2.pb1.border-bottom.clearfix
       .left.col-12.md-col-2.pb1.center.nowrap

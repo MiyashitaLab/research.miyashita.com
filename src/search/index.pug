@@ -15,6 +15,14 @@ html
           el.value = query;
         });
       });
+
+    //- Global site tag (gtag.js) - Google Analytics
+    script(async, src="https://www.googletagmanager.com/gtag/js?id=UA-25034793-4")
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-25034793-4');
   body
     header.max-width-4.mx-auto.px2
       h1.center
