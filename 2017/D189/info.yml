@@ -1,0 +1,34 @@
+id: D189
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D189/D189.pdf'
+type: paper-conference
+thumbnail_preview: ""
+title: ブリッジ構造と樹脂の引き伸ばしを用いた高密度な毛構造の造形手法
+author:
+  - 高橋治輝
+  - 宮下芳明
+abstract: 熱溶解積層方式3Dプリンタを使用して毛のように細い構造を作る造形手法を提案する．既存手法では，細くて高密度な毛構造を安定して出力することが困難であった．提案手法は，細く引き伸ばした樹脂を橋渡しするように壁面に固定する方法でこれらの問題をすべて解決する．
+container_title: 第25回インタラクティブシステムとソフトウェアに関するワークショップ(WISS2017)論文集
+issued: 2017/12/06
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 日本ソフトウェア科学会
+copyright_holder: '高橋治輝; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: 'http://www.wiss.org/WISS2017Proceedings/demo/2-A21.pdf'
+youtube_url: 'https://www.youtube.com/watch?v=GPg_e_uzw-U'
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/D189/'
+citation: '高橋治輝，宮下芳明． ブリッジ構造と樹脂の引き伸ばしを用いた高密度な毛構造の造形手法，第25回インタラクティブシステムとソフトウェアに関するワークショップ(WISS2017)論文集，2017．'
+ogp_image: 'https://research.miyashita.com/2017/D189/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/D189/thumb-small.jpg'
