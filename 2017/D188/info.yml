@@ -1,0 +1,36 @@
+id: D188
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D188/D188.pdf'
+type: paper-conference
+thumbnail_preview: ""
+title: 導電性インクの両面印刷による電気刺激と静電吸着を用いた複合触覚ディスプレイの作成手法
+author:
+  - 加藤邦拓
+  - 石塚裕己
+  - 梶本裕之
+  - 宮下芳明
+abstract: '人間は外部からの複数の刺激の組み合わせにより触覚を知覚しており,よりリアルな触覚を再現するためには,複数の触覚ディスプレイを組み合わせることが必要となる.本研究では,電気刺激と静電吸着に着目し,それらを同時に提示可能な複合触覚ディスプレイの作成を検討する.提案手法では,導電性インクと家庭用のインクジェットプリンタを用い,触覚ディスプレイを構成する電極を専用紙上に両面印刷することで作成する.本研究では,提案する複合触覚ディスプレイ実現のために必要な要件を示し,作成した触覚ディスプレイの耐久評価を行った.これにより複数刺激をによる触覚を提示可能な触覚ディスプレイが容易にでき,より豊富な触覚を提示可能なアプリケーションへの応用が可能となる.また電気刺激と静電吸着の複合触覚ディスプレイによる摩擦感と垂直方向の振動を組み合わせることで,表面の質感や凹凸のような感覚を提示することができる.これにより,例えば印刷した絵や写真などを見るだけでなく,触覚情報と併せて楽しむことも可能となる.'
+container_title: 第25回インタラクティブシステムとソフトウェアに関するワークショップ(WISS2017)論文集
+issued: 2017/12/06
+volume: ""
+issue: ""
+number: ""
+page: 53-58
+publisher: 日本ソフトウェア科学会
+copyright_holder: '加藤邦拓; 石塚裕己; 梶本裕之; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: 1341-870X
+isbn: ""
+acmdl_url: ""
+external_url: 'http://www.wiss.org/WISS2017Proceedings/oral/10.pdf'
+youtube_url: 'https://www.youtube.com/watch?v=_3-ZkPxxzK0'
+slideshare_url: ""
+thumbnail_url: 'https://gyazo.com/2426dcd9dfce5e93531dbb23923d7cfb'
+links: []
+url: 'https://research.miyashita.com/2017/D188/'
+citation: '加藤邦拓，石塚裕己，梶本裕之，宮下芳明． 導電性インクの両面印刷による電気刺激と静電吸着を用いた複合触覚ディスプレイの作成手法，第25回インタラクティブシステムとソフトウェアに関するワークショップ(WISS2017)論文集，pp.53-58，2017．'
+ogp_image: 'https://research.miyashita.com/2017/D188/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/D188/thumb-small.jpg'
