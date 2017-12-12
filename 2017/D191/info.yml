@@ -1,0 +1,34 @@
+id: D191
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/D191/D191.pdf'
+type: paper-conference
+thumbnail_preview: ""
+title: 大部分の空間的一貫性を保つアイコン整列手法の提案
+author:
+  - 塩出研史
+  - 宮下芳明
+abstract: ファイルエクスプローラを代表とした多くのインタフェースでは，アイコンの整列手法としてReflowが用いられている．しかし，Reflowではウィンドウサイズの変化に伴い多くのアイコンが大きく移動してしまうため，空間的一貫性が保たれておらず，ユーザのアイコン探索時間を長くする要因となる．本研究では，大部分の空間的一貫性を保つアイコン整列手法を提案する．本整列手法によって，ユーザは空間的記憶を活かすことができ，アイコン探索時間の短縮が期待される．
+container_title: 第25回インタラクティブシステムとソフトウェアに関するワークショップ(WISS2017)論文集
+issued: 2017/12/06
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: 日本ソフトウェア科学会
+copyright_holder: '塩出研史; 宮下芳明'
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: www.wiss.org/WISS2017Proceedings/demo/2-A18.pdf
+youtube_url: 'https://www.youtube.com/watch?v=tqTEn6Inx5o'
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/D191/'
+citation: '塩出研史，宮下芳明． 大部分の空間的一貫性を保つアイコン整列手法の提案，第25回インタラクティブシステムとソフトウェアに関するワークショップ(WISS2017)論文集，2017．'
+ogp_image: 'https://research.miyashita.com/2017/D191/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/D191/thumb-small.jpg'
