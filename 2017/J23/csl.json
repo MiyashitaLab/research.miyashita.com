@@ -11,7 +11,7 @@
         "literal": "宮下芳明"
       }
     ],
-    "abstract": "Abstract – We present a new 3D printing technique that can print a horizontal plate in-mid-air by setting up pillars as support structures. Using this technique, we extend a platform and capability of fused deposition modeling printers. Our technique allows users to print a large amount of objects in one complete printing process. In addition, users can control a printer using the remote access so that our technique does not require users to remove previously printed ones. In this paper, we describe in detail a technique to print a horizontal plate in-mid-air, and implement a layout design system for effectively using our technique. We show the effectiveness of our technique by printing examples.",
+    "abstract": "We present a new 3D printing technique that can print a horizontal plate in-mid-air by setting up pillars as support structures. Using this technique, we extend a platform and capability of fused deposition modeling printers. Our technique allows users to print a large amount of objects in one complete printing process. In addition, users can control a printer using the remote access so that our technique does not require users to remove previously printed ones. In this paper, we describe in detail a technique to print a horizontal plate in-mid-air, and implement a layout design system for effectively using our technique. We show the effectiveness of our technique by printing examples.",
     "container-title": "ヒューマンインタフェース学会論文誌",
     "issued": "2017/02/25",
     "volume": "19",
