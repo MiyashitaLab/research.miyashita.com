@@ -2,6 +2,7 @@ id: D153
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/D153/D153.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'コメントイン: コメントを先に書くことによる新形態のAPIリファレンス'

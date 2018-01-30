@@ -2,6 +2,7 @@ id: I24
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I24/I24.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Fitter: A System for Easily Printing Objects that Fit Real Objects'

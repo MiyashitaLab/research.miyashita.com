@@ -2,6 +2,7 @@ id: D41
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D41/D41.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: マンガのコマ割り表現を用いたプレゼンテーションツール

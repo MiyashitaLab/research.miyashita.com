@@ -2,6 +2,7 @@ id: I21
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I21/I21.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: '3D Printed Physical Interfaces that can Extend Touch Devices'

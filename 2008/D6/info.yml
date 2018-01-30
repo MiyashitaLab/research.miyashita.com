@@ -2,6 +2,7 @@ id: D6
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2008/D6/D6.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: ニコニコ動画における映像要約とサビ検出の試み

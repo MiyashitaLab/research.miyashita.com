@@ -2,6 +2,7 @@ id: D117
 draft: false
 available_pdf: false
 pdf_url: ""
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 磁気センシングに基づくスマートフォン近辺でのイヤホン位置推定と非接触入力デバイスとしての活用

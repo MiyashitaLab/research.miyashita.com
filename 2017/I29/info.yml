@@ -2,6 +2,7 @@ id: I29
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/I29/I29.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Tactile Element with Double-sided Inkjet Printing to Generate Electrostatic Forces and Electrostimuli'

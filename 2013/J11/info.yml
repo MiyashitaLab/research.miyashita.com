@@ -2,6 +2,7 @@ id: J11
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/J11/J11.pdf'
+preprint_pdf_url: ""
 type: article-journal
 thumbnail_preview: ""
 title: 注視していないことを利用したポインティング高速化手法とその評価

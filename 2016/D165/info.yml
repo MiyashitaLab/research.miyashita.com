@@ -2,6 +2,7 @@ id: D165
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/D165/D165.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: PomPom：紙巻きオルゴール漫画の制作支援システムの提案

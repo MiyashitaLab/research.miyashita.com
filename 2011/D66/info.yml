@@ -2,6 +2,7 @@ id: D66
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D66/D66.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 発言履歴編集機能がチャットに及ぼす影響の考察

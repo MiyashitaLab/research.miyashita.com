@@ -2,6 +2,7 @@ id: D19
 draft: false
 available_pdf: false
 pdf_url: ""
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Gravity Piano：物理演算による作曲インタフェース'

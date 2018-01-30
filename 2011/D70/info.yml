@@ -2,6 +2,7 @@ id: D70
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D70/D70.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 重なりあったウィンドウ間を移動可能なマウスカーソル操作手法の提案

@@ -2,6 +2,7 @@ id: I23
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I23/I23.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'A Tangible Interface to Realize Touch Operations on the Face of a Physical Object'

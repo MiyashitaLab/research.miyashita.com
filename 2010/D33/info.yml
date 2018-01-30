@@ -2,6 +2,7 @@ id: D33
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D33/D33.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: Visual℃：プログラム負荷に対する内省を促す可視化手法

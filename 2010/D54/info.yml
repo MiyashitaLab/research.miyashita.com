@@ -2,6 +2,7 @@ id: D54
 draft: false
 available_pdf: false
 pdf_url: ""
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'CatchyMemo 2：記憶定着を促すメモ帳'

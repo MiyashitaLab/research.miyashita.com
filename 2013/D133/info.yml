@@ -2,6 +2,7 @@ id: D133
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D133/D133.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Rewind-ow: 特定領域の時間を巻き戻して閲覧するツール'

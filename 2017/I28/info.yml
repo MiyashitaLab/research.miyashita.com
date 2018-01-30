@@ -2,6 +2,7 @@ id: I28
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/I28/I28.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Steering Through Sequential Linear Path Segments'

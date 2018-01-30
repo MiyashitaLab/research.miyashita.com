@@ -2,6 +2,7 @@ id: D60
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D60/D60.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'HMMMML3: 他人を意識したモチベーション向上を考えたプログラミング環境'

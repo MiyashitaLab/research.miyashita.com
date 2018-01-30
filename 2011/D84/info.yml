@@ -2,6 +2,7 @@ id: D84
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D84/D84.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 例示による携帯プログラミングの拡張

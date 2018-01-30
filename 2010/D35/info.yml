@@ -2,6 +2,7 @@ id: D35
 draft: false
 available_pdf: false
 pdf_url: ""
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Camera Shake Sequencer：ブレた写真を撮る新しいカメラの研究'

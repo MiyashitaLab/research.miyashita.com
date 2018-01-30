@@ -2,6 +2,7 @@ id: D134
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D134/D134.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 文章の不快感レベルを制御する手法群とその実装

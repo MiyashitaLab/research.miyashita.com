@@ -2,6 +2,7 @@ id: D139
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D139/D139.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 自由なテンポで演奏した複数の録音データから楽曲を生成するシステム

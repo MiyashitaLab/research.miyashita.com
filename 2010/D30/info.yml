@@ -2,6 +2,7 @@ id: D30
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D30/D30.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'F.A.R. Vision：拡張現実感の情報量を制御する眉間フェーダー'

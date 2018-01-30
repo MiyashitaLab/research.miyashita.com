@@ -2,6 +2,7 @@ id: I25
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2016/I25/I25.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Scale Effects in the Steering Time Difference between Narrowing and Widening Linear Tunnels'

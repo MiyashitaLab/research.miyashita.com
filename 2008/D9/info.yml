@@ -2,6 +2,7 @@ id: D9
 draft: false
 available_pdf: false
 pdf_url: ""
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 音楽の未来を実装するということ

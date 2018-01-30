@@ -2,6 +2,7 @@ id: D82
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D82/D82.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: スイッチバックカーソル：重なりあったウィンドウ間を移動可能なマウスカーソル操作手法

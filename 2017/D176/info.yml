@@ -2,6 +2,7 @@ id: D176
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D176/D176.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: MouseTutor：マウスに手を動かされるチュートリアル

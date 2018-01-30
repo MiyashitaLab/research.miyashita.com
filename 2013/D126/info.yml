@@ -2,6 +2,7 @@ id: D126
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D126/D126.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: '108107: 超好意的解釈コンパイラによりかかったプログラマのための激好意的解釈コンパイラ'

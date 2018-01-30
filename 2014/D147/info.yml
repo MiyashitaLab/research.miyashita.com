@@ -2,6 +2,7 @@ id: D147
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D147/D147.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: タッチ入力の柔軟な再配置を可能としたインタフェースの作成支援

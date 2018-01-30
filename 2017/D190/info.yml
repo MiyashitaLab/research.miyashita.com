@@ -2,6 +2,7 @@ id: D190
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2017/D190/D190.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Extended Lasso: 延長線を利用する自由選択手法の提案'

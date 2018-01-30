@@ -2,6 +2,7 @@ id: D150
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/D150/D150.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'HoverPen: 交わらない線が描けるペンで実現可能な表現'

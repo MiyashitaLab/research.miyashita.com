@@ -2,6 +2,7 @@ id: D73
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D73/D73.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: ノリ乗り－観客のノリを動画に乗せて疑似ライブ感を共有するシステムの提案－

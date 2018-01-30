@@ -2,6 +2,7 @@ id: J12
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/J12/J12.pdf'
+preprint_pdf_url: ""
 type: article-journal
 thumbnail_preview: ""
 title: 重なりあったウィンドウ間を移動可能なマウスカーソル操作手法とその評価

@@ -2,6 +2,7 @@ id: D80
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D80/D80.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: スライドの分割・統合による柔軟なプレゼンテーションツールの提案

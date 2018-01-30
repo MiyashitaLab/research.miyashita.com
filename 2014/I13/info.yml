@@ -2,6 +2,7 @@ id: I13
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2014/I13/I13.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'TapLaptop: Expansion of the Operating Area of a Laptop by Detection Taps Using a Single Embedded Microphone'

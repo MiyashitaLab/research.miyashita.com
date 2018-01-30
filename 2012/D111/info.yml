@@ -2,6 +2,7 @@ id: D111
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2012/D111/D111.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 注視していないことを利用したマウスカーソル高速化手法

@@ -2,6 +2,7 @@ id: D85
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D85/D85.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 自動でスライドを分割・統合して時間を調整するプレゼンテーションツール

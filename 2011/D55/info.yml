@@ -2,6 +2,7 @@ id: D55
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D55/D55.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'SeekRopes: 複数スライダとシークロープによる音楽制作'

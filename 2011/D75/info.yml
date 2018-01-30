@@ -2,6 +2,7 @@ id: D75
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2011/D75/D75.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'LayEditor:レイヤ機能を用いたテキストエディタ'

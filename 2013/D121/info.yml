@@ -2,6 +2,7 @@ id: D121
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2013/D121/D121.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: '音響マクロ : マウス操作の音響記録・再生・配信と編集'

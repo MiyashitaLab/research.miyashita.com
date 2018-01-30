@@ -2,6 +2,7 @@ id: D48
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2010/D48/D48.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'Balloon Chat：発言されないコメントも浮かばれるチャット'

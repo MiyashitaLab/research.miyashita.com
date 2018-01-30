@@ -2,6 +2,7 @@ id: I17
 draft: false
 available_pdf: true
 pdf_url: 'https://research.miyashita.com/2015/I17/I17.pdf'
+preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
 title: 'ExtensionSticker: A Proposal for A Striped Pattern Sticker to Extend Touch Interfaces and its Assessment'
