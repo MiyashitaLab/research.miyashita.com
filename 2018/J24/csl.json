@@ -1,0 +1,27 @@
+[
+  {
+    "id": "J24",
+    "type": "article-journal",
+    "title": "Paper-cutting operations using scissors in Drury's law tasks",
+    "author": [
+      {
+        "family": "Yamanaka",
+        "given": "Shota"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "Human performance modeling is a core topic in ergonomics. In addition to deriving models, it is important to verify the kinds of tasks that can be modeled. Drury's law is promising for path tracking tasks such as navigating a path with pens or driving a car. We conducted an experiment based on the observation that paper-cutting tasks using scissors resemble such tasks. The results showed that cutting arc-like paths (1/4 of a circle) showed an excellent fit with Drury's law (R2 > 0.98), whereas cutting linear paths showed a worse fit (R2 > 0.87). Since linear paths yielded better fits when path amplitudes were divided (R2 > 0.99 for all amplitudes), we discuss the characteristics of paper-cutting operations using scissors.",
+    "container-title": "Applied Ergonomics",
+    "issued": "2018/01/12",
+    "volume": "69",
+    "page": "32-39",
+    "publisher": "Elsevier",
+    "keyword": "Drury's law; Human motor performance; Paper-cutting tasks",
+    "language": "en",
+    "DOI": "10.1016/j.apergo.2017.12.018",
+    "ISSN": "0003-6870"
+  }
+]
