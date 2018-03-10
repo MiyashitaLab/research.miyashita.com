@@ -14,9 +14,9 @@
       }
     ],
     "abstract": "Playing the Koto requires various skills such as reading Koto scores and understanding string positions instantly. In addition, there are many articulations, and some of them have no information about the timing for switching fingers or pushing a string down in Koto scores. Therefore, learning to play the Koto is difficult. In this paper, we propose a method to support beginners in practicing the Koto considering articulations. The method directly presents information for effective Koto performance, such as the string positions color-coded by fingering, timing of picking, picking directions, and articulations to the strings and soundboard. An experimental system presents this information by using projection mapping. We evaluated its effectiveness for beginners and an experienced person by comparative experiments through three user studies. As a result of these studies, we found that beginners were able to learn the Koto more effectively than by the traditional method, but our system is not useful for experienced people.",
-    "container-title": "Proceedings of the 14th International Conference on Advances in Computer Entertainment Technology",
+    "container-title": "Advances in Computer Entertainment Technology",
     "issued": "2017/12/14",
-    "page": "1-16",
+    "page": "368-383",
     "publisher": "Springer",
     "keyword": "Koto; Music; Instrument Learning; Projection Mapping",
     "language": "en",
