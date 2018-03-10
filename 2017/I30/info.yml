@@ -1,0 +1,39 @@
+id: I30
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2017/I30/I30.pdf'
+preprint_pdf_url: ""
+type: paper-conference
+thumbnail_preview: ""
+title: 'Koto Learning Support Method Considering Articulations'
+author:
+  - 'Mayuka Doi'
+  - 'Homei Miyashita'
+abstract: 'Playing the Koto requires various skills such as reading Koto scores and understanding string positions instantly. In addition, there are many articulations, and some of them have no information about the timing for switching fingers or pushing a string down in Koto scores. Therefore, learning to play the Koto is difficult. In this paper, we propose a method to support beginners in practicing the Koto considering articulations. The method directly presents information for effective Koto performance, such as the string positions color-coded by fingering, timing of picking, picking directions, and articulations to the strings and soundboard. An experimental system presents this information by using projection mapping. We evaluated its effectiveness for beginners and an experienced person by comparative experiments through three user studies. As a result of these studies, we found that beginners were able to learn the Koto more effectively than by the traditional method, but our system is not useful for experienced people.'
+container_title: 'Proceedings of the 14th International Conference on Advances in Computer Entertainment Technology'
+issued: 2017/12/14
+volume: ""
+issue: ""
+number: ""
+page: 1-16
+publisher: Springer
+copyright_holder: Springer
+keywords:
+  - Koto
+  - Music
+  - 'Instrument Learning'
+  - 'Projection Mapping'
+language: en
+doi: 10.1007/978-3-319-76270-8_26
+issn: ""
+isbn: 978-3-319-76269-2
+acmdl_url: ""
+external_url: 'https://doi.org/10.1007/978-3-319-76270-8_26'
+youtube_url: 'https://www.youtube.com/watch?v=xoVmZoQdvlk'
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/2017/I30/'
+citation: 'Mayuka Doi, Homei Miyashita.  Koto Learning Support Method Considering Articulations, Proceedings of the 14th International Conference on Advances in Computer Entertainment Technology, pp.1-16, 2017. '
+ogp_image: 'https://research.miyashita.com/2017/I30/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2017/I30/thumb-small.jpg'
