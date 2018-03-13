@@ -1,0 +1,35 @@
+id: D194
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2018/D194/D194.pdf'
+preprint_pdf_url: ""
+type: paper-conference
+thumbnail_preview: ""
+title: 熱溶解積層方式3Dプリンタを用いた表現と造形手法のデザインのためのパラメータ探索手法
+author:
+  - 高橋治輝
+  - 宮下芳明
+abstract: '熱溶解積層方式（FDM; Fused Deposition Modeling）3Dプリンタの表現力拡張を目指して，造形時の各パラメータを探索する手法を提案する．まず，FDMを制御するためのパラメータを整理し，これらの変化具合を波形編集のように記述可能にするシステムGcode synthesizerを提案する．このシステムは，ノズルの移動経路，高さ，移動速度，樹脂量という4つのパラメータの変化を1本の線状の造形物に反映して出力する．次に，こういったパラメータ変化を構造として記述可能にするシステムStructure editorを提案する．このシステムはキャンバスを持っており，構造をパスのように記述することを可能とする．パスの各頂点では，樹脂量，造形温度，停止時間のパラメータを追加することができる．本稿では，これらのシステムを用いて先行研究の分析と再現を行い，「造形手法」のデザイン例を示す．'
+container_title: インタラクション2018論文集
+issued: 2018/02/27
+volume: ""
+issue: ""
+number: ""
+page: 135-144
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=XipSV4GO1jw'
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/2018/D194/'
+citation: '高橋治輝，宮下芳明． 熱溶解積層方式3Dプリンタを用いた表現と造形手法のデザインのためのパラメータ探索手法，インタラクション2018論文集，pp.135-144，2018．'
+ogp_image: 'https://research.miyashita.com/2018/D194/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/D194/thumb-small.jpg'
