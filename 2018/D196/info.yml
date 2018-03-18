@@ -1,0 +1,37 @@
+id: D196
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2018/D196/D196.pdf'
+preprint_pdf_url: ""
+type: paper-conference
+thumbnail_preview: ""
+title: 無限電気味覚ガム：圧電素子の咬合を用いた口腔内電気味覚装置
+author:
+  - 大場直史
+  - 青山一真
+  - 中村裕美
+  - 宮下芳明
+abstract: 近年ではバーチャルな味覚再現や食品の味覚制御を行う研究で電気味覚が応用されている．これらのシステムでは，電源の供給方法は外部から有線で給電するか，バッテリーを内蔵するものであった．しかし前者ではケーブルの取り回しが煩雑であり，後者では利用時間の短さや液漏れが懸念される．そこで筆者らは圧電素子を用いた口腔内味覚提示装置を提案する．圧電素子は圧力を加えることで電気が生じるセラミックを主成分とする素子であり，口腔内咀嚼時の噛む力でも発電が起こる．筆者らはこれを電気味覚装置の電源として用いることで，口腔内でシンプルかつ安全な機構にできるほか，半永久的に味覚提示が可能な，いわば「無限電気味覚ガム」が実現できると考えた．本稿では実験より味覚提示に必要な電流の強さを満たすことと，味覚器で苦味と金属味を知覚できたことを報告し利用の可能性を示した．
+container_title: インタラクション2018論文集
+issued: 2018/02/27
+volume: ""
+issue: ""
+number: ""
+page: 587-590
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=e09zMyYSUac'
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/2018/D196/'
+citation: '大場直史，青山一真，中村裕美，宮下芳明． 無限電気味覚ガム：圧電素子の咬合を用いた口腔内電気味覚装置，インタラクション2018論文集，pp.587-590，2018．'
+ogp_image: 'https://research.miyashita.com/2018/D196/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/D196/thumb-small.jpg'
