@@ -1,0 +1,39 @@
+id: J28
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2018/J28/J28.pdf'
+preprint_pdf_url: ""
+type: article-journal
+thumbnail_preview: ""
+title: 奏法を考慮した筝演奏学習支援手法に関する考察
+author:
+  - 土井麻由佳
+  - 宮下芳明
+abstract: 箏を演奏するためには，演奏技術だけでなく，箏譜の読譜力や弦の位置把握力も必要である．それに加えて，箏には25種類もの奏法が存在し，その中には運指の切替えタイミング等の演奏するにあたって必要な情報が箏譜上に書かれていないものもある．そのため，これらの奏法の習得は難しいとされている．そこで本論文では，箏譜が読めず弦の位置を把握できない初心者のための「奏法」を考慮した箏演奏学習支援手法を提案する．提案手法は演奏支援情報を箏の弦や龍甲に直接提示する．システムでは，プロジェクションマッピングによって，これらの提示を行う．弦名が書かれた紙を用いた手法との比較実験を行い，撥弦位置や奏法を提示する学習支援手法が初心者に与える影響・効果について考察した．また，箏初心者を対象とした提案手法が経験者にも有用であるかについて検証した．実験の結果，初心者には撥弦位置や運指，一部の奏法提示に効果が見られたが，経験者には有用でないことが明らかになった．
+container_title: 情報処理学会論文誌
+issued: 2018/03/15
+volume: '59'
+issue: '3'
+number: ""
+page: 912-928
+publisher: 情報処理学会
+copyright_holder: 情報処理学会
+keywords:
+  - 筝
+  - 楽器演奏学習
+  - 奏法
+  - プロジェクションマッピング
+language: ja
+doi: ""
+issn: 1882-7764
+isbn: ""
+acmdl_url: ""
+external_url: 'http://id.nii.ac.jp/1001/00186736/'
+youtube_url: ""
+slideshare_url: ""
+thumbnail_url: 'https://i.gyazo.com/1bc5594b59b1b2ed91f2f1d9c0a09cf8.png'
+links: []
+url: 'https://research.miyashita.com/2018/J28/'
+citation: '土井麻由佳，宮下芳明． 奏法を考慮した筝演奏学習支援手法に関する考察，情報処理学会論文誌，Vol.59，Issue.3，pp.912-928，2018．'
+ogp_image: 'https://research.miyashita.com/2018/J28/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/J28/thumb-small.jpg'
