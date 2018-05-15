@@ -1,0 +1,41 @@
+id: I32
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2018/I32/I32.pdf'
+preprint_pdf_url: ""
+type: paper-conference
+thumbnail_preview: ""
+title: 'Steering through Successive Objects'
+author:
+  - 'Shota Yamanaka'
+  - 'Wolfgang Stuerzlinger'
+  - 'Homei Miyashita'
+abstract: 'We investigate stroking motions through successive objects with styli. There are several promising models for stroking motions, such as crossing tasks, which require endpoint accuracy of a stroke, or steering tasks, which require continuous accuracy throughout the trajectory. However, a task requiring users to repeatedly steer through constrained path segments has never been studied, although such operations are needed in GUIs, e.g., for selecting icons or objects on illustration software through lassoing. We empirically confirmed that the interval, trajectory width, and obstacle size significantly affect the movement speed. Existing models can not accurately predict user performance in such tasks. We found several unexpected results such as that steering through denser objects sometimes required less times than expected. Speed profile analysis showed the reasons behind such behaviors, such as participants’ anticipation strategies. We also discuss the applicability of exiting performance models and revisions.'
+container_title: 'Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems'
+issued: 2018/04/21
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: ACM
+copyright_holder: ACM
+keywords:
+  - 'Graphical user interfaces'
+  - 'human motor performance'
+  - steering
+  - crossing
+  - 'pen computing'
+language: en
+doi: 10.1145/3173574.3174177
+issn: ""
+isbn: 978-1-4503-5620-6
+acmdl_url: ""
+external_url: 'https://doi.org/10.1145/3173574.3174177'
+youtube_url: 'https://www.youtube.com/watch?v=xxSiOxr0SqM'
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/2018/I32/'
+citation: 'Shota Yamanaka, Wolfgang Stuerzlinger, Homei Miyashita.  Steering through Successive Objects, Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 2018. '
+ogp_image: 'https://research.miyashita.com/2018/I32/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/I32/thumb-small.jpg'
