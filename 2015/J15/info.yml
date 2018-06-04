@@ -18,8 +18,7 @@ number: ""
 page: 83-86
 publisher: 日本バーチャルリアリティ学会
 copyright_holder: 日本バーチャルリアリティ学会
-tags: ""
-is_valid_tags: false
+tags: プロジェクションマッピング;制作支援;電子工作;電子回路;
 keywords:
   - 'projection mapping'
   - electronics
@@ -33,7 +32,7 @@ acmdl_url: ""
 external_url: 'http://ci.nii.ac.jp/naid/110009973303'
 youtube_url: 'https://www.youtube.com/watch?v=N3dJ4XRDF1I'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/CuiBqc5.jpg'
 links: []
 url: 'https://research.miyashita.com/2015/J15/'
 citation: '秋山耀，宮下芳明． プロジェクションマッピングによる電子工作体験支援，日本バーチャルリアリティ学会論文誌，Vol.20，Issue.2，pp.83-86，2015．'

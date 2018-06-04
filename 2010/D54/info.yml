@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '中村美惠子; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 記憶定着;メモ
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: ""
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=_pDOMt5H27Q'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2010/D54/'
 citation: '中村美惠子，宮下芳明． CatchyMemo 2：記憶定着を促すメモ帳，WISS Challenge 2010，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D54/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D54/thumb-small.jpg'

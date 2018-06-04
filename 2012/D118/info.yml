@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '井川洋平; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 文字入力;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,7 @@ acmdl_url: ""
 external_url: 'https://www.wiss.org/WISS2012/Demo.html'
 youtube_url: 'https://www.youtube.com/watch?v=b5CbKog-m7g'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/SyslizH.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D118/'
 citation: '井川洋平，宮下芳明． タッチによる文字選択を廃した新しいフリック入力手法の検討，第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集，2012．'

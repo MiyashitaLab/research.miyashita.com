@@ -19,8 +19,7 @@ number: ""
 page: 1-7
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: Twitter;SNS;感情
 keywords: []
 language: ja
 doi: ""
@@ -30,7 +29,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00070055/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/f9e68cef505b9a1a4fba9cb1b39677c2.jpg'
 links: []
 url: 'https://research.miyashita.com/2010/D40/'
 citation: '青島さやか，青木惇季，宮下芳明． エモーションホイールを用いた感情実況インタフェースの提案，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2010-HCI-139，Issue.5，pp.1-7，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D40/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D40/thumb-small.jpg'

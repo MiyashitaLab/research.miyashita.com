@@ -18,8 +18,7 @@ number: ""
 page: 5065-5074
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 3Dプリンタ;デジタルファブリケーション;
 keywords:
   - '3D print'
   - 'digital fabrication'
@@ -29,7 +28,7 @@ doi: 10.1145/3025453.3025933
 issn: ""
 isbn: 978-1-4503-4655-9
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=3025933'
+external_url: 'https://doi.org/10.1145/3025453.3025933'
 youtube_url: 'https://www.youtube.com/watch?v=RF-_wwd8HXk'
 slideshare_url: ""
 thumbnail_url: ""

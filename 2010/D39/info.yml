@@ -18,8 +18,7 @@ number: ""
 page: 1-7
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 料理;プログラミング
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00070054/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/53235b76447cb1f2c281663509aa37b3.jpg'
 links: []
 url: 'https://research.miyashita.com/2010/D39/'
 citation: '吉川祐輔，宮下芳明． グラフィカルデータフローによる調理レシピプログラミング言語の提案，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2010-HCI-139，Issue.4，pp.1-7，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D39/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D39/thumb-small.jpg'

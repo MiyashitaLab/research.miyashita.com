@@ -18,8 +18,7 @@ number: ""
 page: 187-188
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: AR;ヘッドマウントディスプレイ;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,7 @@ acmdl_url: ""
 external_url: 'http://ec2009.entcomp.org/'
 youtube_url: 'https://www.youtube.com/watch?v=NBLcBeSuxk4'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/e6IwcbB.png'
 links: []
 url: 'https://research.miyashita.com/2009/D21/'
 citation: '中村裕美，宮下芳明． 眉間を用いた拡張現実感を制御する装置の提案，エンタテインメントコンピューティングシンポジウム2009論文集，pp.187-188，2009．'

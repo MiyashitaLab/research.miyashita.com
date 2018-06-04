@@ -18,18 +18,19 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '青木秀憲; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 音楽
 keywords: []
 language: ja
 doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'https://www.wiss.org/WISS2007Proceedings/citations/0017.html'
+external_url: 'http://www.wiss.org/WISS2007Proceedings/citations/0017.html'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/3afdda43b6c5e1fe582864de82a8aa5e.jpg'
 links: []
 url: 'https://research.miyashita.com/2007/D3/'
 citation: '青木秀憲，宮下芳明． Music Leak：音漏れを聴く、新しい音楽の楽しみ方，第15回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2007) 論文集，2007．'
+ogp_image: 'https://research.miyashita.com/2007/D3/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2007/D3/thumb-small.jpg'

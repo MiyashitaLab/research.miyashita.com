@@ -18,8 +18,7 @@ number: ""
 page: 535-540
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: スマートフォン
 keywords:
   - Smartphone
   - 'mobile device'
@@ -32,7 +31,7 @@ doi: 10.1145/2642918.2647365
 issn: ""
 isbn: 978-1-4503-3069-5
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2647365'
+external_url: "\nhttps://doi.org/10.1145/2642918.2647365"
 youtube_url: 'https://www.youtube.com/watch?v=UlFwVUHotrU'
 slideshare_url: ""
 thumbnail_url: ""

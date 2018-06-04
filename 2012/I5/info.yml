@@ -18,8 +18,7 @@ number: ""
 page: 517-520
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: '電気味覚; 電気刺激;味覚;'
 keywords:
   - 'electric taste'
   - 'gustatory presentation system'
@@ -30,7 +29,7 @@ doi: 10.1145/2207676.2207747
 issn: ""
 isbn: 978-1-4503-1015-4
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2207747'
+external_url: 'https://doi.org/10.1145/2207676.2207747'
 youtube_url: 'https://www.youtube.com/watch?v=6NjkW4aSWvo'
 slideshare_url: ""
 thumbnail_url: ""

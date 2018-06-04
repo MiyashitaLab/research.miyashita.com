@@ -19,8 +19,7 @@ number: ""
 page: ""
 publisher: 芸術科学会
 copyright_holder: '宮下芳明; 青木秀憲; 篠原祐樹'
-tags: ""
-is_valid_tags: false
+tags: CG;
 keywords: []
 language: ja
 doi: ""
@@ -30,7 +29,9 @@ acmdl_url: ""
 external_url: 'http://art-science.org/content/files/festival/ct2009.pdf'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/LRxUDA2.jpg'
 links: []
 url: 'https://research.miyashita.com/2009/D17/'
 citation: '宮下芳明，青木秀憲，篠原祐樹． 4-Danmension 3D，第7回芸術科学会展作品募集，2009．'
+ogp_image: 'https://research.miyashita.com/2009/D17/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2009/D17/thumb-small.jpg'

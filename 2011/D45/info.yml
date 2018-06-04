@@ -18,8 +18,7 @@ number: ""
 page: 29-36
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 料理;プログラミング
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://jglobal.jst.go.jp/public/20090422/201102262114252845'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/791f1c63b77e6fd543de0dd3d0b233cf.jpg'
 links: []
 url: 'https://research.miyashita.com/2011/D45/'
 citation: '吉川祐輔，宮下芳明． 料理プログラミングの為の枠組みについて，夏のプログラミング・シンポジウム報告集，Vol.2010，pp.29-36，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D45/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D45/thumb-small.jpg'

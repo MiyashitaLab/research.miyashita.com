@@ -18,8 +18,7 @@ number: ""
 page: 1-7
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 書道;文字;文字認識;サンプリング;
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: 0919-6072
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00062244/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=9hq7HRkp3n0'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2009/D18/'
 citation: '内平博貴，宮下芳明． サンプラーのメタファーを取り入れた書道表現システム，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2009-HCI-133，Issue.5，pp.1-7，2009．'
+ogp_image: 'https://research.miyashita.com/2009/D18/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2009/D18/thumb-small.jpg'

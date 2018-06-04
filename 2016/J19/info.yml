@@ -18,8 +18,7 @@ number: ""
 page: 9-18
 publisher: ヒューマンインタフェース学会
 copyright_holder: ヒューマンインタフェース学会
-tags: ""
-is_valid_tags: false
+tags: タッチインタフェース;導電性インク
 keywords:
   - 'Conductive ink'
   - 'Continuous touch input'
@@ -30,7 +29,7 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'https://www.his.gr.jp/paper/archives.cgi?c=download&pk=88&page=paper_journal'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=meiCpCgdenY'
 slideshare_url: ""
 thumbnail_url: 'https://i.gyazo.com/80d32a29c9c2ffe9a031360d3035eb68.png'
 links: []

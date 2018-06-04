@@ -18,8 +18,7 @@ number: ""
 page: 32-39
 publisher: Elsevier
 copyright_holder: Elsevier
-tags: ""
-is_valid_tags: false
+tags: ステアリングの法則;
 keywords:
   - 'Drury''s law'
   - 'Human motor performance'
@@ -32,7 +31,9 @@ acmdl_url: ""
 external_url: 'https://doi.org/10.1016/j.apergo.2017.12.018'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/awJTHUF.jpg'
 links: []
 url: 'https://research.miyashita.com/2018/J24/'
 citation: 'Shota Yamanaka, Homei Miyashita.  Paper-cutting operations using scissors in Drury''s law tasks, Applied Ergonomics, Vol.69, pp.32-39, 2018. '
+ogp_image: 'https://research.miyashita.com/2018/J24/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/J24/thumb-small.jpg'

@@ -18,8 +18,7 @@ number: ""
 page: 1-7
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '電気味覚; コミュニケーション支援; 料理; 電気刺激; 味覚;'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: 2186-2583
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00073278/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=4lClSidjiT4'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/y3QFkHz.png'
 links: []
 url: 'https://research.miyashita.com/2011/D64/'
 citation: '中村裕美，宮下芳明． 電気味覚を活用した飲食コミュニケーションの可能性，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2011-HCI-142，Issue.11，pp.1-7，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D64/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D64/thumb-small.jpg'

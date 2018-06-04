@@ -18,18 +18,19 @@ number: ""
 page: 143-144
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: AR;CG;モデリング;不可能立体;レイトレーシング
 keywords: []
 language: ja
 doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'http://www.interaction-ipsj.org/archives/paper2009/paper2009.html'
-youtube_url: ""
+external_url: 'http://www.interaction-ipsj.org/archives/paper2009/interactive/0136/0136.pdf'
+youtube_url: 'https://www.youtube.com/watch?v=3HnlxsuxEKI'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/eWEYUzG.jpg'
 links: []
 url: 'https://research.miyashita.com/2009/D14/'
 citation: '篠原祐樹，宮下芳明． 不可能立体のレイトレーシング，インタラクション2009論文集，pp.143-144，2009．'
+ogp_image: 'https://research.miyashita.com/2009/D14/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2009/D14/thumb-small.jpg'

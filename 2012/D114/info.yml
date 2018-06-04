@@ -18,18 +18,19 @@ number: ""
 page: 185-186
 publisher: 日本ソフトウェア科学会
 copyright_holder: '馬場さおり; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 歩行;ナビゲーション;
 keywords: []
 language: ja
 doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'https://www.wiss.org/WISS2012Proceedings/'
+external_url: 'http://www.wiss.org/WISS2012Proceedings/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/0EDTruw.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D114/'
 citation: '馬場さおり，宮下芳明． 路面上への二点投影による歩行速度ナビゲーション，第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集，pp.185-186，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D114/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D114/thumb-small.jpg'

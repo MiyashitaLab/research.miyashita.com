@@ -18,8 +18,7 @@ number: ""
 page: 1-8
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '学会; コミュニケーション支援; 時間'
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00074422/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/GQsvwnM.png'
 links: []
 url: 'https://research.miyashita.com/2011/D65/'
 citation: '宮下芳明，太田佳敬． 時空間の近接性にとらわれない学会のデザイン，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2011-HCI-143，Issue.7，pp.1-8，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D65/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D65/thumb-small.jpg'

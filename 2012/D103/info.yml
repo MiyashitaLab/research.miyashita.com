@@ -19,8 +19,7 @@ number: ""
 page: 1-6
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: GUI;ブラウジング;
 keywords: []
 language: ja
 doi: ""
@@ -30,7 +29,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00082483/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/04ebece6809c529fdd0a6ff4acada64d.png'
 links: []
 url: 'https://research.miyashita.com/2012/D103/'
 citation: '鈴木悠司，井川洋平，宮下芳明． トランプ型ファイルブラウジング手法の提案，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2012-HCI-148，Issue.3，pp.1-6，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D103/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D103/thumb-small.jpg'

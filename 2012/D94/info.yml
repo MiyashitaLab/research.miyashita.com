@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 家計簿;インタラクションデザイン;味覚;視覚;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,7 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
 youtube_url: 'https://www.youtube.com/watch?v=j_wISxuzbW4'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/VjgxN1P.png'
 links: []
 url: 'https://research.miyashita.com/2012/D94/'
 citation: '中村美惠子，宮下芳明． 家計簿を「思考の道具」とするインタラクションデザイン，インタラクション2012論文集，2012．'

@@ -18,8 +18,7 @@ number: ""
 page: 313-326
 publisher: ヒューマンインタフェース学会
 copyright_holder: ヒューマンインタフェース学会
-tags: ""
-is_valid_tags: false
+tags: 'カーソル; GUI; マウス; ウィンドウ'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: 2186-8271
 isbn: ""
 acmdl_url: ""
 external_url: 'https://www.his.gr.jp/paper/archives.cgi?c=download&pk=78&page=paper_journal'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=_nLt5PurgPY'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2013/J12/'
 citation: '山中祥太，宮下芳明． 重なりあったウィンドウ間を移動可能なマウスカーソル操作手法とその評価，ヒューマンインタフェース学会論文誌，Vol.15，Issue.3，pp.313-326，2013．'
+ogp_image: 'https://research.miyashita.com/2013/J12/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/J12/thumb-small.jpg'

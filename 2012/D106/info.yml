@@ -18,8 +18,7 @@ number: ""
 page: 1-7
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: プレゼンテーション;Web;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00082853/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/0732eeb935a08e492274683dfa645fa6.png'
 links: []
 url: 'https://research.miyashita.com/2012/D106/'
 citation: '大島裕樹，宮下芳明． Webコンテンツに対するプレゼンテーション形式での表現手法，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2012-HCI-149，Issue.11，pp.1-7，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D106/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D106/thumb-small.jpg'

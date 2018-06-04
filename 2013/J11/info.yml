@@ -19,18 +19,19 @@ number: ""
 page: 53-63
 publisher: 日本ソフトウェア科学会
 copyright_holder: 日本ソフトウェア科学会
-tags: ""
-is_valid_tags: false
+tags: '視線; ポインティング; マウス;'
 keywords: []
 language: ja
 doi: 10.11309/jssst.30.3_53
 issn: 0289-6540
 isbn: ""
 acmdl_url: ""
-external_url: 'https://www.jstage.jst.go.jp/article/jssst/30/3/30_3_53/_article/-char/ja/'
+external_url: ' https://doi.org/10.11309/jssst.30.3_53'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/2dW4ZYx.jpg'
 links: []
 url: 'https://research.miyashita.com/2013/J11/'
 citation: '山中祥太，栗原一貴，宮下芳明． 注視していないことを利用したポインティング高速化手法とその評価，コンピュータソフトウェア，Vol.30，Issue.3，pp.53-63，2013．'
+ogp_image: 'https://research.miyashita.com/2013/J11/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/J11/thumb-small.jpg'

@@ -18,8 +18,7 @@ number: ""
 page: 59-60
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: タッチインタフェース;導電性インク
 keywords:
   - 'Striped pattern sticker'
   - 'continuous touch input'
@@ -30,7 +29,7 @@ doi: 10.1145/2658779.2668032
 issn: ""
 isbn: 978-1-4503-3068-8
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2668032'
+external_url: 'https://doi.org/10.1145/2658779.2668032'
 youtube_url: 'https://www.youtube.com/watch?v=6Fu33ykSCmk'
 slideshare_url: ""
 thumbnail_url: ""

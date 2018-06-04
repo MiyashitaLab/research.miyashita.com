@@ -18,8 +18,7 @@ number: ""
 page: 1-6
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: ノート
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00070062/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/720cae319c8945a78f3da7dc6d1fe3e6.jpg'
 links: []
 url: 'https://research.miyashita.com/2010/D42/'
 citation: '中村美恵子，宮下芳明． 知覚的解釈を促すノートツール，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2010-HCI-139，Issue.12，pp.1-6，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D42/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D42/thumb-small.jpg'

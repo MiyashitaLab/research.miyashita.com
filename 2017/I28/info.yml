@@ -19,8 +19,7 @@ number: ""
 page: 232-243
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: モデリング;
 keywords:
   - 'Steering law'
   - 'graphical user interfaces'
@@ -33,7 +32,7 @@ doi: 10.1145/3025453.3025625
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=3025836'
+external_url: 'http://doi.org/10.1145/3025453.3025836'
 youtube_url: 'https://www.youtube.com/watch?v=kQQe4N6Tsa0'
 slideshare_url: ""
 thumbnail_url: ""

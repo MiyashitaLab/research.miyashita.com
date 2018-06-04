@@ -20,8 +20,7 @@ number: ""
 page: 587-590
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 電気味覚;味覚;無限;電気刺激;電子工作
 keywords:
   - 電気味覚
   - 'electric taste'
@@ -30,7 +29,7 @@ doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: ""
+external_url: 'http://www.interaction-ipsj.org/proceedings/2018/data/pdf/2B17.pdf'
 youtube_url: 'https://www.youtube.com/watch?v=e09zMyYSUac'
 slideshare_url: ""
 thumbnail_url: ""

@@ -18,8 +18,7 @@ number: ""
 page: 1846-1856
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: ステアリングの法則;GUI;操作性能
 keywords:
   - 'graphical user interfaces'
   - 'human performance'
@@ -32,7 +31,7 @@ doi: 10.1145/2858036.2858037
 issn: ""
 isbn: 978-1-4503-3362-7
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2858037'
+external_url: 'https://doi.org/10.1145/2858036.2858037'
 youtube_url: 'https://www.youtube.com/watch?v=luyVAb80l1g'
 slideshare_url: ""
 thumbnail_url: ""

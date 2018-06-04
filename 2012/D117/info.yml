@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '山本涼太; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: スマートフォン;非接触;位置推定;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'https://www.wiss.org/WISS2012/Demo.html'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/SyslizH.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D117/'
 citation: '山本涼太，宮下芳明． 磁気センシングに基づくスマートフォン近辺でのイヤホン位置推定と非接触入力デバイスとしての活用，第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D117/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D117/thumb-small.jpg'

@@ -17,8 +17,7 @@ number: ""
 page: 223-224
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: テルミン;楽器;泡;pH;
 keywords: []
 language: ja
 doi: ""
@@ -28,7 +27,9 @@ acmdl_url: ""
 external_url: ""
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/49a23ef17e3a1210233e700030c584fa.png'
 links: []
 url: 'https://research.miyashita.com/2007/D2/'
 citation: '宮下芳明． pHテルミンと泡音リズム[Awa-Odo-Rhythm]化学楽器を用いたメディアアートパフォーマンス，エンタテインメントコンピューティングシンポジウム2007論文集，pp.223-224，2007．'
+ogp_image: 'https://research.miyashita.com/2007/D2/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2007/D2/thumb-small.jpg'

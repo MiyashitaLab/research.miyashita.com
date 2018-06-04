@@ -18,8 +18,7 @@ number: ""
 page: 153-158
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '文字認識; 文字入力'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00055691/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=2g_Jx1_DfkA'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/UoctonG.png'
 links: []
 url: 'https://research.miyashita.com/2008/D7/'
 citation: '篠原祐樹，宮下芳明． 文字認識における「歩み寄りインタフェース」の試作と検証，情報処理学会研究報告音楽情報科学（MUS），Vol.2008，Issue.50(2008-MUS-075)，pp.153-158，2008．'
+ogp_image: 'https://research.miyashita.com/2008/D7/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2008/D7/thumb-small.jpg'

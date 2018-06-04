@@ -18,8 +18,7 @@ number: ""
 page: 1-8
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '家計簿; 可視化'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00078076/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=19B172Qq4SY'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2011/D81/'
 citation: '中村美惠子，宮下芳明． 金額の理解を促すインタラクションデザイン，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2011-HCI-145，Issue.5，pp.1-8，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D81/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D81/thumb-small.jpg'

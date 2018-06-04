@@ -18,8 +18,7 @@ number: ""
 page: 1-6
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 時間;プログラミング;
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00082844/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=5sHeAbS_d-c'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2012/D105/'
 citation: '加藤邦拓，宮下芳明． 時間とのインタラクションによるプログラミング支援，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2012-HCI-149，Issue.2，pp.1-6，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D105/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D105/thumb-small.jpg'

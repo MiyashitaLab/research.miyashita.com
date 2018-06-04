@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '中村裕美; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 電気味覚;味覚;電気刺激;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'https://www.wiss.org/WISS2012/Demo.html'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/ISVz9P2.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D119/'
 citation: '中村裕美，宮下芳明． 減損塩味感：足すだけではない，新しい電気味覚のかたち，第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D119/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D119/thumb-small.jpg'

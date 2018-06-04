@@ -19,8 +19,7 @@ number: ""
 page: 81-83
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: タンジブルインタフェース;タッチインタフェース;
 keywords:
   - 'Physical interface'
   - '3D printer'
@@ -30,7 +29,7 @@ doi: 10.1145/2984751.2985711
 issn: ""
 isbn: 978-1-4503-4531-6
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?doid=2984751.2985711'
+external_url: 'https://doi.org/10.1145/2984751.2985711'
 youtube_url: 'https://www.youtube.com/watch?v=wp-MwG6Wt6s'
 slideshare_url: ""
 thumbnail_url: ""

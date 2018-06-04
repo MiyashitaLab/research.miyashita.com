@@ -18,18 +18,19 @@ number: ""
 page: 79-86
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '音楽; 楽曲探索インタフェース'
 keywords: []
 language: ja
 doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'http://www.interaction-ipsj.org/archives/paper2009/paper2009.html'
+external_url: 'http://id.nii.ac.jp/1001/00067960/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/9a5ca6ea5990647ba14eef66a2b8e3d5.jpg'
 links: []
 url: 'https://research.miyashita.com/2009/D13/'
 citation: '青木秀憲，宮下芳明． Far Faster Forward：視覚を用いない状況下での高速楽曲探索インタフェース，インタラクション2009論文集，pp.79-86，2009．'
+ogp_image: 'https://research.miyashita.com/2009/D13/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2009/D13/thumb-small.jpg'

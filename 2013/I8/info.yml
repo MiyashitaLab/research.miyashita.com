@@ -18,8 +18,7 @@ number: ""
 page: 3-4
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 'GUI; マウス; カーソル; ポインティング;'
 keywords:
   - 'Nudging technique'
   - 'graphical user interfaces (GUIs)'
@@ -31,7 +30,7 @@ doi: 10.1145/2508468.2514927
 issn: ""
 isbn: 978-1-4503-2406-9
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2514927'
+external_url: 'https://doi.org/10.1145/2508468.2514927'
 youtube_url: 'https://www.youtube.com/watch?v=dy1xvvsrabc'
 slideshare_url: ""
 thumbnail_url: ""

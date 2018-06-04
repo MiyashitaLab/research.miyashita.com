@@ -18,8 +18,7 @@ number: '20'
 page: '20:1-20:3'
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: AR;眉間;
 keywords:
   - glabellar
   - 'information volume'
@@ -29,10 +28,12 @@ doi: 10.1145/1785455.1785475
 issn: ""
 isbn: 978-1-60558-825-4
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=1785475'
+external_url: 'https://doi.org/10.1145/1785455.1785475'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/68cd9f2aa7cdbe727c44b8a548988886.jpg'
 links: []
 url: 'https://research.miyashita.com/2010/I1/'
 citation: 'Hiromi Nakamura, Homei Miyashita.  Control of Augmented Reality Information Volume by Glabellar Fader, Proceedings of the 1st Augmented Human International Conference, No.20, pp.20:1-20:3, 2010. '
+ogp_image: 'https://research.miyashita.com/2010/I1/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/I1/thumb-small.jpg'

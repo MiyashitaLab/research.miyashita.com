@@ -18,8 +18,7 @@ number: ""
 page: 1-2
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: メモ;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00089452/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/TC1lnV4.jpg'
 links: []
 url: 'https://research.miyashita.com/2013/D123/'
 citation: '井川洋平，宮下芳明． 「数値メモ」のための入力手法，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2013-HCI-151，Issue.14，pp.1-2，2013．'
+ogp_image: 'https://research.miyashita.com/2013/D123/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/D123/thumb-small.jpg'

@@ -18,8 +18,7 @@ number: ""
 page: 187-188
 publisher: 日本ソフトウェア科学会
 copyright_holder: '内平博貴; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 可視化;文字;制作支援
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://www.wiss.org/WISS2009Proceedings/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=9hq7HRkp3n0'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2009/D23/'
 citation: '内平博貴，宮下芳明． 参照元閲覧機能によるユーザエクスペリエンス変化の観察，第17回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2009) 論文集，pp.187-188，2009．'
+ogp_image: 'https://research.miyashita.com/2009/D23/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2009/D23/thumb-small.jpg'

@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: エンタテインメント;動画
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/mYADQ0G.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D97/'
 citation: '吉田有花，宮下芳明． 身体動作の重畳表示による動画上での一体感共有，インタラクション2012論文集，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D97/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D97/thumb-small.jpg'

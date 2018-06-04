@@ -18,8 +18,7 @@ number: ""
 page: 245-254
 publisher: ヒューマンインタフェース学会
 copyright_holder: ヒューマンインタフェース学会
-tags: ""
-is_valid_tags: false
+tags: タッチインタフェース;GUI;導電性インク;
 keywords:
   - 'conductive ink, multi-touch, card, phiysical interface'
 language: ja
@@ -28,9 +27,11 @@ issn: 2186-8271
 isbn: ""
 acmdl_url: ""
 external_url: 'https://www.his.gr.jp/paper/archives.cgi?c=download&pk=86&page=paper_journal'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=DXtYuN4EO7M'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/jhHT1qN.jpg'
 links: []
 url: 'https://research.miyashita.com/2015/J16/'
 citation: '加藤邦拓，宮下芳明． 紙窓：カード内領域を独立したタッチパネルディスプレイのように扱うインタフェース，ヒューマンインタフェース学会論文誌，Vol.17，Issue.3，pp.245-254，2015．'
+ogp_image: 'https://research.miyashita.com/2015/J16/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2015/J16/thumb-small.jpg'

@@ -20,8 +20,7 @@ number: ""
 page: 31-33
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 触覚ディスプレイ;電気刺激;静電吸着
 keywords:
   - 'Tactile display'
   - 'electrostatic force'

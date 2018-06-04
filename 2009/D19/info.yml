@@ -18,8 +18,7 @@ number: ""
 page: 181-182
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 音楽;作曲;
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://ec2009.entcomp.org/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=59h_s0SCt5E'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2009/D19/'
 citation: '矢田裕基，宮下芳明． Gravity Piano：物理演算による作曲インタフェース，エンタテインメントコンピューティングシンポジウム2009論文集，pp.181-182，2009．'
+ogp_image: 'https://research.miyashita.com/2009/D19/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2009/D19/thumb-small.jpg'

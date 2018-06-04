@@ -18,8 +18,7 @@ number: ""
 page: 1-2
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 嗅覚;
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00089451/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=2BAX39iJRIw'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2013/D122/'
 citation: '松岡拓人，宮下芳明． そろそろ時間じゃない？なんか焦げ臭くない？，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2013-HCI-151，Issue.13，pp.1-2，2013．'
+ogp_image: 'https://research.miyashita.com/2013/D122/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/D122/thumb-small.jpg'

@@ -18,8 +18,7 @@ number: ""
 page: 115-122
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '書道; シンセサイザ;'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00091436/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=9hq7HRkp3n0'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2010/D26/'
 citation: '内平博貴，宮下芳明． 電子楽器のメタファを取り入れた書道表現ソフトウェア，第51回プログラミング・シンポジウム予稿集，Vol.2010，pp.115-122，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D26/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D26/thumb-small.jpg'

@@ -18,8 +18,7 @@ number: ""
 page: 1999-2004
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: '電気味覚; 電気刺激;味覚;コミュニケーション支援'
 keywords:
   - 'altering the taste of food and drink'
   - 'electric taste'
@@ -29,7 +28,7 @@ doi: 10.1145/1979742.1979916
 issn: ""
 isbn: 978-1-4503-0268-5
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=1979916'
+external_url: 'https://doi.org/10.1145/1979742.1979916'
 youtube_url: 'https://www.youtube.com/watch?v=DkheAo-KkJI'
 slideshare_url: ""
 thumbnail_url: ""

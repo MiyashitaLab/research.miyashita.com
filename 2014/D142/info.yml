@@ -18,8 +18,7 @@ number: ""
 page: 182-185
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: プログラミング;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00102930/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/a98ea2594de3c4e64d4b3cc84bb5889f.jpg'
 links: []
 url: 'https://research.miyashita.com/2014/D142/'
 citation: '宮代理弘，宮下芳明． 140文字Processingプログラミング，エンタテインメントコンピューティングシンポジウム2014論文集，Vol.2014，pp.182-185，2014．'
+ogp_image: 'https://research.miyashita.com/2014/D142/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2014/D142/thumb-small.jpg'

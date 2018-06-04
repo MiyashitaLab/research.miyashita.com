@@ -18,8 +18,7 @@ number: ""
 page: 1-8
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 'プレゼンテーション; コミュニケーション支援; 多人数'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00075480/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=hnKkoTXSYb8'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2011/D69/'
 citation: '永瀬翔，宮下芳明． 多人数協力型の速報プレゼンテーションツール，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2011-HCI-144，Issue.8，pp.1-8，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D69/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D69/thumb-small.jpg'

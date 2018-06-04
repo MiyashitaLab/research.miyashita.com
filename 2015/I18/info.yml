@@ -18,8 +18,7 @@ number: ""
 page: 35-36
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: ヘッドマウントディスプレイ;VR;タッチインタフェース;
 keywords:
   - 'Interface Cartridge'
   - 'Mobile HMD'
@@ -29,10 +28,10 @@ doi: 10.1145/2815585.2817776
 issn: ""
 isbn: 978-1-4503-3780-9
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2817776'
+external_url: 'https://doi.org/10.1145/2815585.2817776'
 youtube_url: 'https://www.youtube.com/watch?v=xln-u1i9BXY'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/F10Jk9V.jpg'
 links: []
 url: 'https://research.miyashita.com/2015/I18/'
 citation: 'Kunihiro Kato, Homei Miyashita.  Creating a Mobile Head-mounted Display with Proprietary Controllers for Interactive Virtual Reality Content, Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology, pp.35-36, 2015. '

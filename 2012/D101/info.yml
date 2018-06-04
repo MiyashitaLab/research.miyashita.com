@@ -18,8 +18,7 @@ number: ""
 page: 1-8
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 探索インタフェース;GUI
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00081239/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/SuPPv94.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D101/'
 citation: '山中祥太，宮下芳明． コンテンツリストにおけるインタラクション手法の提案，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2012-HCI-147，Issue.11，pp.1-8，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D101/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D101/thumb-small.jpg'

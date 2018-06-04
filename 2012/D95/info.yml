@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 動画;学会;映像表現
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/5wJI7Yr.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D95/'
 citation: '太田佳敬，宮下芳明． ２つの学会発表録画を同時視聴するためのシステム，インタラクション2012論文集，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D95/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D95/thumb-small.jpg'

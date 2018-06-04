@@ -22,8 +22,7 @@ number: '505'
 page: 1-6
 publisher: 電子情報通信学会
 copyright_holder: 電子情報通信学会
-tags: ""
-is_valid_tags: false
+tags: 対話型進化計算;制作支援;モデリング
 keywords: []
 language: ja
 doi: ""
@@ -31,9 +30,11 @@ issn: ""
 isbn: 0913-5685
 acmdl_url: ""
 external_url: 'http://ci.nii.ac.jp/naid/40020792565'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=5B1tjyZcvqc'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2016/D162/'
 citation: '檜山翼，中村美惠子，宮下芳明，飛谷謙介，長田典子，荒川薫． 感性評価値を用いた対話型進化計算による三次元物体デザイン手法，電子情報通信学会技術研究報告，Vol.115，No.505，pp.1-6，2016．'
+ogp_image: 'https://research.miyashita.com/2016/D162/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2016/D162/thumb-small.jpg'

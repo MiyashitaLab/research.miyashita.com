@@ -20,8 +20,7 @@ number: ""
 page: ""
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: タッチインタフェース;触覚ディスプレイ;静電吸着
 keywords:
   - 'Tactile display'
   - 'double-sided printing'

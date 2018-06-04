@@ -18,8 +18,7 @@ number: ""
 page: 337-340
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '音楽; 譜面'
 keywords:
   - EC2012
   - 練習支援
@@ -31,7 +30,7 @@ doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: ""
+external_url: 'http://ec2012.entcomp.org/program.html'
 youtube_url: 'https://www.youtube.com/watch?v=4p6uJ4ySREE'
 slideshare_url: ""
 thumbnail_url: ""

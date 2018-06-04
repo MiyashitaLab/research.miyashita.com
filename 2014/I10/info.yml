@@ -18,8 +18,7 @@ number: ""
 page: 155-156
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 電子回路;プロジェクションマッピング;
 keywords:
   - electronics
   - 'pseudo-light emitting'
@@ -30,7 +29,7 @@ doi: 10.1145/2559206.2579523
 issn: ""
 isbn: 978-1-4503-2474-8
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2579523'
+external_url: 'https://doi.org/10.1145/2559206.2579523'
 youtube_url: 'https://www.youtube.com/watch?v=86OBAbu97QM'
 slideshare_url: ""
 thumbnail_url: ""

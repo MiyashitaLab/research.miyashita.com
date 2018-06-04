@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 音楽;口笛
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://ec2010.entcomp.org/program.html'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=j4MmC5fq3HM'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2010/D46/'
 citation: '松岡拓人，宮下芳明． 口笛の音域を拡張するシステム，エンタテインメントコンピューティング2010論文集，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D46/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D46/thumb-small.jpg'

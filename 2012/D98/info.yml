@@ -19,8 +19,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 動画;エンタテインメント;視線
 keywords: []
 language: ja
 doi: ""
@@ -30,7 +29,7 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
 youtube_url: 'https://www.youtube.com/watch?v=MAQ1Hye0ibQ'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/LlQX8xq.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D98/'
 citation: '松野祐典，栗原一貴，宮下芳明． 動画共有サイトでの視線共有の試み，インタラクション2012論文集，2012．'

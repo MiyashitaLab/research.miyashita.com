@@ -17,8 +17,7 @@ number: ""
 page: 141-144
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '音楽; 作曲;'
 keywords: []
 language: ja
 doi: ""
@@ -28,7 +27,9 @@ acmdl_url: ""
 external_url: ""
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/KmpQ3aag.png'
 links: []
 url: 'https://research.miyashita.com/2007/D1/'
 citation: '宮下芳明． 減算式作曲：「音を削る」彫刻的な次世代音楽制作法，エンタテインメントコンピューティングシンポジウム2007論文集，pp.141-144，2007．'
+ogp_image: 'https://research.miyashita.com/2007/D1/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2007/D1/thumb-small.jpg'

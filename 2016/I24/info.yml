@@ -18,8 +18,7 @@ number: ""
 page: 129-131
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 3Dプリンタ;
 keywords:
   - 'fit real objects'
   - 'fused deposition modeling'
@@ -31,7 +30,7 @@ doi: 10.1145/2984751.2985730
 issn: ""
 isbn: 978-1-4503-4531-6
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2985730'
+external_url: 'https://doi.org/10.1145/2984751.2985730'
 youtube_url: 'https://www.youtube.com/watch?v=DO-5nfyj7cY'
 slideshare_url: ""
 thumbnail_url: ""

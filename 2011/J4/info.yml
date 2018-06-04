@@ -18,8 +18,7 @@ number: ""
 page: 303-313
 publisher: ヒューマンインタフェース学会
 copyright_holder: ヒューマンインタフェース学会
-tags: ""
-is_valid_tags: false
+tags: HMMMML;好意的解釈;モチベーション;フィジカルコンピューティング
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'https://www.his.gr.jp/paper/archives.cgi?c=download&pk=67'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=HBpAyfcQ5Bg'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2011/J4/'
 citation: '宮下芳明，中橋雅弘． 学習者のモチベーション向上のための好意的解釈を行うフィジカルコンピューティング環境のデザイン，ヒューマンインタフェース学会論文誌，Vol.13，Issue.4，pp.303-313，2011．'
+ogp_image: 'https://research.miyashita.com/2011/J4/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/J4/thumb-small.jpg'

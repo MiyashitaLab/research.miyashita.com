@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 情報共有;コミニュケーションツール
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2012/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/xE4zzcD.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D96/'
 citation: '清水和晃，宮下芳明． ToolBaCo: 提示型の情報共有コミュニティ，インタラクション2012論文集，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D96/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D96/thumb-small.jpg'

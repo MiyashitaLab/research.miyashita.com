@@ -18,8 +18,7 @@ number: ""
 page: 3111-3114
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: '電気味覚; 電気刺激;味覚;'
 keywords:
   - 'cathodal current'
   - 'gustatory perception'
@@ -29,7 +28,7 @@ doi: 10.1145/2468356.2479623
 issn: ""
 isbn: 978-1-4503-1952-2
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2479623'
+external_url: 'https://doi.org/10.1145/2468356.2479623'
 youtube_url: 'https://www.youtube.com/watch?v=idnJ7l9mbSY'
 slideshare_url: ""
 thumbnail_url: ""

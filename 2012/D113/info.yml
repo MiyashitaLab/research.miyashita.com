@@ -18,18 +18,19 @@ number: ""
 page: 183-184
 publisher: 日本ソフトウェア科学会
 copyright_holder: '大島裕樹; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 過去;可視化;時間;
 keywords: []
 language: ja
 doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'https://www.wiss.org/WISS2012Proceedings/'
+external_url: 'http://www.wiss.org/WISS2012Proceedings/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/ex9fhdj.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D113/'
 citation: '大島裕樹，宮下芳明． 過去の状態をちょっと覗き見る時間の窓，第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集，pp.183-184，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D113/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D113/thumb-small.jpg'

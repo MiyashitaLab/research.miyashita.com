@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 芸術科学会
 copyright_holder: '青島さやか; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: ネイル
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://art-science.org/dl/nicograph/program2010s.html'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/de153c24c1212d50792f060035636a9d.jpg'
 links: []
 url: 'https://research.miyashita.com/2010/D38/'
 citation: '青島さやか，宮下芳明． フレンチネイルにおける多者目線からの印象評価，第9回NICOGRAPH春季大会予稿集，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D38/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D38/thumb-small.jpg'

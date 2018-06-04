@@ -18,8 +18,7 @@ number: ""
 page: 1851-1854
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: タッチインタフェース;GUI;導電性インク;
 keywords:
   - 'Striped pattern sticker'
   - 'continuous touch input'
@@ -30,10 +29,10 @@ doi: 10.1145/2702123.2702500
 issn: ""
 isbn: 978-1-4503-3145-6
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2702500'
+external_url: 'https://doi.org/10.1145/2702123.2702500'
 youtube_url: 'https://www.youtube.com/watch?v=x3RcAKr_z-s'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/O7LneRg.jpg'
 links: []
 url: 'https://research.miyashita.com/2015/I17/'
 citation: 'Kunihiro Kato, Homei Miyashita.  ExtensionSticker: A Proposal for A Striped Pattern Sticker to Extend Touch Interfaces and its Assessment, Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, pp.1851-1854, 2015. '

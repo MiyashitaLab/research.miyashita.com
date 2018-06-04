@@ -19,8 +19,7 @@ number: ""
 page: 103-110
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 動画;映像表現
 keywords: []
 language: ja
 doi: ""
@@ -28,9 +27,9 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00036529/'
-youtube_url: ""
+youtube_url: "\n"
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/6e54c4a57f29f985b70b71abf0779b4a.png'
 links: []
 url: 'https://research.miyashita.com/2008/D11/'
 citation: '中村貴洋，青木秀憲，宮下芳明． マンガ的手法を用いたニコニコ動画ナビゲーション，情報処理学会研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2008，Issue.106(2008-HCI-130)，pp.103-110，2008．'

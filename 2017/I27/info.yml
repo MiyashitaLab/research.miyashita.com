@@ -21,8 +21,7 @@ number: ""
 page: 790-805
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 制作支援
 keywords:
   - 'Human-fabMachine interaction'
   - 'concurrent collaboration'
@@ -33,8 +32,8 @@ doi: 10.1145/3027063.3052763
 issn: ""
 isbn: 978-1-4503-4656-6
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=3052763'
-youtube_url: ""
+external_url: 'http://doi.org/10.1145/3027063.3052763'
+youtube_url: 'https://www.youtube.com/watch?v=zwKxLwY4FLA'
 slideshare_url: ""
 thumbnail_url: 'https://i.gyazo.com/6b7c118132c5063ed320b8dd9e96a298.png'
 links: []

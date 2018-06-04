@@ -18,8 +18,7 @@ number: '29'
 page: '29:1-29:2'
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 'AR; 可視化; 家計簿;'
 keywords:
   - accounting
   - 'realistic sense'
@@ -29,7 +28,7 @@ doi: 10.1145/1959826.1959855
 issn: ""
 isbn: 978-1-4503-0426-9
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=1959855'
+external_url: 'https://doi.org/10.1145/1959826.1959855'
 youtube_url: 'https://www.youtube.com/watch?v=cw6pW-_ph80'
 slideshare_url: ""
 thumbnail_url: ""

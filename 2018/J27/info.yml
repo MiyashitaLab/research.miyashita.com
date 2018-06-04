@@ -18,8 +18,7 @@ number: ""
 page: 644-656
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: '3Dプリンタ; デジタルファブリケーション; FDM;'
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00185783/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/YxUiJ5l.jpg'
 links: []
 url: 'https://research.miyashita.com/2018/J27/'
 citation: '高橋治輝，宮下芳明． Road単位の造形に着目した熱溶解積層方式3Dプリンタでの質感表現，情報処理学会論文誌，Vol.59，Issue.2，pp.644-656，2018．'
+ogp_image: 'https://research.miyashita.com/2018/J27/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/J27/thumb-small.jpg'

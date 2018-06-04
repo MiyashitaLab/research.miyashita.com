@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 'マンガ; コマ割り; 映像表現;'
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2010/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/FaO0PFq.png'
 links: []
 url: 'https://research.miyashita.com/2010/D28/'
 citation: '中村貴洋，宮下芳明． マンガを原作とする映像のシーン対応に関する一考察，インタラクション2010論文集，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D28/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D28/thumb-small.jpg'

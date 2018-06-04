@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: デザイン;シンセサイザ;サンプリング;書道
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2010/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/435b8879974d1cddb0b26d3fbab93370.jpg'
 links: []
 url: 'https://research.miyashita.com/2010/D32/'
 citation: '内平博貴，宮下芳明． デザイン書道のためのウェーブテーブル方式シンセサイザ，インタラクション2010論文集，2010．'
+ogp_image: 'https://research.miyashita.com/2010/D32/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/D32/thumb-small.jpg'

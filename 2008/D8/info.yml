@@ -18,8 +18,7 @@ number: ""
 page: 12-20
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 'CG; デザイン; 制作支援; ポップアップカード; 画像処理'
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00036533/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/7drU6HY.png'
 links: []
 url: 'https://research.miyashita.com/2008/D8/'
 citation: '加納崇光，宮下芳明． 実写画像によるポップアップカード生成，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2008，Issue.79(2008-HCI-129)，pp.12-20，2008．'
+ogp_image: 'https://research.miyashita.com/2008/D8/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2008/D8/thumb-small.jpg'

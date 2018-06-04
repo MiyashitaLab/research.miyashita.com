@@ -18,18 +18,19 @@ number: ""
 page: 187-188
 publisher: 日本ソフトウェア科学会
 copyright_holder: '吉田有花; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: 動画;エフェクト;非同期コミュニケーション
 keywords: []
 language: ja
 doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: 'https://www.wiss.org/WISS2012Proceedings/'
+external_url: 'http://www.wiss.org/WISS2012Proceedings/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/3i3YFTy.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D115/'
 citation: '吉田有花，宮下芳明． 視聴者の動きに応じてエフェクトを加える動画サービス，第20回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2012) 論文集，pp.187-188，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D115/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D115/thumb-small.jpg'

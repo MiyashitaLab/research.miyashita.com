@@ -17,8 +17,7 @@ number: ""
 page: 249-256
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 学会
 keywords:
   - EC2012
   - インタラクション2012
@@ -27,10 +26,12 @@ doi: ""
 issn: ""
 isbn: ""
 acmdl_url: ""
-external_url: ""
+external_url: 'http://ec2012.entcomp.org/program.html'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.gyazo.com/184cae386ac66b2ffd11046697471837.jpg'
 links: []
 url: 'https://research.miyashita.com/2012/D110/'
 citation: '宮下芳明． インタラクション2012の改革と課題，エンタテインメントコンピューティングシンポジウム2012論文集，pp.249-256，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D110/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D110/thumb-small.jpg'

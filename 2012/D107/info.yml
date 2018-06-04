@@ -18,8 +18,7 @@ number: ""
 page: 1-7
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 'web; 感情'
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00082854/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=R6FsfSO-Av8'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2012/D107/'
 citation: '大家眸美，宮下芳明． ウェブコンテンツにおけるネガティブ感情表現の緩和手法，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2012-HCI-149，Issue.12，pp.1-7，2012．'
+ogp_image: 'https://research.miyashita.com/2012/D107/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2012/D107/thumb-small.jpg'

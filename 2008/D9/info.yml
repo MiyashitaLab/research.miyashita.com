@@ -1,7 +1,7 @@
 id: D9
 draft: false
-available_pdf: false
-pdf_url: ""
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2008/D9/D9.pdf'
 preprint_pdf_url: ""
 type: paper-conference
 thumbnail_preview: ""
@@ -19,8 +19,7 @@ number: ""
 page: '59'
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 音楽
 keywords: []
 language: ja
 doi: ""
@@ -28,9 +27,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://ec2008.entcomp.org/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=J7UZTKsTQbI'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2008/D9/'
 citation: '永野哲久，大山宗哉，宮下芳明． 音楽の未来を実装するということ，エンタテインメントコンピューティングシンポジウム2008論文集，pp.59，2008．'
+ogp_image: 'https://research.miyashita.com/2008/D9/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2008/D9/thumb-small.jpg'

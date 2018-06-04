@@ -18,8 +18,7 @@ number: ""
 page: 101-105
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: '電気味覚; 電気刺激; 味覚;'
 keywords:
   - 'cathodal current'
   - 'enhancing saltiness'
@@ -29,10 +28,12 @@ doi: 10.1145/2506023.2506026
 issn: ""
 isbn: 978-1-4503-2392-5
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2506026'
+external_url: 'https://doi.org/10.1145/2506023.2506026'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/cHB1Taq.jpg'
 links: []
 url: 'https://research.miyashita.com/2013/I9/'
 citation: 'Hiromi Nakamura, Homei Miyashita.  Controlling saltiness without salt: evaluation of taste change by applying and releasing cathodal current, Proceedings of the 5th international workshop on Multimedia for cooking & eating activities, pp.101-105, 2013. '
+ogp_image: 'https://research.miyashita.com/2013/I9/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/I9/thumb-small.jpg'

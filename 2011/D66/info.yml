@@ -18,8 +18,7 @@ number: ""
 page: 1-8
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 'チャット; 過去; 時間'
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00074423/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/0rXzMuV.png'
 links: []
 url: 'https://research.miyashita.com/2011/D66/'
 citation: '山中祥太，宮下芳明． 発言履歴編集機能がチャットに及ぼす影響の考察，研究報告ヒューマンコンピュータインタラクション（HCI），Vol.2011-HCI-143，Issue.8，pp.1-8，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D66/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D66/thumb-small.jpg'

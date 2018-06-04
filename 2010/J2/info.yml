@@ -18,8 +18,7 @@ number: ""
 page: 356-364
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 楽曲探索インタフェース;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00067960/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/N2y5rx4.png'
 links: []
 url: 'https://research.miyashita.com/2010/J2/'
 citation: '青木秀憲，宮下芳明． 視覚を用いない状況下での高速楽曲探索インタフェースの設計と検証，情報処理学会論文誌，Vol.51，Issue.2，pp.356-364，2010．'
+ogp_image: 'https://research.miyashita.com/2010/J2/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2010/J2/thumb-small.jpg'

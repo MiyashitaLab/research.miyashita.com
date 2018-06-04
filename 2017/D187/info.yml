@@ -20,8 +20,7 @@ number: ""
 page: ""
 publisher: 日本バーチャルリアリティ学会
 copyright_holder: 日本バーチャルリアリティ学会
-tags: ""
-is_valid_tags: false
+tags: 触覚ディスプレイ;電気刺激;静電吸着;プリンタブルデバイス
 keywords:
   - 触覚ディスプレイ
   - 電気刺激
@@ -33,7 +32,7 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: ""
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=_3-ZkPxxzK0'
 slideshare_url: ""
 thumbnail_url: 'https://i.gyazo.com/1a9660bf2eed719a0b374da76a798ca9.png'
 links: []

@@ -18,8 +18,7 @@ number: ""
 page: 66-73
 publisher: 'Asia Interior Design Institute Association'
 copyright_holder: 'Asia Interior Design Institute Association'
-tags: ""
-is_valid_tags: false
+tags: 書道;サンプリング;
 keywords:
   - Calligraphy
   - Design
@@ -30,9 +29,11 @@ issn: 1598-3811
 isbn: ""
 acmdl_url: ""
 external_url: ""
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=9hq7HRkp3n0'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2014/J14/'
 citation: 'Homei Miyashita, Hiroki Uchihira.  Calligraphy Expressions Based On Electronic Musical Instruments Metaphor, AIDIA Journal, Vol.14, pp.66-73, 2014. '
+ogp_image: 'https://research.miyashita.com/2014/J14/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2014/J14/thumb-small.jpg'

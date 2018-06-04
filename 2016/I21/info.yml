@@ -18,8 +18,7 @@ number: ""
 page: 16-19
 publisher: ACM
 copyright_holder: ACM
-tags: ""
-is_valid_tags: false
+tags: 3Dプリンタ;導電性インク;タンジブルインタフェース;タッチインタフェース
 keywords:
   - 'Physical interface'
   - '3D printer'
@@ -29,7 +28,7 @@ doi: 10.1145/2984751.2985700
 issn: ""
 isbn: 978-1-4503-4531-6
 acmdl_url: ""
-external_url: 'http://dl.acm.org/citation.cfm?id=2985700'
+external_url: 'https://doi.org/10.1145/2984751.2985700'
 youtube_url: 'https://www.youtube.com/watch?v=G-qAFpd_R3M'
 slideshare_url: ""
 thumbnail_url: ""

@@ -18,8 +18,7 @@ number: ""
 page: 3933-3941
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 文字認識;文字;GUI;文字入力
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: 1882-7764
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00009362/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=2g_Jx1_DfkA'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2008/J1/'
 citation: '篠原祐樹，宮下芳明． 歩み寄りインタフェースの提案，情報処理学会論文誌，Vol.49，Issue.12，pp.3933-3941，2008．'
+ogp_image: 'https://research.miyashita.com/2008/J1/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2008/J1/thumb-small.jpg'

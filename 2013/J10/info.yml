@@ -18,8 +18,7 @@ number: ""
 page: 1442-1449
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 電気味覚;味覚;電気刺激;電気刺激;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,9 @@ acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00091576/'
 youtube_url: ""
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/k0IHXiT.jpg'
 links: []
 url: 'https://research.miyashita.com/2013/J10/'
 citation: '中村裕美，宮下芳明． 一極型電気味覚付加装置の提案と極性変化による味質変化の検討，情報処理学会論文誌，Vol.54，Issue.4，pp.1442-1449，2013．'
+ogp_image: 'https://research.miyashita.com/2013/J10/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/J10/thumb-small.jpg'

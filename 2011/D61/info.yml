@@ -18,8 +18,7 @@ number: ""
 page: 749-752
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 読書
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: ""
 isbn: ""
 acmdl_url: ""
 external_url: 'http://www.interaction-ipsj.org/archives/paper2011/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=tFQgDm-zrDc'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/cNoXgII.png'
 links: []
 url: 'https://research.miyashita.com/2011/D61/'
 citation: '太田佳敬，宮下芳明． 減算的行為を収集する読書システム，インタラクション2011論文集，pp.749-752，2011．'
+ogp_image: 'https://research.miyashita.com/2011/D61/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2011/D61/thumb-small.jpg'

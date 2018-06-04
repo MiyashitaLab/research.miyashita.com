@@ -18,8 +18,7 @@ number: ""
 page: 912-928
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 音楽;学習支援;楽器;練習支援;プロジェクションマッピング
 keywords:
   - 筝
   - 楽器演奏学習
@@ -31,7 +30,7 @@ issn: 1882-7764
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00186736/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=xoVmZoQdvlk'
 slideshare_url: ""
 thumbnail_url: 'https://i.gyazo.com/1bc5594b59b1b2ed91f2f1d9c0a09cf8.png'
 links: []

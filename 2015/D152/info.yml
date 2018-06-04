@@ -18,8 +18,7 @@ number: ""
 page: 13-18
 publisher: 日本ソフトウェア科学会
 copyright_holder: '加藤邦拓; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: ヘッドマウントディスプレイ;VR;タッチインタフェース;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,7 @@ acmdl_url: ""
 external_url: 'http://www.wiss.org/WISS2015Proceedings/oral/03.pdf'
 youtube_url: 'https://www.youtube.com/watch?v=TVBN1zUtOMA'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/xbj31N6.jpg'
 links: []
 url: 'https://research.miyashita.com/2015/D152/'
 citation: '加藤邦拓，宮下芳明． なでて操作するカードボード HMD，第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集，pp.13-18，2015．'

@@ -18,8 +18,7 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '薄羽大樹; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: GUI;範囲選択;自由選択
 keywords: []
 language: ja
 doi: ""

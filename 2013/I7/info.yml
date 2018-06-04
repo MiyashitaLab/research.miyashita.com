@@ -18,8 +18,7 @@ number: ""
 page: 746-753
 publisher: 'Springer Berlin Heidelberg'
 copyright_holder: IFIP
-tags: ""
-is_valid_tags: false
+tags: 'カーソル; GUI; マウス; ウィンドウ'
 keywords:
   - Cursor
   - 'Graphical user interfaces (GUIs)'
@@ -31,7 +30,7 @@ doi: 10.1007/978-3-642-40483-2_52
 issn: 0302-9743
 isbn: 978-3-642-40483-2
 acmdl_url: ""
-external_url: 'http://link.springer.com/chapter/10.1007/978-3-642-40483-2_52'
+external_url: 'https://doi.org/10.1007/978-3-642-40483-2_52'
 youtube_url: 'https://www.youtube.com/watch?v=_nLt5PurgPY'
 slideshare_url: ""
 thumbnail_url: ""

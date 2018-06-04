@@ -18,8 +18,7 @@ number: ""
 page: 1092-1100
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-tags: ""
-is_valid_tags: false
+tags: 電気味覚;味覚;視覚;電気刺激;
 keywords: []
 language: ja
 doi: ""
@@ -27,9 +26,11 @@ issn: '1882-7764 '
 isbn: ""
 acmdl_url: ""
 external_url: 'http://id.nii.ac.jp/1001/00081287/'
-youtube_url: ""
+youtube_url: 'https://www.youtube.com/watch?v=h3r7xRNzJ5E'
 slideshare_url: ""
 thumbnail_url: ""
 links: []
 url: 'https://research.miyashita.com/2013/J7/'
 citation: '中村裕美，宮下芳明． 電気味覚による味覚変化と視覚コンテンツの連動，情報処理学会論文誌，Vol.53，Issue.3，pp.1092-1100，2013．'
+ogp_image: 'https://research.miyashita.com/2013/J7/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2013/J7/thumb-small.jpg'

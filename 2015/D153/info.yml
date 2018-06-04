@@ -18,8 +18,7 @@ number: ""
 page: 67-72
 publisher: 日本ソフトウェア科学会
 copyright_holder: '薄羽大樹; 宮下芳明'
-tags: ""
-is_valid_tags: false
+tags: プログラミング;コメント;
 keywords: []
 language: ja
 doi: ""
@@ -29,7 +28,7 @@ acmdl_url: ""
 external_url: 'http://www.wiss.org/WISS2015Proceedings/'
 youtube_url: 'https://www.youtube.com/watch?v=wnXBYoBeNv4'
 slideshare_url: ""
-thumbnail_url: ""
+thumbnail_url: 'https://i.imgur.com/SpkVqZW.jpg'
 links: []
 url: 'https://research.miyashita.com/2015/D153/'
 citation: '薄羽大樹，宮下芳明． コメントイン: コメントを先に書くことによる新形態のAPIリファレンス，第23回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2015) 論文集，pp.67-72，2015．'
