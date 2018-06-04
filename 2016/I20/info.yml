@@ -18,6 +18,8 @@ number: ""
 page: 1846-1856
 publisher: ACM
 copyright_holder: ACM
+tags: ""
+is_valid_tags: false
 keywords:
   - 'graphical user interfaces'
   - 'human performance'

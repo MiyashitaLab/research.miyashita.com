@@ -18,6 +18,8 @@ number: ""
 page: ""
 publisher: ""
 copyright_holder: ""
+tags: ""
+is_valid_tags: false
 keywords: []
 language: en
 doi: ""

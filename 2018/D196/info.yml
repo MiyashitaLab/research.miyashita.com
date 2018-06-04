@@ -20,7 +20,11 @@ number: ""
 page: 587-590
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
-keywords: []
+tags: ""
+is_valid_tags: false
+keywords:
+  - 電気味覚
+  - 'electric taste'
 language: ja
 doi: ""
 issn: ""

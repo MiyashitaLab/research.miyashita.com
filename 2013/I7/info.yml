@@ -18,6 +18,8 @@ number: ""
 page: 746-753
 publisher: 'Springer Berlin Heidelberg'
 copyright_holder: IFIP
+tags: ""
+is_valid_tags: false
 keywords:
   - Cursor
   - 'Graphical user interfaces (GUIs)'

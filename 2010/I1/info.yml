@@ -18,6 +18,8 @@ number: '20'
 page: '20:1-20:3'
 publisher: ACM
 copyright_holder: ACM
+tags: ""
+is_valid_tags: false
 keywords:
   - glabellar
   - 'information volume'

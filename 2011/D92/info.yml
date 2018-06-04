@@ -19,6 +19,8 @@ number: ""
 page: ""
 publisher: 日本ソフトウェア科学会
 copyright_holder: '栗原一貴; 松野祐典; 宮下芳明'
+tags: ""
+is_valid_tags: false
 keywords: []
 language: ja
 doi: ""

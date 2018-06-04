@@ -19,6 +19,8 @@ number: ""
 page: 670-680
 publisher: 情報処理学会
 copyright_holder: 情報処理学会
+tags: ""
+is_valid_tags: false
 keywords:
   - '3D プリンタ'
   - 静電容量式タッチパネル

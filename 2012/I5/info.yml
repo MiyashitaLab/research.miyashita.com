@@ -18,6 +18,8 @@ number: ""
 page: 517-520
 publisher: ACM
 copyright_holder: ACM
+tags: ""
+is_valid_tags: false
 keywords:
   - 'electric taste'
   - 'gustatory presentation system'

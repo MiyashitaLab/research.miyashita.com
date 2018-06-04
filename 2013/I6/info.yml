@@ -18,6 +18,8 @@ number: ""
 page: 3111-3114
 publisher: ACM
 copyright_holder: ACM
+tags: ""
+is_valid_tags: false
 keywords:
   - 'cathodal current'
   - 'gustatory perception'

@@ -18,6 +18,8 @@ number: '12'
 page: 1-10
 publisher: ACM
 copyright_holder: ACM
+tags: ""
+is_valid_tags: false
 keywords:
   - 'Scale effects'
   - 'motor scale'

@@ -18,6 +18,8 @@ number: ""
 page: 155-156
 publisher: ACM
 copyright_holder: ACM
+tags: ""
+is_valid_tags: false
 keywords:
   - electronics
   - 'pseudo-light emitting'
