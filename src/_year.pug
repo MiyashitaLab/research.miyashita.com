@@ -30,9 +30,13 @@ html
 
   body
     nav.px2.pt2.pb1.border-bottom.clearfix
-      .left.col-12.md-col-2.pb1.center.nowrap
-        a(href="/") 宮下研究室 論文データベース
-      .right.col-12.md-col-3.lg-col-2.pb1
+      .left.col-12.md-col-2.center.nowrap
+        a(href="/")
+          img.header-image(
+            alt="宮下研究室論文データベース",
+            src="https://lh3.googleusercontent.com/-XOOumKb5Has/Wxcj0fbNRtI/AAAAAAAAGfg/AKCEO785powc0_pEj1one5A2zlBHVqCqQCE0YBhgL/h64/"
+          )
+      .right.col-12.md-col-3.lg-col-2.p1
         form(method="GET", action="/search").flex
           input.flex-auto.px1.border(type="search", name="q", placeholder="Search")
     header.max-width-4.mx-auto.px2
