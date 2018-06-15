@@ -1,0 +1,27 @@
+[
+  {
+    "id": "I33",
+    "type": "paper-conference",
+    "title": "Investigating User Performance by the Difference between Motor and Visual Widths for Small Target Pointing",
+    "author": [
+      {
+        "family": "Usuba",
+        "given": "Hiroki"
+      },
+      {
+        "family": "Yamanaka",
+        "given": "Shota"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Homei"
+      }
+    ],
+    "abstract": "We investigate user performance by the difference between motor and visual widths when pointing to small targets. In recent desktop GUIs, the visual shapes of targets tend to be smaller than the motor width. For example, the motor width of a window frame in which the user can click tends to be larger than the visual width. We assume that it is difficult to point to the target when the motor and visual widths are different. Therefore, we compare the conditions where the motor and visual widths are equal and not equal. The results show that, compared with the conditions where the motor and visual widths were equal, users completed a task without any problems in terms of movement time and error rate even if the visual width was one pixel when the motor and visual widths were not equal. We also discuss the potential implications such as design for visually small targets.",
+    "container-title": "Proceedings of the 10th Nordic Conference on Human-Computer Interaction",
+    "issued": "2018/10/01",
+    "publisher": "ACM",
+    "keyword": "Difference in motor and visual widths; small target pointing; Fitts’ law; human performance",
+    "language": "en"
+  }
+]
