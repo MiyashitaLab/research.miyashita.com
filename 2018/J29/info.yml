@@ -1,0 +1,36 @@
+id: J29
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/2018/J29/J29.pdf'
+preprint_pdf_url: ""
+type: article-journal
+thumbnail_preview: ""
+title: 熱溶解積層方式3Dプリンタの造形工程の観察と介入を前提とした一時停止命令の再設計
+author:
+  - 高橋治輝
+  - 宮下芳明
+abstract: 'Fused deposition modeling (FDM) 3D printers basically have a function that can “pause” printing process. By using this function, users can monitor the situation of the process and intervene in the printing process. However, the behavior of a 3D printer after receiving a pause command is not designed well, if anything, this pause function even causes quality degradation. In this paper, we investigate the pause func tion and the behavior of four 3D printers, and present requirements how to stably pause printing process; fast response to the pause command, pause after printing one layer, and stable pause and resume printing. To meet these requirements, we implement a system that utilizes the way of communication of an FDM 3D printer. We demonstrate how the pause makes printing process efficient and what expression can be available with the pause. Finally, we discuss the pause in the printing process of FDM 3D printers.'
+container_title: ヒューマンインタフェース学会論文誌
+issued: 2018/02/25
+volume: '20'
+issue: '1'
+number: ""
+page: 135-146
+publisher: ヒューマンインタフェース学会
+copyright_holder: ヒューマンインタフェース学会
+tags: 3Dプリンタ;デジタルファブリケーション
+keywords: []
+language: ja
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: 'https://doi.org/10.11184/his.20.1_135'
+youtube_url: ""
+slideshare_url: ""
+thumbnail_url: 'https://i.gyazo.com/ff010218fea8b46321761d796f119a2a.png'
+links: []
+url: 'https://research.miyashita.com/2018/J29/'
+citation: '高橋治輝，宮下芳明． 熱溶解積層方式3Dプリンタの造形工程の観察と介入を前提とした一時停止命令の再設計，ヒューマンインタフェース学会論文誌，Vol.20，Issue.1，pp.135-146，2018．'
+ogp_image: 'https://research.miyashita.com/2018/J29/thumb.jpg'
+small_thumbnail: 'https://research.miyashita.com/2018/J29/thumb-small.jpg'
