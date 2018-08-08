@@ -1,0 +1,35 @@
+id: D198
+draft: false
+available_pdf: true
+pdf_url: 'https://research.miyashita.com/NaN/D198/D198.pdf'
+preprint_pdf_url: ""
+type: report
+thumbnail_preview: ""
+title: "\nドローン操縦におけるポインティングの評価\n"
+author:
+  - 山田開斗
+  - 薄羽大樹
+  - 宮下芳明
+abstract: 'ドローンを操縦する場合，例えば，ドローンレースでは，トンネルを潜り抜けるような操縦が要求 される.また，ドローンを用いた写真撮影では，ドローンを特定の場所まで運び，カメラの画角に被写体 を収める必要がある.これらの操縦には，ポインティング，ステアリング，クロッシングが含まれている と考えられる.本稿では，ドローンの操縦とポインティングに焦点を当て，ポインティングの要因である ターゲットまでの距離とターゲット幅がドローン操縦に影響を及ぼすかを調査し，フィッツの法則につい ても検証した.その結果，ターゲットまでの距離とターゲット幅がドローンの操縦時間とエラー率に影響 を与えることが示された.また，フィッツの法則への高い適合度は示されなかったが，さらなる検証のた めの実験設計を示した.'
+container_title: 研究報告ヒューマンコンピュータインタラクション（HCI）
+issued: ""
+volume: ""
+issue: ""
+number: ""
+page: ""
+publisher: ""
+copyright_holder: ""
+tags: ""
+keywords: []
+language: ""
+doi: ""
+issn: ""
+isbn: ""
+acmdl_url: ""
+external_url: ""
+youtube_url: ""
+slideshare_url: ""
+thumbnail_url: ""
+links: []
+url: 'https://research.miyashita.com/NaN/D198/'
+citation: "山田開斗，薄羽大樹，宮下芳明． \nドローン操縦におけるポインティングの評価\n，研究報告ヒューマンコンピュータインタラクション（HCI）．"
